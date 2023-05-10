@@ -1,3186 +1,3186 @@
-,frame_num,title,year,imdb_id,car
-0,0,Paradise Canyon,1935,26846,0
-1,24,Paradise Canyon,1935,26846,0
-2,48,Paradise Canyon,1935,26846,0
-3,72,Paradise Canyon,1935,26846,0
-4,96,Paradise Canyon,1935,26846,0
-5,120,Paradise Canyon,1935,26846,0
-6,144,Paradise Canyon,1935,26846,0
-7,168,Paradise Canyon,1935,26846,0
-8,192,Paradise Canyon,1935,26846,0
-9,216,Paradise Canyon,1935,26846,0
-10,240,Paradise Canyon,1935,26846,0
-11,264,Paradise Canyon,1935,26846,0
-12,288,Paradise Canyon,1935,26846,0
-13,312,Paradise Canyon,1935,26846,0
-14,336,Paradise Canyon,1935,26846,0
-15,360,Paradise Canyon,1935,26846,0
-16,384,Paradise Canyon,1935,26846,0
-17,408,Paradise Canyon,1935,26846,0
-18,432,Paradise Canyon,1935,26846,0
-19,456,Paradise Canyon,1935,26846,0
-20,480,Paradise Canyon,1935,26846,0
-21,504,Paradise Canyon,1935,26846,0
-22,528,Paradise Canyon,1935,26846,0
-23,552,Paradise Canyon,1935,26846,0
-24,576,Paradise Canyon,1935,26846,0
-25,600,Paradise Canyon,1935,26846,0
-26,624,Paradise Canyon,1935,26846,0
-27,648,Paradise Canyon,1935,26846,0
-28,672,Paradise Canyon,1935,26846,0
-29,696,Paradise Canyon,1935,26846,0
-30,720,Paradise Canyon,1935,26846,0
-31,744,Paradise Canyon,1935,26846,0
-32,768,Paradise Canyon,1935,26846,0
-33,792,Paradise Canyon,1935,26846,0
-34,816,Paradise Canyon,1935,26846,0
-35,840,Paradise Canyon,1935,26846,0
-36,864,Paradise Canyon,1935,26846,0
-37,888,Paradise Canyon,1935,26846,0
-38,912,Paradise Canyon,1935,26846,0
-39,936,Paradise Canyon,1935,26846,0
-40,960,Paradise Canyon,1935,26846,0
-41,984,Paradise Canyon,1935,26846,0
-42,1008,Paradise Canyon,1935,26846,0
-43,1032,Paradise Canyon,1935,26846,0
-44,1056,Paradise Canyon,1935,26846,0
-45,1080,Paradise Canyon,1935,26846,0
-46,1104,Paradise Canyon,1935,26846,0
-47,1128,Paradise Canyon,1935,26846,0
-48,1152,Paradise Canyon,1935,26846,0
-49,1176,Paradise Canyon,1935,26846,0
-50,1200,Paradise Canyon,1935,26846,0
-51,1224,Paradise Canyon,1935,26846,1
-52,1248,Paradise Canyon,1935,26846,1
-53,1272,Paradise Canyon,1935,26846,1
-54,1296,Paradise Canyon,1935,26846,1
-55,1320,Paradise Canyon,1935,26846,1
-56,1344,Paradise Canyon,1935,26846,0
-57,1368,Paradise Canyon,1935,26846,0
-58,1392,Paradise Canyon,1935,26846,0
-59,1416,Paradise Canyon,1935,26846,0
-60,1440,Paradise Canyon,1935,26846,0
-61,1464,Paradise Canyon,1935,26846,0
-62,1488,Paradise Canyon,1935,26846,0
-63,1512,Paradise Canyon,1935,26846,0
-64,1536,Paradise Canyon,1935,26846,0
-65,1560,Paradise Canyon,1935,26846,0
-66,1584,Paradise Canyon,1935,26846,0
-67,1608,Paradise Canyon,1935,26846,0
-68,1632,Paradise Canyon,1935,26846,0
-69,1656,Paradise Canyon,1935,26846,0
-70,1680,Paradise Canyon,1935,26846,0
-71,1704,Paradise Canyon,1935,26846,0
-72,1728,Paradise Canyon,1935,26846,0
-73,1752,Paradise Canyon,1935,26846,0
-74,1776,Paradise Canyon,1935,26846,0
-75,1800,Paradise Canyon,1935,26846,0
-76,1824,Paradise Canyon,1935,26846,0
-77,1848,Paradise Canyon,1935,26846,0
-78,1872,Paradise Canyon,1935,26846,0
-79,1896,Paradise Canyon,1935,26846,0
-80,1920,Paradise Canyon,1935,26846,0
-81,1944,Paradise Canyon,1935,26846,0
-82,1968,Paradise Canyon,1935,26846,0
-83,1992,Paradise Canyon,1935,26846,0
-84,2016,Paradise Canyon,1935,26846,0
-85,2040,Paradise Canyon,1935,26846,0
-86,2064,Paradise Canyon,1935,26846,0
-87,2088,Paradise Canyon,1935,26846,0
-88,2112,Paradise Canyon,1935,26846,0
-89,2136,Paradise Canyon,1935,26846,0
-90,2160,Paradise Canyon,1935,26846,0
-91,2184,Paradise Canyon,1935,26846,0
-92,2208,Paradise Canyon,1935,26846,0
-93,2232,Paradise Canyon,1935,26846,0
-94,2256,Paradise Canyon,1935,26846,0
-95,2280,Paradise Canyon,1935,26846,0
-96,2304,Paradise Canyon,1935,26846,0
-97,2328,Paradise Canyon,1935,26846,0
-98,2352,Paradise Canyon,1935,26846,0
-99,2376,Paradise Canyon,1935,26846,0
-100,2400,Paradise Canyon,1935,26846,0
-101,2424,Paradise Canyon,1935,26846,0
-102,2448,Paradise Canyon,1935,26846,0
-103,2472,Paradise Canyon,1935,26846,0
-104,2496,Paradise Canyon,1935,26846,0
-105,2520,Paradise Canyon,1935,26846,0
-106,2544,Paradise Canyon,1935,26846,0
-107,2568,Paradise Canyon,1935,26846,0
-108,2592,Paradise Canyon,1935,26846,0
-109,2616,Paradise Canyon,1935,26846,0
-110,2640,Paradise Canyon,1935,26846,0
-111,2664,Paradise Canyon,1935,26846,0
-112,2688,Paradise Canyon,1935,26846,0
-113,2712,Paradise Canyon,1935,26846,0
-114,2736,Paradise Canyon,1935,26846,0
-115,2760,Paradise Canyon,1935,26846,0
-116,2784,Paradise Canyon,1935,26846,0
-117,2808,Paradise Canyon,1935,26846,0
-118,2832,Paradise Canyon,1935,26846,0
-119,2856,Paradise Canyon,1935,26846,0
-120,2880,Paradise Canyon,1935,26846,0
-121,2904,Paradise Canyon,1935,26846,0
-122,2928,Paradise Canyon,1935,26846,0
-123,2952,Paradise Canyon,1935,26846,0
-124,2976,Paradise Canyon,1935,26846,0
-125,3000,Paradise Canyon,1935,26846,0
-126,3024,Paradise Canyon,1935,26846,0
-127,3048,Paradise Canyon,1935,26846,0
-128,3072,Paradise Canyon,1935,26846,0
-129,3096,Paradise Canyon,1935,26846,0
-130,3120,Paradise Canyon,1935,26846,0
-131,3144,Paradise Canyon,1935,26846,0
-132,3168,Paradise Canyon,1935,26846,0
-133,3192,Paradise Canyon,1935,26846,0
-134,3216,Paradise Canyon,1935,26846,0
-135,3240,Paradise Canyon,1935,26846,0
-136,3264,Paradise Canyon,1935,26846,0
-137,3288,Paradise Canyon,1935,26846,0
-138,3312,Paradise Canyon,1935,26846,0
-139,3336,Paradise Canyon,1935,26846,0
-140,3360,Paradise Canyon,1935,26846,1
-141,3384,Paradise Canyon,1935,26846,1
-142,3408,Paradise Canyon,1935,26846,1
-143,3432,Paradise Canyon,1935,26846,1
-144,3456,Paradise Canyon,1935,26846,0
-145,3480,Paradise Canyon,1935,26846,0
-146,3504,Paradise Canyon,1935,26846,0
-147,3528,Paradise Canyon,1935,26846,0
-148,3552,Paradise Canyon,1935,26846,0
-149,3576,Paradise Canyon,1935,26846,0
-150,3600,Paradise Canyon,1935,26846,0
-151,3624,Paradise Canyon,1935,26846,0
-152,3648,Paradise Canyon,1935,26846,0
-153,3672,Paradise Canyon,1935,26846,0
-154,3696,Paradise Canyon,1935,26846,0
-155,3720,Paradise Canyon,1935,26846,0
-156,3744,Paradise Canyon,1935,26846,0
-157,3768,Paradise Canyon,1935,26846,0
-158,3792,Paradise Canyon,1935,26846,0
-159,3816,Paradise Canyon,1935,26846,0
-160,3840,Paradise Canyon,1935,26846,0
-161,3864,Paradise Canyon,1935,26846,0
-162,3888,Paradise Canyon,1935,26846,0
-163,3912,Paradise Canyon,1935,26846,0
-164,3936,Paradise Canyon,1935,26846,0
-165,3960,Paradise Canyon,1935,26846,0
-166,3984,Paradise Canyon,1935,26846,0
-167,4008,Paradise Canyon,1935,26846,0
-168,4032,Paradise Canyon,1935,26846,0
-169,4056,Paradise Canyon,1935,26846,0
-170,4080,Paradise Canyon,1935,26846,0
-171,4104,Paradise Canyon,1935,26846,0
-172,4128,Paradise Canyon,1935,26846,0
-173,4152,Paradise Canyon,1935,26846,0
-174,4176,Paradise Canyon,1935,26846,0
-175,4200,Paradise Canyon,1935,26846,0
-176,4224,Paradise Canyon,1935,26846,0
-177,4248,Paradise Canyon,1935,26846,0
-178,4272,Paradise Canyon,1935,26846,0
-179,4296,Paradise Canyon,1935,26846,0
-180,4320,Paradise Canyon,1935,26846,0
-181,4344,Paradise Canyon,1935,26846,0
-182,4368,Paradise Canyon,1935,26846,0
-183,4392,Paradise Canyon,1935,26846,0
-184,4416,Paradise Canyon,1935,26846,0
-185,4440,Paradise Canyon,1935,26846,0
-186,4464,Paradise Canyon,1935,26846,1
-187,4488,Paradise Canyon,1935,26846,0
-188,4512,Paradise Canyon,1935,26846,0
-189,4536,Paradise Canyon,1935,26846,1
-190,4560,Paradise Canyon,1935,26846,0
-191,4584,Paradise Canyon,1935,26846,0
-192,4608,Paradise Canyon,1935,26846,0
-193,4632,Paradise Canyon,1935,26846,0
-194,4656,Paradise Canyon,1935,26846,0
-195,4680,Paradise Canyon,1935,26846,0
-196,4704,Paradise Canyon,1935,26846,0
-197,4728,Paradise Canyon,1935,26846,0
-198,4752,Paradise Canyon,1935,26846,0
-199,4776,Paradise Canyon,1935,26846,0
-200,4800,Paradise Canyon,1935,26846,0
-201,4824,Paradise Canyon,1935,26846,0
-202,4848,Paradise Canyon,1935,26846,0
-203,4872,Paradise Canyon,1935,26846,0
-204,4896,Paradise Canyon,1935,26846,0
-205,4920,Paradise Canyon,1935,26846,0
-206,4944,Paradise Canyon,1935,26846,0
-207,4968,Paradise Canyon,1935,26846,0
-208,4992,Paradise Canyon,1935,26846,0
-209,5016,Paradise Canyon,1935,26846,0
-210,5040,Paradise Canyon,1935,26846,0
-211,5064,Paradise Canyon,1935,26846,0
-212,5088,Paradise Canyon,1935,26846,0
-213,5112,Paradise Canyon,1935,26846,0
-214,5136,Paradise Canyon,1935,26846,0
-215,5160,Paradise Canyon,1935,26846,0
-216,5184,Paradise Canyon,1935,26846,0
-217,5208,Paradise Canyon,1935,26846,0
-218,5232,Paradise Canyon,1935,26846,0
-219,5256,Paradise Canyon,1935,26846,0
-220,5280,Paradise Canyon,1935,26846,0
-221,5304,Paradise Canyon,1935,26846,0
-222,5328,Paradise Canyon,1935,26846,0
-223,5352,Paradise Canyon,1935,26846,0
-224,5376,Paradise Canyon,1935,26846,0
-225,5400,Paradise Canyon,1935,26846,0
-226,5424,Paradise Canyon,1935,26846,0
-227,5448,Paradise Canyon,1935,26846,0
-228,5472,Paradise Canyon,1935,26846,0
-229,5496,Paradise Canyon,1935,26846,0
-230,5520,Paradise Canyon,1935,26846,0
-231,5544,Paradise Canyon,1935,26846,1
-232,5568,Paradise Canyon,1935,26846,1
-233,5592,Paradise Canyon,1935,26846,0
-234,5616,Paradise Canyon,1935,26846,0
-235,5640,Paradise Canyon,1935,26846,0
-236,5664,Paradise Canyon,1935,26846,0
-237,5688,Paradise Canyon,1935,26846,0
-238,5712,Paradise Canyon,1935,26846,0
-239,5736,Paradise Canyon,1935,26846,0
-240,5760,Paradise Canyon,1935,26846,0
-241,5784,Paradise Canyon,1935,26846,0
-242,5808,Paradise Canyon,1935,26846,0
-243,5832,Paradise Canyon,1935,26846,0
-244,5856,Paradise Canyon,1935,26846,0
-245,5880,Paradise Canyon,1935,26846,0
-246,5904,Paradise Canyon,1935,26846,0
-247,5928,Paradise Canyon,1935,26846,0
-248,5952,Paradise Canyon,1935,26846,1
-249,5976,Paradise Canyon,1935,26846,1
-250,6000,Paradise Canyon,1935,26846,0
-251,6024,Paradise Canyon,1935,26846,0
-252,6048,Paradise Canyon,1935,26846,0
-253,6072,Paradise Canyon,1935,26846,0
-254,6096,Paradise Canyon,1935,26846,0
-255,6120,Paradise Canyon,1935,26846,0
-256,6144,Paradise Canyon,1935,26846,0
-257,6168,Paradise Canyon,1935,26846,0
-258,6192,Paradise Canyon,1935,26846,0
-259,6216,Paradise Canyon,1935,26846,0
-260,6240,Paradise Canyon,1935,26846,0
-261,6264,Paradise Canyon,1935,26846,0
-262,6288,Paradise Canyon,1935,26846,0
-263,6312,Paradise Canyon,1935,26846,0
-264,6336,Paradise Canyon,1935,26846,0
-265,6360,Paradise Canyon,1935,26846,0
-266,6384,Paradise Canyon,1935,26846,0
-267,6408,Paradise Canyon,1935,26846,0
-268,6432,Paradise Canyon,1935,26846,0
-269,6456,Paradise Canyon,1935,26846,0
-270,6480,Paradise Canyon,1935,26846,0
-271,6504,Paradise Canyon,1935,26846,0
-272,6528,Paradise Canyon,1935,26846,0
-273,6552,Paradise Canyon,1935,26846,0
-274,6576,Paradise Canyon,1935,26846,0
-275,6600,Paradise Canyon,1935,26846,0
-276,6624,Paradise Canyon,1935,26846,0
-277,6648,Paradise Canyon,1935,26846,0
-278,6672,Paradise Canyon,1935,26846,0
-279,6696,Paradise Canyon,1935,26846,0
-280,6720,Paradise Canyon,1935,26846,1
-281,6744,Paradise Canyon,1935,26846,1
-282,6768,Paradise Canyon,1935,26846,1
-283,6792,Paradise Canyon,1935,26846,1
-284,6816,Paradise Canyon,1935,26846,0
-285,6840,Paradise Canyon,1935,26846,0
-286,6864,Paradise Canyon,1935,26846,1
-287,6888,Paradise Canyon,1935,26846,0
-288,6912,Paradise Canyon,1935,26846,0
-289,6936,Paradise Canyon,1935,26846,0
-290,6960,Paradise Canyon,1935,26846,1
-291,6984,Paradise Canyon,1935,26846,1
-292,7008,Paradise Canyon,1935,26846,1
-293,7032,Paradise Canyon,1935,26846,0
-294,7056,Paradise Canyon,1935,26846,1
-295,7080,Paradise Canyon,1935,26846,1
-296,7104,Paradise Canyon,1935,26846,0
-297,7128,Paradise Canyon,1935,26846,0
-298,7152,Paradise Canyon,1935,26846,0
-299,7176,Paradise Canyon,1935,26846,0
-300,7200,Paradise Canyon,1935,26846,0
-301,7224,Paradise Canyon,1935,26846,0
-302,7248,Paradise Canyon,1935,26846,0
-303,7272,Paradise Canyon,1935,26846,1
-304,7296,Paradise Canyon,1935,26846,0
-305,7320,Paradise Canyon,1935,26846,0
-306,7344,Paradise Canyon,1935,26846,1
-307,7368,Paradise Canyon,1935,26846,0
-308,7392,Paradise Canyon,1935,26846,0
-309,7416,Paradise Canyon,1935,26846,0
-310,7440,Paradise Canyon,1935,26846,0
-311,7464,Paradise Canyon,1935,26846,0
-312,7488,Paradise Canyon,1935,26846,1
-313,7512,Paradise Canyon,1935,26846,0
-314,7536,Paradise Canyon,1935,26846,1
-315,7560,Paradise Canyon,1935,26846,0
-316,7584,Paradise Canyon,1935,26846,0
-317,7608,Paradise Canyon,1935,26846,1
-318,7632,Paradise Canyon,1935,26846,0
-319,7656,Paradise Canyon,1935,26846,0
-320,7680,Paradise Canyon,1935,26846,0
-321,7704,Paradise Canyon,1935,26846,0
-322,7728,Paradise Canyon,1935,26846,0
-323,7752,Paradise Canyon,1935,26846,0
-324,7776,Paradise Canyon,1935,26846,0
-325,7800,Paradise Canyon,1935,26846,0
-326,7824,Paradise Canyon,1935,26846,0
-327,7848,Paradise Canyon,1935,26846,0
-328,7872,Paradise Canyon,1935,26846,0
-329,7896,Paradise Canyon,1935,26846,0
-330,7920,Paradise Canyon,1935,26846,0
-331,7944,Paradise Canyon,1935,26846,0
-332,7968,Paradise Canyon,1935,26846,0
-333,7992,Paradise Canyon,1935,26846,0
-334,8016,Paradise Canyon,1935,26846,0
-335,8040,Paradise Canyon,1935,26846,0
-336,8064,Paradise Canyon,1935,26846,0
-337,8088,Paradise Canyon,1935,26846,0
-338,8112,Paradise Canyon,1935,26846,0
-339,8136,Paradise Canyon,1935,26846,0
-340,8160,Paradise Canyon,1935,26846,0
-341,8184,Paradise Canyon,1935,26846,0
-342,8208,Paradise Canyon,1935,26846,0
-343,8232,Paradise Canyon,1935,26846,0
-344,8256,Paradise Canyon,1935,26846,0
-345,8280,Paradise Canyon,1935,26846,1
-346,8304,Paradise Canyon,1935,26846,0
-347,8328,Paradise Canyon,1935,26846,0
-348,8352,Paradise Canyon,1935,26846,0
-349,8376,Paradise Canyon,1935,26846,0
-350,8400,Paradise Canyon,1935,26846,0
-351,8424,Paradise Canyon,1935,26846,0
-352,8448,Paradise Canyon,1935,26846,0
-353,8472,Paradise Canyon,1935,26846,1
-354,8496,Paradise Canyon,1935,26846,1
-355,8520,Paradise Canyon,1935,26846,1
-356,8544,Paradise Canyon,1935,26846,1
-357,8568,Paradise Canyon,1935,26846,0
-358,8592,Paradise Canyon,1935,26846,0
-359,8616,Paradise Canyon,1935,26846,1
-360,8640,Paradise Canyon,1935,26846,0
-361,8664,Paradise Canyon,1935,26846,0
-362,8688,Paradise Canyon,1935,26846,1
-363,8712,Paradise Canyon,1935,26846,1
-364,8736,Paradise Canyon,1935,26846,1
-365,8760,Paradise Canyon,1935,26846,0
-366,8784,Paradise Canyon,1935,26846,0
-367,8808,Paradise Canyon,1935,26846,1
-368,8832,Paradise Canyon,1935,26846,0
-369,8856,Paradise Canyon,1935,26846,0
-370,8880,Paradise Canyon,1935,26846,1
-371,8904,Paradise Canyon,1935,26846,1
-372,8928,Paradise Canyon,1935,26846,1
-373,8952,Paradise Canyon,1935,26846,1
-374,8976,Paradise Canyon,1935,26846,1
-375,9000,Paradise Canyon,1935,26846,0
-376,9024,Paradise Canyon,1935,26846,0
-377,9048,Paradise Canyon,1935,26846,0
-378,9072,Paradise Canyon,1935,26846,0
-379,9096,Paradise Canyon,1935,26846,0
-380,9120,Paradise Canyon,1935,26846,0
-381,9144,Paradise Canyon,1935,26846,0
-382,9168,Paradise Canyon,1935,26846,0
-383,9192,Paradise Canyon,1935,26846,0
-384,9216,Paradise Canyon,1935,26846,0
-385,9240,Paradise Canyon,1935,26846,0
-386,9264,Paradise Canyon,1935,26846,0
-387,9288,Paradise Canyon,1935,26846,0
-388,9312,Paradise Canyon,1935,26846,0
-389,9336,Paradise Canyon,1935,26846,0
-390,9360,Paradise Canyon,1935,26846,0
-391,9384,Paradise Canyon,1935,26846,0
-392,9408,Paradise Canyon,1935,26846,0
-393,9432,Paradise Canyon,1935,26846,0
-394,9456,Paradise Canyon,1935,26846,0
-395,9480,Paradise Canyon,1935,26846,0
-396,9504,Paradise Canyon,1935,26846,0
-397,9528,Paradise Canyon,1935,26846,0
-398,9552,Paradise Canyon,1935,26846,0
-399,9576,Paradise Canyon,1935,26846,0
-400,9600,Paradise Canyon,1935,26846,0
-401,9624,Paradise Canyon,1935,26846,0
-402,9648,Paradise Canyon,1935,26846,0
-403,9672,Paradise Canyon,1935,26846,0
-404,9696,Paradise Canyon,1935,26846,0
-405,9720,Paradise Canyon,1935,26846,0
-406,9744,Paradise Canyon,1935,26846,0
-407,9768,Paradise Canyon,1935,26846,1
-408,9792,Paradise Canyon,1935,26846,1
-409,9816,Paradise Canyon,1935,26846,0
-410,9840,Paradise Canyon,1935,26846,0
-411,9864,Paradise Canyon,1935,26846,0
-412,9888,Paradise Canyon,1935,26846,0
-413,9912,Paradise Canyon,1935,26846,0
-414,9936,Paradise Canyon,1935,26846,1
-415,9960,Paradise Canyon,1935,26846,1
-416,9984,Paradise Canyon,1935,26846,0
-417,10008,Paradise Canyon,1935,26846,0
-418,10032,Paradise Canyon,1935,26846,1
-419,10056,Paradise Canyon,1935,26846,1
-420,10080,Paradise Canyon,1935,26846,0
-421,10104,Paradise Canyon,1935,26846,1
-422,10128,Paradise Canyon,1935,26846,0
-423,10152,Paradise Canyon,1935,26846,0
-424,10176,Paradise Canyon,1935,26846,1
-425,10200,Paradise Canyon,1935,26846,0
-426,10224,Paradise Canyon,1935,26846,0
-427,10248,Paradise Canyon,1935,26846,0
-428,10272,Paradise Canyon,1935,26846,0
-429,10296,Paradise Canyon,1935,26846,0
-430,10320,Paradise Canyon,1935,26846,1
-431,10344,Paradise Canyon,1935,26846,0
-432,10368,Paradise Canyon,1935,26846,0
-433,10392,Paradise Canyon,1935,26846,0
-434,10416,Paradise Canyon,1935,26846,1
-435,10440,Paradise Canyon,1935,26846,0
-436,10464,Paradise Canyon,1935,26846,0
-437,10488,Paradise Canyon,1935,26846,0
-438,10512,Paradise Canyon,1935,26846,0
-439,10536,Paradise Canyon,1935,26846,0
-440,10560,Paradise Canyon,1935,26846,0
-441,10584,Paradise Canyon,1935,26846,0
-442,10608,Paradise Canyon,1935,26846,1
-443,10632,Paradise Canyon,1935,26846,0
-444,10656,Paradise Canyon,1935,26846,0
-445,10680,Paradise Canyon,1935,26846,0
-446,10704,Paradise Canyon,1935,26846,0
-447,10728,Paradise Canyon,1935,26846,0
-448,10752,Paradise Canyon,1935,26846,0
-449,10776,Paradise Canyon,1935,26846,0
-450,10800,Paradise Canyon,1935,26846,0
-451,10824,Paradise Canyon,1935,26846,0
-452,10848,Paradise Canyon,1935,26846,0
-453,10872,Paradise Canyon,1935,26846,1
-454,10896,Paradise Canyon,1935,26846,0
-455,10920,Paradise Canyon,1935,26846,0
-456,10944,Paradise Canyon,1935,26846,1
-457,10968,Paradise Canyon,1935,26846,0
-458,10992,Paradise Canyon,1935,26846,0
-459,11016,Paradise Canyon,1935,26846,1
-460,11040,Paradise Canyon,1935,26846,1
-461,11064,Paradise Canyon,1935,26846,0
-462,11088,Paradise Canyon,1935,26846,1
-463,11112,Paradise Canyon,1935,26846,0
-464,11136,Paradise Canyon,1935,26846,0
-465,11160,Paradise Canyon,1935,26846,0
-466,11184,Paradise Canyon,1935,26846,0
-467,11208,Paradise Canyon,1935,26846,0
-468,11232,Paradise Canyon,1935,26846,0
-469,11256,Paradise Canyon,1935,26846,0
-470,11280,Paradise Canyon,1935,26846,0
-471,11304,Paradise Canyon,1935,26846,0
-472,11328,Paradise Canyon,1935,26846,0
-473,11352,Paradise Canyon,1935,26846,0
-474,11376,Paradise Canyon,1935,26846,0
-475,11400,Paradise Canyon,1935,26846,0
-476,11424,Paradise Canyon,1935,26846,0
-477,11448,Paradise Canyon,1935,26846,0
-478,11472,Paradise Canyon,1935,26846,0
-479,11496,Paradise Canyon,1935,26846,0
-480,11520,Paradise Canyon,1935,26846,0
-481,11544,Paradise Canyon,1935,26846,0
-482,11568,Paradise Canyon,1935,26846,0
-483,11592,Paradise Canyon,1935,26846,0
-484,11616,Paradise Canyon,1935,26846,0
-485,11640,Paradise Canyon,1935,26846,1
-486,11664,Paradise Canyon,1935,26846,0
-487,11688,Paradise Canyon,1935,26846,0
-488,11712,Paradise Canyon,1935,26846,0
-489,11736,Paradise Canyon,1935,26846,0
-490,11760,Paradise Canyon,1935,26846,0
-491,11784,Paradise Canyon,1935,26846,0
-492,11808,Paradise Canyon,1935,26846,0
-493,11832,Paradise Canyon,1935,26846,0
-494,11856,Paradise Canyon,1935,26846,0
-495,11880,Paradise Canyon,1935,26846,0
-496,11904,Paradise Canyon,1935,26846,0
-497,11928,Paradise Canyon,1935,26846,0
-498,11952,Paradise Canyon,1935,26846,1
-499,11976,Paradise Canyon,1935,26846,0
-500,12000,Paradise Canyon,1935,26846,0
-501,12024,Paradise Canyon,1935,26846,0
-502,12048,Paradise Canyon,1935,26846,1
-503,12072,Paradise Canyon,1935,26846,1
-504,12096,Paradise Canyon,1935,26846,1
-505,12120,Paradise Canyon,1935,26846,1
-506,12144,Paradise Canyon,1935,26846,1
-507,12168,Paradise Canyon,1935,26846,0
-508,12192,Paradise Canyon,1935,26846,0
-509,12216,Paradise Canyon,1935,26846,0
-510,12240,Paradise Canyon,1935,26846,0
-511,12264,Paradise Canyon,1935,26846,0
-512,12288,Paradise Canyon,1935,26846,0
-513,12312,Paradise Canyon,1935,26846,0
-514,12336,Paradise Canyon,1935,26846,0
-515,12360,Paradise Canyon,1935,26846,0
-516,12384,Paradise Canyon,1935,26846,0
-517,12408,Paradise Canyon,1935,26846,0
-518,12432,Paradise Canyon,1935,26846,0
-519,12456,Paradise Canyon,1935,26846,0
-520,12480,Paradise Canyon,1935,26846,0
-521,12504,Paradise Canyon,1935,26846,0
-522,12528,Paradise Canyon,1935,26846,0
-523,12552,Paradise Canyon,1935,26846,0
-524,12576,Paradise Canyon,1935,26846,0
-525,12600,Paradise Canyon,1935,26846,0
-526,12624,Paradise Canyon,1935,26846,0
-527,12648,Paradise Canyon,1935,26846,0
-528,12672,Paradise Canyon,1935,26846,0
-529,12696,Paradise Canyon,1935,26846,0
-530,12720,Paradise Canyon,1935,26846,0
-531,12744,Paradise Canyon,1935,26846,0
-532,12768,Paradise Canyon,1935,26846,0
-533,12792,Paradise Canyon,1935,26846,0
-534,12816,Paradise Canyon,1935,26846,0
-535,12840,Paradise Canyon,1935,26846,0
-536,12864,Paradise Canyon,1935,26846,0
-537,12888,Paradise Canyon,1935,26846,0
-538,12912,Paradise Canyon,1935,26846,0
-539,12936,Paradise Canyon,1935,26846,0
-540,12960,Paradise Canyon,1935,26846,0
-541,12984,Paradise Canyon,1935,26846,0
-542,13008,Paradise Canyon,1935,26846,0
-543,13032,Paradise Canyon,1935,26846,0
-544,13056,Paradise Canyon,1935,26846,0
-545,13080,Paradise Canyon,1935,26846,0
-546,13104,Paradise Canyon,1935,26846,0
-547,13128,Paradise Canyon,1935,26846,0
-548,13152,Paradise Canyon,1935,26846,1
-549,13176,Paradise Canyon,1935,26846,1
-550,13200,Paradise Canyon,1935,26846,1
-551,13224,Paradise Canyon,1935,26846,0
-552,13248,Paradise Canyon,1935,26846,0
-553,13272,Paradise Canyon,1935,26846,0
-554,13296,Paradise Canyon,1935,26846,0
-555,13320,Paradise Canyon,1935,26846,1
-556,13344,Paradise Canyon,1935,26846,0
-557,13368,Paradise Canyon,1935,26846,0
-558,13392,Paradise Canyon,1935,26846,0
-559,13416,Paradise Canyon,1935,26846,0
-560,13440,Paradise Canyon,1935,26846,0
-561,13464,Paradise Canyon,1935,26846,0
-562,13488,Paradise Canyon,1935,26846,0
-563,13512,Paradise Canyon,1935,26846,1
-564,13536,Paradise Canyon,1935,26846,1
-565,13560,Paradise Canyon,1935,26846,0
-566,13584,Paradise Canyon,1935,26846,0
-567,13608,Paradise Canyon,1935,26846,0
-568,13632,Paradise Canyon,1935,26846,0
-569,13656,Paradise Canyon,1935,26846,1
-570,13680,Paradise Canyon,1935,26846,0
-571,13704,Paradise Canyon,1935,26846,0
-572,13728,Paradise Canyon,1935,26846,0
-573,13752,Paradise Canyon,1935,26846,0
-574,13776,Paradise Canyon,1935,26846,0
-575,13800,Paradise Canyon,1935,26846,0
-576,13824,Paradise Canyon,1935,26846,0
-577,13848,Paradise Canyon,1935,26846,0
-578,13872,Paradise Canyon,1935,26846,0
-579,13896,Paradise Canyon,1935,26846,0
-580,13920,Paradise Canyon,1935,26846,0
-581,13944,Paradise Canyon,1935,26846,0
-582,13968,Paradise Canyon,1935,26846,0
-583,13992,Paradise Canyon,1935,26846,1
-584,14016,Paradise Canyon,1935,26846,0
-585,14040,Paradise Canyon,1935,26846,0
-586,14064,Paradise Canyon,1935,26846,0
-587,14088,Paradise Canyon,1935,26846,1
-588,14112,Paradise Canyon,1935,26846,1
-589,14136,Paradise Canyon,1935,26846,1
-590,14160,Paradise Canyon,1935,26846,0
-591,14184,Paradise Canyon,1935,26846,0
-592,14208,Paradise Canyon,1935,26846,0
-593,14232,Paradise Canyon,1935,26846,0
-594,14256,Paradise Canyon,1935,26846,0
-595,14280,Paradise Canyon,1935,26846,0
-596,14304,Paradise Canyon,1935,26846,0
-597,14328,Paradise Canyon,1935,26846,0
-598,14352,Paradise Canyon,1935,26846,0
-599,14376,Paradise Canyon,1935,26846,0
-600,14400,Paradise Canyon,1935,26846,0
-601,14424,Paradise Canyon,1935,26846,0
-602,14448,Paradise Canyon,1935,26846,1
-603,14472,Paradise Canyon,1935,26846,0
-604,14496,Paradise Canyon,1935,26846,0
-605,14520,Paradise Canyon,1935,26846,0
-606,14544,Paradise Canyon,1935,26846,0
-607,14568,Paradise Canyon,1935,26846,0
-608,14592,Paradise Canyon,1935,26846,0
-609,14616,Paradise Canyon,1935,26846,0
-610,14640,Paradise Canyon,1935,26846,0
-611,14664,Paradise Canyon,1935,26846,0
-612,14688,Paradise Canyon,1935,26846,0
-613,14712,Paradise Canyon,1935,26846,0
-614,14736,Paradise Canyon,1935,26846,0
-615,14760,Paradise Canyon,1935,26846,0
-616,14784,Paradise Canyon,1935,26846,0
-617,14808,Paradise Canyon,1935,26846,0
-618,14832,Paradise Canyon,1935,26846,0
-619,14856,Paradise Canyon,1935,26846,0
-620,14880,Paradise Canyon,1935,26846,0
-621,14904,Paradise Canyon,1935,26846,0
-622,14928,Paradise Canyon,1935,26846,0
-623,14952,Paradise Canyon,1935,26846,0
-624,14976,Paradise Canyon,1935,26846,0
-625,15000,Paradise Canyon,1935,26846,0
-626,15024,Paradise Canyon,1935,26846,0
-627,15048,Paradise Canyon,1935,26846,0
-628,15072,Paradise Canyon,1935,26846,0
-629,15096,Paradise Canyon,1935,26846,0
-630,15120,Paradise Canyon,1935,26846,0
-631,15144,Paradise Canyon,1935,26846,0
-632,15168,Paradise Canyon,1935,26846,0
-633,15192,Paradise Canyon,1935,26846,0
-634,15216,Paradise Canyon,1935,26846,0
-635,15240,Paradise Canyon,1935,26846,0
-636,15264,Paradise Canyon,1935,26846,0
-637,15288,Paradise Canyon,1935,26846,0
-638,15312,Paradise Canyon,1935,26846,0
-639,15336,Paradise Canyon,1935,26846,0
-640,15360,Paradise Canyon,1935,26846,0
-641,15384,Paradise Canyon,1935,26846,0
-642,15408,Paradise Canyon,1935,26846,0
-643,15432,Paradise Canyon,1935,26846,0
-644,15456,Paradise Canyon,1935,26846,0
-645,15480,Paradise Canyon,1935,26846,0
-646,15504,Paradise Canyon,1935,26846,0
-647,15528,Paradise Canyon,1935,26846,0
-648,15552,Paradise Canyon,1935,26846,0
-649,15576,Paradise Canyon,1935,26846,0
-650,15600,Paradise Canyon,1935,26846,0
-651,15624,Paradise Canyon,1935,26846,1
-652,15648,Paradise Canyon,1935,26846,0
-653,15672,Paradise Canyon,1935,26846,0
-654,15696,Paradise Canyon,1935,26846,0
-655,15720,Paradise Canyon,1935,26846,0
-656,15744,Paradise Canyon,1935,26846,0
-657,15768,Paradise Canyon,1935,26846,0
-658,15792,Paradise Canyon,1935,26846,0
-659,15816,Paradise Canyon,1935,26846,0
-660,15840,Paradise Canyon,1935,26846,0
-661,15864,Paradise Canyon,1935,26846,0
-662,15888,Paradise Canyon,1935,26846,1
-663,15912,Paradise Canyon,1935,26846,0
-664,15936,Paradise Canyon,1935,26846,0
-665,15960,Paradise Canyon,1935,26846,0
-666,15984,Paradise Canyon,1935,26846,0
-667,16008,Paradise Canyon,1935,26846,0
-668,16032,Paradise Canyon,1935,26846,0
-669,16056,Paradise Canyon,1935,26846,0
-670,16080,Paradise Canyon,1935,26846,0
-671,16104,Paradise Canyon,1935,26846,0
-672,16128,Paradise Canyon,1935,26846,0
-673,16152,Paradise Canyon,1935,26846,0
-674,16176,Paradise Canyon,1935,26846,0
-675,16200,Paradise Canyon,1935,26846,1
-676,16224,Paradise Canyon,1935,26846,0
-677,16248,Paradise Canyon,1935,26846,0
-678,16272,Paradise Canyon,1935,26846,0
-679,16296,Paradise Canyon,1935,26846,0
-680,16320,Paradise Canyon,1935,26846,0
-681,16344,Paradise Canyon,1935,26846,0
-682,16368,Paradise Canyon,1935,26846,1
-683,16392,Paradise Canyon,1935,26846,0
-684,16416,Paradise Canyon,1935,26846,0
-685,16440,Paradise Canyon,1935,26846,0
-686,16464,Paradise Canyon,1935,26846,0
-687,16488,Paradise Canyon,1935,26846,0
-688,16512,Paradise Canyon,1935,26846,0
-689,16536,Paradise Canyon,1935,26846,0
-690,16560,Paradise Canyon,1935,26846,0
-691,16584,Paradise Canyon,1935,26846,0
-692,16608,Paradise Canyon,1935,26846,0
-693,16632,Paradise Canyon,1935,26846,0
-694,16656,Paradise Canyon,1935,26846,0
-695,16680,Paradise Canyon,1935,26846,0
-696,16704,Paradise Canyon,1935,26846,0
-697,16728,Paradise Canyon,1935,26846,0
-698,16752,Paradise Canyon,1935,26846,0
-699,16776,Paradise Canyon,1935,26846,0
-700,16800,Paradise Canyon,1935,26846,0
-701,16824,Paradise Canyon,1935,26846,0
-702,16848,Paradise Canyon,1935,26846,0
-703,16872,Paradise Canyon,1935,26846,0
-704,16896,Paradise Canyon,1935,26846,0
-705,16920,Paradise Canyon,1935,26846,0
-706,16944,Paradise Canyon,1935,26846,0
-707,16968,Paradise Canyon,1935,26846,0
-708,16992,Paradise Canyon,1935,26846,1
-709,17016,Paradise Canyon,1935,26846,0
-710,17040,Paradise Canyon,1935,26846,0
-711,17064,Paradise Canyon,1935,26846,0
-712,17088,Paradise Canyon,1935,26846,1
-713,17112,Paradise Canyon,1935,26846,0
-714,17136,Paradise Canyon,1935,26846,0
-715,17160,Paradise Canyon,1935,26846,0
-716,17184,Paradise Canyon,1935,26846,0
-717,17208,Paradise Canyon,1935,26846,0
-718,17232,Paradise Canyon,1935,26846,0
-719,17256,Paradise Canyon,1935,26846,0
-720,17280,Paradise Canyon,1935,26846,1
-721,17304,Paradise Canyon,1935,26846,1
-722,17328,Paradise Canyon,1935,26846,1
-723,17352,Paradise Canyon,1935,26846,0
-724,17376,Paradise Canyon,1935,26846,0
-725,17400,Paradise Canyon,1935,26846,0
-726,17424,Paradise Canyon,1935,26846,1
-727,17448,Paradise Canyon,1935,26846,1
-728,17472,Paradise Canyon,1935,26846,0
-729,17496,Paradise Canyon,1935,26846,0
-730,17520,Paradise Canyon,1935,26846,0
-731,17544,Paradise Canyon,1935,26846,0
-732,17568,Paradise Canyon,1935,26846,0
-733,17592,Paradise Canyon,1935,26846,0
-734,17616,Paradise Canyon,1935,26846,0
-735,17640,Paradise Canyon,1935,26846,0
-736,17664,Paradise Canyon,1935,26846,0
-737,17688,Paradise Canyon,1935,26846,0
-738,17712,Paradise Canyon,1935,26846,0
-739,17736,Paradise Canyon,1935,26846,0
-740,17760,Paradise Canyon,1935,26846,0
-741,17784,Paradise Canyon,1935,26846,0
-742,17808,Paradise Canyon,1935,26846,0
-743,17832,Paradise Canyon,1935,26846,0
-744,17856,Paradise Canyon,1935,26846,0
-745,17880,Paradise Canyon,1935,26846,0
-746,17904,Paradise Canyon,1935,26846,0
-747,17928,Paradise Canyon,1935,26846,0
-748,17952,Paradise Canyon,1935,26846,0
-749,17976,Paradise Canyon,1935,26846,0
-750,18000,Paradise Canyon,1935,26846,0
-751,18024,Paradise Canyon,1935,26846,0
-752,18048,Paradise Canyon,1935,26846,0
-753,18072,Paradise Canyon,1935,26846,0
-754,18096,Paradise Canyon,1935,26846,0
-755,18120,Paradise Canyon,1935,26846,0
-756,18144,Paradise Canyon,1935,26846,0
-757,18168,Paradise Canyon,1935,26846,0
-758,18192,Paradise Canyon,1935,26846,0
-759,18216,Paradise Canyon,1935,26846,0
-760,18240,Paradise Canyon,1935,26846,0
-761,18264,Paradise Canyon,1935,26846,0
-762,18288,Paradise Canyon,1935,26846,0
-763,18312,Paradise Canyon,1935,26846,0
-764,18336,Paradise Canyon,1935,26846,0
-765,18360,Paradise Canyon,1935,26846,0
-766,18384,Paradise Canyon,1935,26846,0
-767,18408,Paradise Canyon,1935,26846,0
-768,18432,Paradise Canyon,1935,26846,0
-769,18456,Paradise Canyon,1935,26846,0
-770,18480,Paradise Canyon,1935,26846,0
-771,18504,Paradise Canyon,1935,26846,1
-772,18528,Paradise Canyon,1935,26846,1
-773,18552,Paradise Canyon,1935,26846,0
-774,18576,Paradise Canyon,1935,26846,1
-775,18600,Paradise Canyon,1935,26846,1
-776,18624,Paradise Canyon,1935,26846,1
-777,18648,Paradise Canyon,1935,26846,1
-778,18672,Paradise Canyon,1935,26846,0
-779,18696,Paradise Canyon,1935,26846,0
-780,18720,Paradise Canyon,1935,26846,1
-781,18744,Paradise Canyon,1935,26846,1
-782,18768,Paradise Canyon,1935,26846,0
-783,18792,Paradise Canyon,1935,26846,0
-784,18816,Paradise Canyon,1935,26846,0
-785,18840,Paradise Canyon,1935,26846,0
-786,18864,Paradise Canyon,1935,26846,0
-787,18888,Paradise Canyon,1935,26846,0
-788,18912,Paradise Canyon,1935,26846,0
-789,18936,Paradise Canyon,1935,26846,0
-790,18960,Paradise Canyon,1935,26846,0
-791,18984,Paradise Canyon,1935,26846,0
-792,19008,Paradise Canyon,1935,26846,0
-793,19032,Paradise Canyon,1935,26846,0
-794,19056,Paradise Canyon,1935,26846,0
-795,19080,Paradise Canyon,1935,26846,0
-796,19104,Paradise Canyon,1935,26846,0
-797,19128,Paradise Canyon,1935,26846,0
-798,19152,Paradise Canyon,1935,26846,0
-799,19176,Paradise Canyon,1935,26846,0
-800,19200,Paradise Canyon,1935,26846,0
-801,19224,Paradise Canyon,1935,26846,0
-802,19248,Paradise Canyon,1935,26846,1
-803,19272,Paradise Canyon,1935,26846,0
-804,19296,Paradise Canyon,1935,26846,0
-805,19320,Paradise Canyon,1935,26846,0
-806,19344,Paradise Canyon,1935,26846,0
-807,19368,Paradise Canyon,1935,26846,0
-808,19392,Paradise Canyon,1935,26846,0
-809,19416,Paradise Canyon,1935,26846,0
-810,19440,Paradise Canyon,1935,26846,0
-811,19464,Paradise Canyon,1935,26846,0
-812,19488,Paradise Canyon,1935,26846,0
-813,19512,Paradise Canyon,1935,26846,0
-814,19536,Paradise Canyon,1935,26846,0
-815,19560,Paradise Canyon,1935,26846,0
-816,19584,Paradise Canyon,1935,26846,0
-817,19608,Paradise Canyon,1935,26846,0
-818,19632,Paradise Canyon,1935,26846,0
-819,19656,Paradise Canyon,1935,26846,0
-820,19680,Paradise Canyon,1935,26846,0
-821,19704,Paradise Canyon,1935,26846,0
-822,19728,Paradise Canyon,1935,26846,0
-823,19752,Paradise Canyon,1935,26846,0
-824,19776,Paradise Canyon,1935,26846,0
-825,19800,Paradise Canyon,1935,26846,0
-826,19824,Paradise Canyon,1935,26846,0
-827,19848,Paradise Canyon,1935,26846,0
-828,19872,Paradise Canyon,1935,26846,0
-829,19896,Paradise Canyon,1935,26846,0
-830,19920,Paradise Canyon,1935,26846,0
-831,19944,Paradise Canyon,1935,26846,0
-832,19968,Paradise Canyon,1935,26846,0
-833,19992,Paradise Canyon,1935,26846,0
-834,20016,Paradise Canyon,1935,26846,0
-835,20040,Paradise Canyon,1935,26846,0
-836,20064,Paradise Canyon,1935,26846,0
-837,20088,Paradise Canyon,1935,26846,0
-838,20112,Paradise Canyon,1935,26846,0
-839,20136,Paradise Canyon,1935,26846,0
-840,20160,Paradise Canyon,1935,26846,0
-841,20184,Paradise Canyon,1935,26846,0
-842,20208,Paradise Canyon,1935,26846,0
-843,20232,Paradise Canyon,1935,26846,0
-844,20256,Paradise Canyon,1935,26846,0
-845,20280,Paradise Canyon,1935,26846,0
-846,20304,Paradise Canyon,1935,26846,0
-847,20328,Paradise Canyon,1935,26846,0
-848,20352,Paradise Canyon,1935,26846,0
-849,20376,Paradise Canyon,1935,26846,0
-850,20400,Paradise Canyon,1935,26846,0
-851,20424,Paradise Canyon,1935,26846,0
-852,20448,Paradise Canyon,1935,26846,0
-853,20472,Paradise Canyon,1935,26846,0
-854,20496,Paradise Canyon,1935,26846,0
-855,20520,Paradise Canyon,1935,26846,0
-856,20544,Paradise Canyon,1935,26846,0
-857,20568,Paradise Canyon,1935,26846,0
-858,20592,Paradise Canyon,1935,26846,0
-859,20616,Paradise Canyon,1935,26846,0
-860,20640,Paradise Canyon,1935,26846,0
-861,20664,Paradise Canyon,1935,26846,0
-862,20688,Paradise Canyon,1935,26846,0
-863,20712,Paradise Canyon,1935,26846,0
-864,20736,Paradise Canyon,1935,26846,0
-865,20760,Paradise Canyon,1935,26846,0
-866,20784,Paradise Canyon,1935,26846,0
-867,20808,Paradise Canyon,1935,26846,0
-868,20832,Paradise Canyon,1935,26846,0
-869,20856,Paradise Canyon,1935,26846,0
-870,20880,Paradise Canyon,1935,26846,0
-871,20904,Paradise Canyon,1935,26846,0
-872,20928,Paradise Canyon,1935,26846,0
-873,20952,Paradise Canyon,1935,26846,0
-874,20976,Paradise Canyon,1935,26846,0
-875,21000,Paradise Canyon,1935,26846,1
-876,21024,Paradise Canyon,1935,26846,0
-877,21048,Paradise Canyon,1935,26846,0
-878,21072,Paradise Canyon,1935,26846,0
-879,21096,Paradise Canyon,1935,26846,0
-880,21120,Paradise Canyon,1935,26846,0
-881,21144,Paradise Canyon,1935,26846,0
-882,21168,Paradise Canyon,1935,26846,0
-883,21192,Paradise Canyon,1935,26846,0
-884,21216,Paradise Canyon,1935,26846,0
-885,21240,Paradise Canyon,1935,26846,0
-886,21264,Paradise Canyon,1935,26846,0
-887,21288,Paradise Canyon,1935,26846,0
-888,21312,Paradise Canyon,1935,26846,0
-889,21336,Paradise Canyon,1935,26846,0
-890,21360,Paradise Canyon,1935,26846,0
-891,21384,Paradise Canyon,1935,26846,0
-892,21408,Paradise Canyon,1935,26846,0
-893,21432,Paradise Canyon,1935,26846,0
-894,21456,Paradise Canyon,1935,26846,0
-895,21480,Paradise Canyon,1935,26846,0
-896,21504,Paradise Canyon,1935,26846,0
-897,21528,Paradise Canyon,1935,26846,0
-898,21552,Paradise Canyon,1935,26846,0
-899,21576,Paradise Canyon,1935,26846,0
-900,21600,Paradise Canyon,1935,26846,0
-901,21624,Paradise Canyon,1935,26846,0
-902,21648,Paradise Canyon,1935,26846,0
-903,21672,Paradise Canyon,1935,26846,0
-904,21696,Paradise Canyon,1935,26846,0
-905,21720,Paradise Canyon,1935,26846,0
-906,21744,Paradise Canyon,1935,26846,0
-907,21768,Paradise Canyon,1935,26846,0
-908,21792,Paradise Canyon,1935,26846,0
-909,21816,Paradise Canyon,1935,26846,0
-910,21840,Paradise Canyon,1935,26846,0
-911,21864,Paradise Canyon,1935,26846,0
-912,21888,Paradise Canyon,1935,26846,0
-913,21912,Paradise Canyon,1935,26846,0
-914,21936,Paradise Canyon,1935,26846,0
-915,21960,Paradise Canyon,1935,26846,0
-916,21984,Paradise Canyon,1935,26846,0
-917,22008,Paradise Canyon,1935,26846,0
-918,22032,Paradise Canyon,1935,26846,0
-919,22056,Paradise Canyon,1935,26846,0
-920,22080,Paradise Canyon,1935,26846,0
-921,22104,Paradise Canyon,1935,26846,0
-922,22128,Paradise Canyon,1935,26846,0
-923,22152,Paradise Canyon,1935,26846,0
-924,22176,Paradise Canyon,1935,26846,0
-925,22200,Paradise Canyon,1935,26846,0
-926,22224,Paradise Canyon,1935,26846,0
-927,22248,Paradise Canyon,1935,26846,0
-928,22272,Paradise Canyon,1935,26846,0
-929,22296,Paradise Canyon,1935,26846,0
-930,22320,Paradise Canyon,1935,26846,0
-931,22344,Paradise Canyon,1935,26846,0
-932,22368,Paradise Canyon,1935,26846,0
-933,22392,Paradise Canyon,1935,26846,0
-934,22416,Paradise Canyon,1935,26846,0
-935,22440,Paradise Canyon,1935,26846,0
-936,22464,Paradise Canyon,1935,26846,0
-937,22488,Paradise Canyon,1935,26846,0
-938,22512,Paradise Canyon,1935,26846,0
-939,22536,Paradise Canyon,1935,26846,0
-940,22560,Paradise Canyon,1935,26846,0
-941,22584,Paradise Canyon,1935,26846,0
-942,22608,Paradise Canyon,1935,26846,0
-943,22632,Paradise Canyon,1935,26846,0
-944,22656,Paradise Canyon,1935,26846,0
-945,22680,Paradise Canyon,1935,26846,0
-946,22704,Paradise Canyon,1935,26846,0
-947,22728,Paradise Canyon,1935,26846,0
-948,22752,Paradise Canyon,1935,26846,0
-949,22776,Paradise Canyon,1935,26846,0
-950,22800,Paradise Canyon,1935,26846,0
-951,22824,Paradise Canyon,1935,26846,0
-952,22848,Paradise Canyon,1935,26846,0
-953,22872,Paradise Canyon,1935,26846,0
-954,22896,Paradise Canyon,1935,26846,0
-955,22920,Paradise Canyon,1935,26846,0
-956,22944,Paradise Canyon,1935,26846,0
-957,22968,Paradise Canyon,1935,26846,0
-958,22992,Paradise Canyon,1935,26846,0
-959,23016,Paradise Canyon,1935,26846,0
-960,23040,Paradise Canyon,1935,26846,0
-961,23064,Paradise Canyon,1935,26846,0
-962,23088,Paradise Canyon,1935,26846,0
-963,23112,Paradise Canyon,1935,26846,0
-964,23136,Paradise Canyon,1935,26846,1
-965,23160,Paradise Canyon,1935,26846,1
-966,23184,Paradise Canyon,1935,26846,1
-967,23208,Paradise Canyon,1935,26846,1
-968,23232,Paradise Canyon,1935,26846,1
-969,23256,Paradise Canyon,1935,26846,1
-970,23280,Paradise Canyon,1935,26846,1
-971,23304,Paradise Canyon,1935,26846,1
-972,23328,Paradise Canyon,1935,26846,1
-973,23352,Paradise Canyon,1935,26846,1
-974,23376,Paradise Canyon,1935,26846,0
-975,23400,Paradise Canyon,1935,26846,0
-976,23424,Paradise Canyon,1935,26846,0
-977,23448,Paradise Canyon,1935,26846,0
-978,23472,Paradise Canyon,1935,26846,0
-979,23496,Paradise Canyon,1935,26846,0
-980,23520,Paradise Canyon,1935,26846,1
-981,23544,Paradise Canyon,1935,26846,1
-982,23568,Paradise Canyon,1935,26846,1
-983,23592,Paradise Canyon,1935,26846,0
-984,23616,Paradise Canyon,1935,26846,0
-985,23640,Paradise Canyon,1935,26846,0
-986,23664,Paradise Canyon,1935,26846,0
-987,23688,Paradise Canyon,1935,26846,0
-988,23712,Paradise Canyon,1935,26846,0
-989,23736,Paradise Canyon,1935,26846,0
-990,23760,Paradise Canyon,1935,26846,0
-991,23784,Paradise Canyon,1935,26846,0
-992,23808,Paradise Canyon,1935,26846,0
-993,23832,Paradise Canyon,1935,26846,1
-994,23856,Paradise Canyon,1935,26846,1
-995,23880,Paradise Canyon,1935,26846,0
-996,23904,Paradise Canyon,1935,26846,0
-997,23928,Paradise Canyon,1935,26846,0
-998,23952,Paradise Canyon,1935,26846,0
-999,23976,Paradise Canyon,1935,26846,0
-1000,24000,Paradise Canyon,1935,26846,0
-1001,24024,Paradise Canyon,1935,26846,0
-1002,24048,Paradise Canyon,1935,26846,0
-1003,24072,Paradise Canyon,1935,26846,1
-1004,24096,Paradise Canyon,1935,26846,0
-1005,24120,Paradise Canyon,1935,26846,0
-1006,24144,Paradise Canyon,1935,26846,0
-1007,24168,Paradise Canyon,1935,26846,0
-1008,24192,Paradise Canyon,1935,26846,0
-1009,24216,Paradise Canyon,1935,26846,0
-1010,24240,Paradise Canyon,1935,26846,1
-1011,24264,Paradise Canyon,1935,26846,0
-1012,24288,Paradise Canyon,1935,26846,0
-1013,24312,Paradise Canyon,1935,26846,0
-1014,24336,Paradise Canyon,1935,26846,0
-1015,24360,Paradise Canyon,1935,26846,0
-1016,24384,Paradise Canyon,1935,26846,0
-1017,24408,Paradise Canyon,1935,26846,0
-1018,24432,Paradise Canyon,1935,26846,1
-1019,24456,Paradise Canyon,1935,26846,1
-1020,24480,Paradise Canyon,1935,26846,0
-1021,24504,Paradise Canyon,1935,26846,0
-1022,24528,Paradise Canyon,1935,26846,0
-1023,24552,Paradise Canyon,1935,26846,0
-1024,24576,Paradise Canyon,1935,26846,0
-1025,24600,Paradise Canyon,1935,26846,0
-1026,24624,Paradise Canyon,1935,26846,0
-1027,24648,Paradise Canyon,1935,26846,0
-1028,24672,Paradise Canyon,1935,26846,0
-1029,24696,Paradise Canyon,1935,26846,0
-1030,24720,Paradise Canyon,1935,26846,0
-1031,24744,Paradise Canyon,1935,26846,0
-1032,24768,Paradise Canyon,1935,26846,0
-1033,24792,Paradise Canyon,1935,26846,1
-1034,24816,Paradise Canyon,1935,26846,1
-1035,24840,Paradise Canyon,1935,26846,1
-1036,24864,Paradise Canyon,1935,26846,0
-1037,24888,Paradise Canyon,1935,26846,0
-1038,24912,Paradise Canyon,1935,26846,0
-1039,24936,Paradise Canyon,1935,26846,0
-1040,24960,Paradise Canyon,1935,26846,0
-1041,24984,Paradise Canyon,1935,26846,0
-1042,25008,Paradise Canyon,1935,26846,0
-1043,25032,Paradise Canyon,1935,26846,0
-1044,25056,Paradise Canyon,1935,26846,0
-1045,25080,Paradise Canyon,1935,26846,0
-1046,25104,Paradise Canyon,1935,26846,1
-1047,25128,Paradise Canyon,1935,26846,1
-1048,25152,Paradise Canyon,1935,26846,0
-1049,25176,Paradise Canyon,1935,26846,0
-1050,25200,Paradise Canyon,1935,26846,0
-1051,25224,Paradise Canyon,1935,26846,0
-1052,25248,Paradise Canyon,1935,26846,0
-1053,25272,Paradise Canyon,1935,26846,0
-1054,25296,Paradise Canyon,1935,26846,0
-1055,25320,Paradise Canyon,1935,26846,0
-1056,25344,Paradise Canyon,1935,26846,0
-1057,25368,Paradise Canyon,1935,26846,1
-1058,25392,Paradise Canyon,1935,26846,0
-1059,25416,Paradise Canyon,1935,26846,0
-1060,25440,Paradise Canyon,1935,26846,0
-1061,25464,Paradise Canyon,1935,26846,0
-1062,25488,Paradise Canyon,1935,26846,0
-1063,25512,Paradise Canyon,1935,26846,0
-1064,25536,Paradise Canyon,1935,26846,0
-1065,25560,Paradise Canyon,1935,26846,0
-1066,25584,Paradise Canyon,1935,26846,0
-1067,25608,Paradise Canyon,1935,26846,0
-1068,25632,Paradise Canyon,1935,26846,0
-1069,25656,Paradise Canyon,1935,26846,0
-1070,25680,Paradise Canyon,1935,26846,0
-1071,25704,Paradise Canyon,1935,26846,0
-1072,25728,Paradise Canyon,1935,26846,0
-1073,25752,Paradise Canyon,1935,26846,0
-1074,25776,Paradise Canyon,1935,26846,0
-1075,25800,Paradise Canyon,1935,26846,0
-1076,25824,Paradise Canyon,1935,26846,0
-1077,25848,Paradise Canyon,1935,26846,0
-1078,25872,Paradise Canyon,1935,26846,0
-1079,25896,Paradise Canyon,1935,26846,0
-1080,25920,Paradise Canyon,1935,26846,0
-1081,25944,Paradise Canyon,1935,26846,0
-1082,25968,Paradise Canyon,1935,26846,0
-1083,25992,Paradise Canyon,1935,26846,0
-1084,26016,Paradise Canyon,1935,26846,0
-1085,26040,Paradise Canyon,1935,26846,0
-1086,26064,Paradise Canyon,1935,26846,0
-1087,26088,Paradise Canyon,1935,26846,0
-1088,26112,Paradise Canyon,1935,26846,0
-1089,26136,Paradise Canyon,1935,26846,0
-1090,26160,Paradise Canyon,1935,26846,0
-1091,26184,Paradise Canyon,1935,26846,0
-1092,26208,Paradise Canyon,1935,26846,0
-1093,26232,Paradise Canyon,1935,26846,0
-1094,26256,Paradise Canyon,1935,26846,0
-1095,26280,Paradise Canyon,1935,26846,0
-1096,26304,Paradise Canyon,1935,26846,0
-1097,26328,Paradise Canyon,1935,26846,0
-1098,26352,Paradise Canyon,1935,26846,0
-1099,26376,Paradise Canyon,1935,26846,0
-1100,26400,Paradise Canyon,1935,26846,0
-1101,26424,Paradise Canyon,1935,26846,0
-1102,26448,Paradise Canyon,1935,26846,0
-1103,26472,Paradise Canyon,1935,26846,0
-1104,26496,Paradise Canyon,1935,26846,0
-1105,26520,Paradise Canyon,1935,26846,0
-1106,26544,Paradise Canyon,1935,26846,0
-1107,26568,Paradise Canyon,1935,26846,0
-1108,26592,Paradise Canyon,1935,26846,0
-1109,26616,Paradise Canyon,1935,26846,0
-1110,26640,Paradise Canyon,1935,26846,0
-1111,26664,Paradise Canyon,1935,26846,0
-1112,26688,Paradise Canyon,1935,26846,0
-1113,26712,Paradise Canyon,1935,26846,0
-1114,26736,Paradise Canyon,1935,26846,0
-1115,26760,Paradise Canyon,1935,26846,0
-1116,26784,Paradise Canyon,1935,26846,0
-1117,26808,Paradise Canyon,1935,26846,0
-1118,26832,Paradise Canyon,1935,26846,0
-1119,26856,Paradise Canyon,1935,26846,0
-1120,26880,Paradise Canyon,1935,26846,0
-1121,26904,Paradise Canyon,1935,26846,0
-1122,26928,Paradise Canyon,1935,26846,0
-1123,26952,Paradise Canyon,1935,26846,0
-1124,26976,Paradise Canyon,1935,26846,0
-1125,27000,Paradise Canyon,1935,26846,0
-1126,27024,Paradise Canyon,1935,26846,0
-1127,27048,Paradise Canyon,1935,26846,0
-1128,27072,Paradise Canyon,1935,26846,0
-1129,27096,Paradise Canyon,1935,26846,0
-1130,27120,Paradise Canyon,1935,26846,0
-1131,27144,Paradise Canyon,1935,26846,0
-1132,27168,Paradise Canyon,1935,26846,0
-1133,27192,Paradise Canyon,1935,26846,0
-1134,27216,Paradise Canyon,1935,26846,0
-1135,27240,Paradise Canyon,1935,26846,0
-1136,27264,Paradise Canyon,1935,26846,0
-1137,27288,Paradise Canyon,1935,26846,0
-1138,27312,Paradise Canyon,1935,26846,0
-1139,27336,Paradise Canyon,1935,26846,0
-1140,27360,Paradise Canyon,1935,26846,0
-1141,27384,Paradise Canyon,1935,26846,0
-1142,27408,Paradise Canyon,1935,26846,0
-1143,27432,Paradise Canyon,1935,26846,0
-1144,27456,Paradise Canyon,1935,26846,0
-1145,27480,Paradise Canyon,1935,26846,0
-1146,27504,Paradise Canyon,1935,26846,0
-1147,27528,Paradise Canyon,1935,26846,0
-1148,27552,Paradise Canyon,1935,26846,0
-1149,27576,Paradise Canyon,1935,26846,0
-1150,27600,Paradise Canyon,1935,26846,1
-1151,27624,Paradise Canyon,1935,26846,1
-1152,27648,Paradise Canyon,1935,26846,1
-1153,27672,Paradise Canyon,1935,26846,1
-1154,27696,Paradise Canyon,1935,26846,1
-1155,27720,Paradise Canyon,1935,26846,1
-1156,27744,Paradise Canyon,1935,26846,1
-1157,27768,Paradise Canyon,1935,26846,1
-1158,27792,Paradise Canyon,1935,26846,1
-1159,27816,Paradise Canyon,1935,26846,1
-1160,27840,Paradise Canyon,1935,26846,1
-1161,27864,Paradise Canyon,1935,26846,1
-1162,27888,Paradise Canyon,1935,26846,1
-1163,27912,Paradise Canyon,1935,26846,1
-1164,27936,Paradise Canyon,1935,26846,1
-1165,27960,Paradise Canyon,1935,26846,0
-1166,27984,Paradise Canyon,1935,26846,0
-1167,28008,Paradise Canyon,1935,26846,0
-1168,28032,Paradise Canyon,1935,26846,0
-1169,28056,Paradise Canyon,1935,26846,0
-1170,28080,Paradise Canyon,1935,26846,0
-1171,28104,Paradise Canyon,1935,26846,1
-1172,28128,Paradise Canyon,1935,26846,0
-1173,28152,Paradise Canyon,1935,26846,0
-1174,28176,Paradise Canyon,1935,26846,0
-1175,28200,Paradise Canyon,1935,26846,0
-1176,28224,Paradise Canyon,1935,26846,0
-1177,28248,Paradise Canyon,1935,26846,0
-1178,28272,Paradise Canyon,1935,26846,0
-1179,28296,Paradise Canyon,1935,26846,0
-1180,28320,Paradise Canyon,1935,26846,0
-1181,28344,Paradise Canyon,1935,26846,0
-1182,28368,Paradise Canyon,1935,26846,0
-1183,28392,Paradise Canyon,1935,26846,0
-1184,28416,Paradise Canyon,1935,26846,0
-1185,28440,Paradise Canyon,1935,26846,0
-1186,28464,Paradise Canyon,1935,26846,0
-1187,28488,Paradise Canyon,1935,26846,0
-1188,28512,Paradise Canyon,1935,26846,0
-1189,28536,Paradise Canyon,1935,26846,0
-1190,28560,Paradise Canyon,1935,26846,0
-1191,28584,Paradise Canyon,1935,26846,0
-1192,28608,Paradise Canyon,1935,26846,0
-1193,28632,Paradise Canyon,1935,26846,0
-1194,28656,Paradise Canyon,1935,26846,0
-1195,28680,Paradise Canyon,1935,26846,0
-1196,28704,Paradise Canyon,1935,26846,1
-1197,28728,Paradise Canyon,1935,26846,1
-1198,28752,Paradise Canyon,1935,26846,1
-1199,28776,Paradise Canyon,1935,26846,1
-1200,28800,Paradise Canyon,1935,26846,1
-1201,28824,Paradise Canyon,1935,26846,1
-1202,28848,Paradise Canyon,1935,26846,1
-1203,28872,Paradise Canyon,1935,26846,1
-1204,28896,Paradise Canyon,1935,26846,1
-1205,28920,Paradise Canyon,1935,26846,1
-1206,28944,Paradise Canyon,1935,26846,1
-1207,28968,Paradise Canyon,1935,26846,0
-1208,28992,Paradise Canyon,1935,26846,0
-1209,29016,Paradise Canyon,1935,26846,0
-1210,29040,Paradise Canyon,1935,26846,0
-1211,29064,Paradise Canyon,1935,26846,0
-1212,29088,Paradise Canyon,1935,26846,0
-1213,29112,Paradise Canyon,1935,26846,0
-1214,29136,Paradise Canyon,1935,26846,0
-1215,29160,Paradise Canyon,1935,26846,0
-1216,29184,Paradise Canyon,1935,26846,0
-1217,29208,Paradise Canyon,1935,26846,0
-1218,29232,Paradise Canyon,1935,26846,0
-1219,29256,Paradise Canyon,1935,26846,0
-1220,29280,Paradise Canyon,1935,26846,0
-1221,29304,Paradise Canyon,1935,26846,0
-1222,29328,Paradise Canyon,1935,26846,0
-1223,29352,Paradise Canyon,1935,26846,0
-1224,29376,Paradise Canyon,1935,26846,0
-1225,29400,Paradise Canyon,1935,26846,0
-1226,29424,Paradise Canyon,1935,26846,0
-1227,29448,Paradise Canyon,1935,26846,0
-1228,29472,Paradise Canyon,1935,26846,0
-1229,29496,Paradise Canyon,1935,26846,0
-1230,29520,Paradise Canyon,1935,26846,0
-1231,29544,Paradise Canyon,1935,26846,0
-1232,29568,Paradise Canyon,1935,26846,0
-1233,29592,Paradise Canyon,1935,26846,0
-1234,29616,Paradise Canyon,1935,26846,0
-1235,29640,Paradise Canyon,1935,26846,0
-1236,29664,Paradise Canyon,1935,26846,0
-1237,29688,Paradise Canyon,1935,26846,1
-1238,29712,Paradise Canyon,1935,26846,1
-1239,29736,Paradise Canyon,1935,26846,1
-1240,29760,Paradise Canyon,1935,26846,1
-1241,29784,Paradise Canyon,1935,26846,0
-1242,29808,Paradise Canyon,1935,26846,0
-1243,29832,Paradise Canyon,1935,26846,0
-1244,29856,Paradise Canyon,1935,26846,0
-1245,29880,Paradise Canyon,1935,26846,0
-1246,29904,Paradise Canyon,1935,26846,0
-1247,29928,Paradise Canyon,1935,26846,0
-1248,29952,Paradise Canyon,1935,26846,1
-1249,29976,Paradise Canyon,1935,26846,0
-1250,30000,Paradise Canyon,1935,26846,0
-1251,30024,Paradise Canyon,1935,26846,0
-1252,30048,Paradise Canyon,1935,26846,0
-1253,30072,Paradise Canyon,1935,26846,0
-1254,30096,Paradise Canyon,1935,26846,0
-1255,30120,Paradise Canyon,1935,26846,0
-1256,30144,Paradise Canyon,1935,26846,0
-1257,30168,Paradise Canyon,1935,26846,0
-1258,30192,Paradise Canyon,1935,26846,0
-1259,30216,Paradise Canyon,1935,26846,0
-1260,30240,Paradise Canyon,1935,26846,0
-1261,30264,Paradise Canyon,1935,26846,0
-1262,30288,Paradise Canyon,1935,26846,0
-1263,30312,Paradise Canyon,1935,26846,0
-1264,30336,Paradise Canyon,1935,26846,0
-1265,30360,Paradise Canyon,1935,26846,0
-1266,30384,Paradise Canyon,1935,26846,0
-1267,30408,Paradise Canyon,1935,26846,0
-1268,30432,Paradise Canyon,1935,26846,0
-1269,30456,Paradise Canyon,1935,26846,0
-1270,30480,Paradise Canyon,1935,26846,0
-1271,30504,Paradise Canyon,1935,26846,0
-1272,30528,Paradise Canyon,1935,26846,1
-1273,30552,Paradise Canyon,1935,26846,1
-1274,30576,Paradise Canyon,1935,26846,0
-1275,30600,Paradise Canyon,1935,26846,0
-1276,30624,Paradise Canyon,1935,26846,1
-1277,30648,Paradise Canyon,1935,26846,0
-1278,30672,Paradise Canyon,1935,26846,0
-1279,30696,Paradise Canyon,1935,26846,0
-1280,30720,Paradise Canyon,1935,26846,0
-1281,30744,Paradise Canyon,1935,26846,0
-1282,30768,Paradise Canyon,1935,26846,0
-1283,30792,Paradise Canyon,1935,26846,0
-1284,30816,Paradise Canyon,1935,26846,0
-1285,30840,Paradise Canyon,1935,26846,0
-1286,30864,Paradise Canyon,1935,26846,1
-1287,30888,Paradise Canyon,1935,26846,1
-1288,30912,Paradise Canyon,1935,26846,0
-1289,30936,Paradise Canyon,1935,26846,0
-1290,30960,Paradise Canyon,1935,26846,0
-1291,30984,Paradise Canyon,1935,26846,0
-1292,31008,Paradise Canyon,1935,26846,0
-1293,31032,Paradise Canyon,1935,26846,0
-1294,31056,Paradise Canyon,1935,26846,0
-1295,31080,Paradise Canyon,1935,26846,0
-1296,31104,Paradise Canyon,1935,26846,0
-1297,31128,Paradise Canyon,1935,26846,0
-1298,31152,Paradise Canyon,1935,26846,0
-1299,31176,Paradise Canyon,1935,26846,1
-1300,31200,Paradise Canyon,1935,26846,0
-1301,31224,Paradise Canyon,1935,26846,0
-1302,31248,Paradise Canyon,1935,26846,0
-1303,31272,Paradise Canyon,1935,26846,0
-1304,31296,Paradise Canyon,1935,26846,0
-1305,31320,Paradise Canyon,1935,26846,0
-1306,31344,Paradise Canyon,1935,26846,0
-1307,31368,Paradise Canyon,1935,26846,0
-1308,31392,Paradise Canyon,1935,26846,0
-1309,31416,Paradise Canyon,1935,26846,0
-1310,31440,Paradise Canyon,1935,26846,0
-1311,31464,Paradise Canyon,1935,26846,0
-1312,31488,Paradise Canyon,1935,26846,0
-1313,31512,Paradise Canyon,1935,26846,0
-1314,31536,Paradise Canyon,1935,26846,0
-1315,31560,Paradise Canyon,1935,26846,0
-1316,31584,Paradise Canyon,1935,26846,0
-1317,31608,Paradise Canyon,1935,26846,0
-1318,31632,Paradise Canyon,1935,26846,0
-1319,31656,Paradise Canyon,1935,26846,0
-1320,31680,Paradise Canyon,1935,26846,0
-1321,31704,Paradise Canyon,1935,26846,0
-1322,31728,Paradise Canyon,1935,26846,0
-1323,31752,Paradise Canyon,1935,26846,0
-1324,31776,Paradise Canyon,1935,26846,0
-1325,31800,Paradise Canyon,1935,26846,0
-1326,31824,Paradise Canyon,1935,26846,0
-1327,31848,Paradise Canyon,1935,26846,0
-1328,31872,Paradise Canyon,1935,26846,0
-1329,31896,Paradise Canyon,1935,26846,0
-1330,31920,Paradise Canyon,1935,26846,0
-1331,31944,Paradise Canyon,1935,26846,0
-1332,31968,Paradise Canyon,1935,26846,0
-1333,31992,Paradise Canyon,1935,26846,0
-1334,32016,Paradise Canyon,1935,26846,1
-1335,32040,Paradise Canyon,1935,26846,1
-1336,32064,Paradise Canyon,1935,26846,0
-1337,32088,Paradise Canyon,1935,26846,0
-1338,32112,Paradise Canyon,1935,26846,0
-1339,32136,Paradise Canyon,1935,26846,0
-1340,32160,Paradise Canyon,1935,26846,0
-1341,32184,Paradise Canyon,1935,26846,0
-1342,32208,Paradise Canyon,1935,26846,0
-1343,32232,Paradise Canyon,1935,26846,0
-1344,32256,Paradise Canyon,1935,26846,0
-1345,32280,Paradise Canyon,1935,26846,0
-1346,32304,Paradise Canyon,1935,26846,0
-1347,32328,Paradise Canyon,1935,26846,0
-1348,32352,Paradise Canyon,1935,26846,0
-1349,32376,Paradise Canyon,1935,26846,0
-1350,32400,Paradise Canyon,1935,26846,0
-1351,32424,Paradise Canyon,1935,26846,0
-1352,32448,Paradise Canyon,1935,26846,0
-1353,32472,Paradise Canyon,1935,26846,0
-1354,32496,Paradise Canyon,1935,26846,0
-1355,32520,Paradise Canyon,1935,26846,0
-1356,32544,Paradise Canyon,1935,26846,0
-1357,32568,Paradise Canyon,1935,26846,0
-1358,32592,Paradise Canyon,1935,26846,0
-1359,32616,Paradise Canyon,1935,26846,0
-1360,32640,Paradise Canyon,1935,26846,0
-1361,32664,Paradise Canyon,1935,26846,0
-1362,32688,Paradise Canyon,1935,26846,0
-1363,32712,Paradise Canyon,1935,26846,0
-1364,32736,Paradise Canyon,1935,26846,0
-1365,32760,Paradise Canyon,1935,26846,0
-1366,32784,Paradise Canyon,1935,26846,0
-1367,32808,Paradise Canyon,1935,26846,0
-1368,32832,Paradise Canyon,1935,26846,0
-1369,32856,Paradise Canyon,1935,26846,0
-1370,32880,Paradise Canyon,1935,26846,0
-1371,32904,Paradise Canyon,1935,26846,0
-1372,32928,Paradise Canyon,1935,26846,0
-1373,32952,Paradise Canyon,1935,26846,0
-1374,32976,Paradise Canyon,1935,26846,0
-1375,33000,Paradise Canyon,1935,26846,0
-1376,33024,Paradise Canyon,1935,26846,0
-1377,33048,Paradise Canyon,1935,26846,0
-1378,33072,Paradise Canyon,1935,26846,0
-1379,33096,Paradise Canyon,1935,26846,0
-1380,33120,Paradise Canyon,1935,26846,0
-1381,33144,Paradise Canyon,1935,26846,0
-1382,33168,Paradise Canyon,1935,26846,1
-1383,33192,Paradise Canyon,1935,26846,1
-1384,33216,Paradise Canyon,1935,26846,1
-1385,33240,Paradise Canyon,1935,26846,0
-1386,33264,Paradise Canyon,1935,26846,1
-1387,33288,Paradise Canyon,1935,26846,1
-1388,33312,Paradise Canyon,1935,26846,0
-1389,33336,Paradise Canyon,1935,26846,1
-1390,33360,Paradise Canyon,1935,26846,1
-1391,33384,Paradise Canyon,1935,26846,1
-1392,33408,Paradise Canyon,1935,26846,1
-1393,33432,Paradise Canyon,1935,26846,1
-1394,33456,Paradise Canyon,1935,26846,1
-1395,33480,Paradise Canyon,1935,26846,1
-1396,33504,Paradise Canyon,1935,26846,1
-1397,33528,Paradise Canyon,1935,26846,1
-1398,33552,Paradise Canyon,1935,26846,1
-1399,33576,Paradise Canyon,1935,26846,0
-1400,33600,Paradise Canyon,1935,26846,0
-1401,33624,Paradise Canyon,1935,26846,0
-1402,33648,Paradise Canyon,1935,26846,0
-1403,33672,Paradise Canyon,1935,26846,0
-1404,33696,Paradise Canyon,1935,26846,0
-1405,33720,Paradise Canyon,1935,26846,0
-1406,33744,Paradise Canyon,1935,26846,0
-1407,33768,Paradise Canyon,1935,26846,0
-1408,33792,Paradise Canyon,1935,26846,0
-1409,33816,Paradise Canyon,1935,26846,0
-1410,33840,Paradise Canyon,1935,26846,0
-1411,33864,Paradise Canyon,1935,26846,0
-1412,33888,Paradise Canyon,1935,26846,0
-1413,33912,Paradise Canyon,1935,26846,0
-1414,33936,Paradise Canyon,1935,26846,0
-1415,33960,Paradise Canyon,1935,26846,0
-1416,33984,Paradise Canyon,1935,26846,0
-1417,34008,Paradise Canyon,1935,26846,0
-1418,34032,Paradise Canyon,1935,26846,0
-1419,34056,Paradise Canyon,1935,26846,0
-1420,34080,Paradise Canyon,1935,26846,0
-1421,34104,Paradise Canyon,1935,26846,0
-1422,34128,Paradise Canyon,1935,26846,0
-1423,34152,Paradise Canyon,1935,26846,0
-1424,34176,Paradise Canyon,1935,26846,0
-1425,34200,Paradise Canyon,1935,26846,0
-1426,34224,Paradise Canyon,1935,26846,0
-1427,34248,Paradise Canyon,1935,26846,0
-1428,34272,Paradise Canyon,1935,26846,0
-1429,34296,Paradise Canyon,1935,26846,0
-1430,34320,Paradise Canyon,1935,26846,0
-1431,34344,Paradise Canyon,1935,26846,0
-1432,34368,Paradise Canyon,1935,26846,0
-1433,34392,Paradise Canyon,1935,26846,0
-1434,34416,Paradise Canyon,1935,26846,0
-1435,34440,Paradise Canyon,1935,26846,0
-1436,34464,Paradise Canyon,1935,26846,0
-1437,34488,Paradise Canyon,1935,26846,0
-1438,34512,Paradise Canyon,1935,26846,0
-1439,34536,Paradise Canyon,1935,26846,0
-1440,34560,Paradise Canyon,1935,26846,0
-1441,34584,Paradise Canyon,1935,26846,0
-1442,34608,Paradise Canyon,1935,26846,0
-1443,34632,Paradise Canyon,1935,26846,0
-1444,34656,Paradise Canyon,1935,26846,0
-1445,34680,Paradise Canyon,1935,26846,0
-1446,34704,Paradise Canyon,1935,26846,0
-1447,34728,Paradise Canyon,1935,26846,0
-1448,34752,Paradise Canyon,1935,26846,0
-1449,34776,Paradise Canyon,1935,26846,0
-1450,34800,Paradise Canyon,1935,26846,0
-1451,34824,Paradise Canyon,1935,26846,0
-1452,34848,Paradise Canyon,1935,26846,0
-1453,34872,Paradise Canyon,1935,26846,0
-1454,34896,Paradise Canyon,1935,26846,0
-1455,34920,Paradise Canyon,1935,26846,0
-1456,34944,Paradise Canyon,1935,26846,0
-1457,34968,Paradise Canyon,1935,26846,0
-1458,34992,Paradise Canyon,1935,26846,0
-1459,35016,Paradise Canyon,1935,26846,0
-1460,35040,Paradise Canyon,1935,26846,0
-1461,35064,Paradise Canyon,1935,26846,0
-1462,35088,Paradise Canyon,1935,26846,0
-1463,35112,Paradise Canyon,1935,26846,0
-1464,35136,Paradise Canyon,1935,26846,0
-1465,35160,Paradise Canyon,1935,26846,0
-1466,35184,Paradise Canyon,1935,26846,0
-1467,35208,Paradise Canyon,1935,26846,0
-1468,35232,Paradise Canyon,1935,26846,0
-1469,35256,Paradise Canyon,1935,26846,0
-1470,35280,Paradise Canyon,1935,26846,0
-1471,35304,Paradise Canyon,1935,26846,0
-1472,35328,Paradise Canyon,1935,26846,0
-1473,35352,Paradise Canyon,1935,26846,0
-1474,35376,Paradise Canyon,1935,26846,0
-1475,35400,Paradise Canyon,1935,26846,0
-1476,35424,Paradise Canyon,1935,26846,0
-1477,35448,Paradise Canyon,1935,26846,0
-1478,35472,Paradise Canyon,1935,26846,0
-1479,35496,Paradise Canyon,1935,26846,0
-1480,35520,Paradise Canyon,1935,26846,0
-1481,35544,Paradise Canyon,1935,26846,0
-1482,35568,Paradise Canyon,1935,26846,0
-1483,35592,Paradise Canyon,1935,26846,0
-1484,35616,Paradise Canyon,1935,26846,0
-1485,35640,Paradise Canyon,1935,26846,0
-1486,35664,Paradise Canyon,1935,26846,0
-1487,35688,Paradise Canyon,1935,26846,0
-1488,35712,Paradise Canyon,1935,26846,0
-1489,35736,Paradise Canyon,1935,26846,0
-1490,35760,Paradise Canyon,1935,26846,0
-1491,35784,Paradise Canyon,1935,26846,0
-1492,35808,Paradise Canyon,1935,26846,0
-1493,35832,Paradise Canyon,1935,26846,0
-1494,35856,Paradise Canyon,1935,26846,0
-1495,35880,Paradise Canyon,1935,26846,0
-1496,35904,Paradise Canyon,1935,26846,0
-1497,35928,Paradise Canyon,1935,26846,0
-1498,35952,Paradise Canyon,1935,26846,0
-1499,35976,Paradise Canyon,1935,26846,0
-1500,36000,Paradise Canyon,1935,26846,0
-1501,36024,Paradise Canyon,1935,26846,0
-1502,36048,Paradise Canyon,1935,26846,0
-1503,36072,Paradise Canyon,1935,26846,0
-1504,36096,Paradise Canyon,1935,26846,0
-1505,36120,Paradise Canyon,1935,26846,0
-1506,36144,Paradise Canyon,1935,26846,0
-1507,36168,Paradise Canyon,1935,26846,0
-1508,36192,Paradise Canyon,1935,26846,0
-1509,36216,Paradise Canyon,1935,26846,0
-1510,36240,Paradise Canyon,1935,26846,0
-1511,36264,Paradise Canyon,1935,26846,0
-1512,36288,Paradise Canyon,1935,26846,0
-1513,36312,Paradise Canyon,1935,26846,0
-1514,36336,Paradise Canyon,1935,26846,0
-1515,36360,Paradise Canyon,1935,26846,0
-1516,36384,Paradise Canyon,1935,26846,0
-1517,36408,Paradise Canyon,1935,26846,0
-1518,36432,Paradise Canyon,1935,26846,0
-1519,36456,Paradise Canyon,1935,26846,0
-1520,36480,Paradise Canyon,1935,26846,0
-1521,36504,Paradise Canyon,1935,26846,0
-1522,36528,Paradise Canyon,1935,26846,0
-1523,36552,Paradise Canyon,1935,26846,0
-1524,36576,Paradise Canyon,1935,26846,0
-1525,36600,Paradise Canyon,1935,26846,0
-1526,36624,Paradise Canyon,1935,26846,0
-1527,36648,Paradise Canyon,1935,26846,0
-1528,36672,Paradise Canyon,1935,26846,0
-1529,36696,Paradise Canyon,1935,26846,0
-1530,36720,Paradise Canyon,1935,26846,0
-1531,36744,Paradise Canyon,1935,26846,0
-1532,36768,Paradise Canyon,1935,26846,0
-1533,36792,Paradise Canyon,1935,26846,0
-1534,36816,Paradise Canyon,1935,26846,0
-1535,36840,Paradise Canyon,1935,26846,0
-1536,36864,Paradise Canyon,1935,26846,0
-1537,36888,Paradise Canyon,1935,26846,0
-1538,36912,Paradise Canyon,1935,26846,0
-1539,36936,Paradise Canyon,1935,26846,0
-1540,36960,Paradise Canyon,1935,26846,0
-1541,36984,Paradise Canyon,1935,26846,0
-1542,37008,Paradise Canyon,1935,26846,0
-1543,37032,Paradise Canyon,1935,26846,0
-1544,37056,Paradise Canyon,1935,26846,0
-1545,37080,Paradise Canyon,1935,26846,0
-1546,37104,Paradise Canyon,1935,26846,0
-1547,37128,Paradise Canyon,1935,26846,0
-1548,37152,Paradise Canyon,1935,26846,0
-1549,37176,Paradise Canyon,1935,26846,0
-1550,37200,Paradise Canyon,1935,26846,0
-1551,37224,Paradise Canyon,1935,26846,0
-1552,37248,Paradise Canyon,1935,26846,0
-1553,37272,Paradise Canyon,1935,26846,0
-1554,37296,Paradise Canyon,1935,26846,0
-1555,37320,Paradise Canyon,1935,26846,0
-1556,37344,Paradise Canyon,1935,26846,0
-1557,37368,Paradise Canyon,1935,26846,0
-1558,37392,Paradise Canyon,1935,26846,0
-1559,37416,Paradise Canyon,1935,26846,0
-1560,37440,Paradise Canyon,1935,26846,0
-1561,37464,Paradise Canyon,1935,26846,0
-1562,37488,Paradise Canyon,1935,26846,0
-1563,37512,Paradise Canyon,1935,26846,0
-1564,37536,Paradise Canyon,1935,26846,0
-1565,37560,Paradise Canyon,1935,26846,0
-1566,37584,Paradise Canyon,1935,26846,0
-1567,37608,Paradise Canyon,1935,26846,0
-1568,37632,Paradise Canyon,1935,26846,0
-1569,37656,Paradise Canyon,1935,26846,0
-1570,37680,Paradise Canyon,1935,26846,0
-1571,37704,Paradise Canyon,1935,26846,0
-1572,37728,Paradise Canyon,1935,26846,0
-1573,37752,Paradise Canyon,1935,26846,0
-1574,37776,Paradise Canyon,1935,26846,0
-1575,37800,Paradise Canyon,1935,26846,0
-1576,37824,Paradise Canyon,1935,26846,0
-1577,37848,Paradise Canyon,1935,26846,0
-1578,37872,Paradise Canyon,1935,26846,0
-1579,37896,Paradise Canyon,1935,26846,0
-1580,37920,Paradise Canyon,1935,26846,0
-1581,37944,Paradise Canyon,1935,26846,0
-1582,37968,Paradise Canyon,1935,26846,0
-1583,37992,Paradise Canyon,1935,26846,0
-1584,38016,Paradise Canyon,1935,26846,0
-1585,38040,Paradise Canyon,1935,26846,0
-1586,38064,Paradise Canyon,1935,26846,0
-1587,38088,Paradise Canyon,1935,26846,0
-1588,38112,Paradise Canyon,1935,26846,0
-1589,38136,Paradise Canyon,1935,26846,0
-1590,38160,Paradise Canyon,1935,26846,0
-1591,38184,Paradise Canyon,1935,26846,0
-1592,38208,Paradise Canyon,1935,26846,0
-1593,38232,Paradise Canyon,1935,26846,0
-1594,38256,Paradise Canyon,1935,26846,0
-1595,38280,Paradise Canyon,1935,26846,0
-1596,38304,Paradise Canyon,1935,26846,0
-1597,38328,Paradise Canyon,1935,26846,0
-1598,38352,Paradise Canyon,1935,26846,0
-1599,38376,Paradise Canyon,1935,26846,0
-1600,38400,Paradise Canyon,1935,26846,0
-1601,38424,Paradise Canyon,1935,26846,0
-1602,38448,Paradise Canyon,1935,26846,0
-1603,38472,Paradise Canyon,1935,26846,0
-1604,38496,Paradise Canyon,1935,26846,0
-1605,38520,Paradise Canyon,1935,26846,0
-1606,38544,Paradise Canyon,1935,26846,0
-1607,38568,Paradise Canyon,1935,26846,0
-1608,38592,Paradise Canyon,1935,26846,0
-1609,38616,Paradise Canyon,1935,26846,0
-1610,38640,Paradise Canyon,1935,26846,0
-1611,38664,Paradise Canyon,1935,26846,0
-1612,38688,Paradise Canyon,1935,26846,0
-1613,38712,Paradise Canyon,1935,26846,0
-1614,38736,Paradise Canyon,1935,26846,0
-1615,38760,Paradise Canyon,1935,26846,0
-1616,38784,Paradise Canyon,1935,26846,0
-1617,38808,Paradise Canyon,1935,26846,0
-1618,38832,Paradise Canyon,1935,26846,0
-1619,38856,Paradise Canyon,1935,26846,0
-1620,38880,Paradise Canyon,1935,26846,0
-1621,38904,Paradise Canyon,1935,26846,0
-1622,38928,Paradise Canyon,1935,26846,0
-1623,38952,Paradise Canyon,1935,26846,0
-1624,38976,Paradise Canyon,1935,26846,0
-1625,39000,Paradise Canyon,1935,26846,0
-1626,39024,Paradise Canyon,1935,26846,0
-1627,39048,Paradise Canyon,1935,26846,0
-1628,39072,Paradise Canyon,1935,26846,0
-1629,39096,Paradise Canyon,1935,26846,0
-1630,39120,Paradise Canyon,1935,26846,0
-1631,39144,Paradise Canyon,1935,26846,0
-1632,39168,Paradise Canyon,1935,26846,0
-1633,39192,Paradise Canyon,1935,26846,0
-1634,39216,Paradise Canyon,1935,26846,0
-1635,39240,Paradise Canyon,1935,26846,0
-1636,39264,Paradise Canyon,1935,26846,0
-1637,39288,Paradise Canyon,1935,26846,0
-1638,39312,Paradise Canyon,1935,26846,0
-1639,39336,Paradise Canyon,1935,26846,0
-1640,39360,Paradise Canyon,1935,26846,0
-1641,39384,Paradise Canyon,1935,26846,0
-1642,39408,Paradise Canyon,1935,26846,0
-1643,39432,Paradise Canyon,1935,26846,0
-1644,39456,Paradise Canyon,1935,26846,0
-1645,39480,Paradise Canyon,1935,26846,0
-1646,39504,Paradise Canyon,1935,26846,0
-1647,39528,Paradise Canyon,1935,26846,0
-1648,39552,Paradise Canyon,1935,26846,0
-1649,39576,Paradise Canyon,1935,26846,0
-1650,39600,Paradise Canyon,1935,26846,0
-1651,39624,Paradise Canyon,1935,26846,0
-1652,39648,Paradise Canyon,1935,26846,0
-1653,39672,Paradise Canyon,1935,26846,0
-1654,39696,Paradise Canyon,1935,26846,0
-1655,39720,Paradise Canyon,1935,26846,0
-1656,39744,Paradise Canyon,1935,26846,0
-1657,39768,Paradise Canyon,1935,26846,0
-1658,39792,Paradise Canyon,1935,26846,0
-1659,39816,Paradise Canyon,1935,26846,0
-1660,39840,Paradise Canyon,1935,26846,0
-1661,39864,Paradise Canyon,1935,26846,0
-1662,39888,Paradise Canyon,1935,26846,0
-1663,39912,Paradise Canyon,1935,26846,0
-1664,39936,Paradise Canyon,1935,26846,0
-1665,39960,Paradise Canyon,1935,26846,0
-1666,39984,Paradise Canyon,1935,26846,0
-1667,40008,Paradise Canyon,1935,26846,0
-1668,40032,Paradise Canyon,1935,26846,0
-1669,40056,Paradise Canyon,1935,26846,0
-1670,40080,Paradise Canyon,1935,26846,0
-1671,40104,Paradise Canyon,1935,26846,0
-1672,40128,Paradise Canyon,1935,26846,0
-1673,40152,Paradise Canyon,1935,26846,0
-1674,40176,Paradise Canyon,1935,26846,0
-1675,40200,Paradise Canyon,1935,26846,0
-1676,40224,Paradise Canyon,1935,26846,0
-1677,40248,Paradise Canyon,1935,26846,0
-1678,40272,Paradise Canyon,1935,26846,0
-1679,40296,Paradise Canyon,1935,26846,0
-1680,40320,Paradise Canyon,1935,26846,0
-1681,40344,Paradise Canyon,1935,26846,0
-1682,40368,Paradise Canyon,1935,26846,0
-1683,40392,Paradise Canyon,1935,26846,0
-1684,40416,Paradise Canyon,1935,26846,0
-1685,40440,Paradise Canyon,1935,26846,0
-1686,40464,Paradise Canyon,1935,26846,0
-1687,40488,Paradise Canyon,1935,26846,0
-1688,40512,Paradise Canyon,1935,26846,0
-1689,40536,Paradise Canyon,1935,26846,0
-1690,40560,Paradise Canyon,1935,26846,1
-1691,40584,Paradise Canyon,1935,26846,0
-1692,40608,Paradise Canyon,1935,26846,0
-1693,40632,Paradise Canyon,1935,26846,0
-1694,40656,Paradise Canyon,1935,26846,0
-1695,40680,Paradise Canyon,1935,26846,0
-1696,40704,Paradise Canyon,1935,26846,0
-1697,40728,Paradise Canyon,1935,26846,0
-1698,40752,Paradise Canyon,1935,26846,0
-1699,40776,Paradise Canyon,1935,26846,0
-1700,40800,Paradise Canyon,1935,26846,0
-1701,40824,Paradise Canyon,1935,26846,0
-1702,40848,Paradise Canyon,1935,26846,0
-1703,40872,Paradise Canyon,1935,26846,0
-1704,40896,Paradise Canyon,1935,26846,0
-1705,40920,Paradise Canyon,1935,26846,0
-1706,40944,Paradise Canyon,1935,26846,0
-1707,40968,Paradise Canyon,1935,26846,0
-1708,40992,Paradise Canyon,1935,26846,0
-1709,41016,Paradise Canyon,1935,26846,0
-1710,41040,Paradise Canyon,1935,26846,0
-1711,41064,Paradise Canyon,1935,26846,0
-1712,41088,Paradise Canyon,1935,26846,0
-1713,41112,Paradise Canyon,1935,26846,0
-1714,41136,Paradise Canyon,1935,26846,0
-1715,41160,Paradise Canyon,1935,26846,0
-1716,41184,Paradise Canyon,1935,26846,0
-1717,41208,Paradise Canyon,1935,26846,0
-1718,41232,Paradise Canyon,1935,26846,0
-1719,41256,Paradise Canyon,1935,26846,0
-1720,41280,Paradise Canyon,1935,26846,0
-1721,41304,Paradise Canyon,1935,26846,0
-1722,41328,Paradise Canyon,1935,26846,0
-1723,41352,Paradise Canyon,1935,26846,0
-1724,41376,Paradise Canyon,1935,26846,0
-1725,41400,Paradise Canyon,1935,26846,0
-1726,41424,Paradise Canyon,1935,26846,0
-1727,41448,Paradise Canyon,1935,26846,0
-1728,41472,Paradise Canyon,1935,26846,0
-1729,41496,Paradise Canyon,1935,26846,0
-1730,41520,Paradise Canyon,1935,26846,0
-1731,41544,Paradise Canyon,1935,26846,0
-1732,41568,Paradise Canyon,1935,26846,0
-1733,41592,Paradise Canyon,1935,26846,0
-1734,41616,Paradise Canyon,1935,26846,0
-1735,41640,Paradise Canyon,1935,26846,0
-1736,41664,Paradise Canyon,1935,26846,0
-1737,41688,Paradise Canyon,1935,26846,0
-1738,41712,Paradise Canyon,1935,26846,0
-1739,41736,Paradise Canyon,1935,26846,0
-1740,41760,Paradise Canyon,1935,26846,0
-1741,41784,Paradise Canyon,1935,26846,0
-1742,41808,Paradise Canyon,1935,26846,0
-1743,41832,Paradise Canyon,1935,26846,0
-1744,41856,Paradise Canyon,1935,26846,0
-1745,41880,Paradise Canyon,1935,26846,0
-1746,41904,Paradise Canyon,1935,26846,0
-1747,41928,Paradise Canyon,1935,26846,0
-1748,41952,Paradise Canyon,1935,26846,0
-1749,41976,Paradise Canyon,1935,26846,0
-1750,42000,Paradise Canyon,1935,26846,0
-1751,42024,Paradise Canyon,1935,26846,0
-1752,42048,Paradise Canyon,1935,26846,0
-1753,42072,Paradise Canyon,1935,26846,0
-1754,42096,Paradise Canyon,1935,26846,0
-1755,42120,Paradise Canyon,1935,26846,0
-1756,42144,Paradise Canyon,1935,26846,0
-1757,42168,Paradise Canyon,1935,26846,0
-1758,42192,Paradise Canyon,1935,26846,0
-1759,42216,Paradise Canyon,1935,26846,0
-1760,42240,Paradise Canyon,1935,26846,0
-1761,42264,Paradise Canyon,1935,26846,0
-1762,42288,Paradise Canyon,1935,26846,0
-1763,42312,Paradise Canyon,1935,26846,0
-1764,42336,Paradise Canyon,1935,26846,0
-1765,42360,Paradise Canyon,1935,26846,0
-1766,42384,Paradise Canyon,1935,26846,0
-1767,42408,Paradise Canyon,1935,26846,0
-1768,42432,Paradise Canyon,1935,26846,0
-1769,42456,Paradise Canyon,1935,26846,0
-1770,42480,Paradise Canyon,1935,26846,0
-1771,42504,Paradise Canyon,1935,26846,0
-1772,42528,Paradise Canyon,1935,26846,0
-1773,42552,Paradise Canyon,1935,26846,0
-1774,42576,Paradise Canyon,1935,26846,0
-1775,42600,Paradise Canyon,1935,26846,0
-1776,42624,Paradise Canyon,1935,26846,0
-1777,42648,Paradise Canyon,1935,26846,0
-1778,42672,Paradise Canyon,1935,26846,0
-1779,42696,Paradise Canyon,1935,26846,0
-1780,42720,Paradise Canyon,1935,26846,0
-1781,42744,Paradise Canyon,1935,26846,0
-1782,42768,Paradise Canyon,1935,26846,0
-1783,42792,Paradise Canyon,1935,26846,0
-1784,42816,Paradise Canyon,1935,26846,0
-1785,42840,Paradise Canyon,1935,26846,0
-1786,42864,Paradise Canyon,1935,26846,0
-1787,42888,Paradise Canyon,1935,26846,0
-1788,42912,Paradise Canyon,1935,26846,0
-1789,42936,Paradise Canyon,1935,26846,0
-1790,42960,Paradise Canyon,1935,26846,0
-1791,42984,Paradise Canyon,1935,26846,0
-1792,43008,Paradise Canyon,1935,26846,0
-1793,43032,Paradise Canyon,1935,26846,0
-1794,43056,Paradise Canyon,1935,26846,0
-1795,43080,Paradise Canyon,1935,26846,0
-1796,43104,Paradise Canyon,1935,26846,0
-1797,43128,Paradise Canyon,1935,26846,0
-1798,43152,Paradise Canyon,1935,26846,0
-1799,43176,Paradise Canyon,1935,26846,0
-1800,43200,Paradise Canyon,1935,26846,0
-1801,43224,Paradise Canyon,1935,26846,0
-1802,43248,Paradise Canyon,1935,26846,0
-1803,43272,Paradise Canyon,1935,26846,0
-1804,43296,Paradise Canyon,1935,26846,0
-1805,43320,Paradise Canyon,1935,26846,0
-1806,43344,Paradise Canyon,1935,26846,0
-1807,43368,Paradise Canyon,1935,26846,0
-1808,43392,Paradise Canyon,1935,26846,0
-1809,43416,Paradise Canyon,1935,26846,0
-1810,43440,Paradise Canyon,1935,26846,0
-1811,43464,Paradise Canyon,1935,26846,0
-1812,43488,Paradise Canyon,1935,26846,0
-1813,43512,Paradise Canyon,1935,26846,0
-1814,43536,Paradise Canyon,1935,26846,0
-1815,43560,Paradise Canyon,1935,26846,0
-1816,43584,Paradise Canyon,1935,26846,0
-1817,43608,Paradise Canyon,1935,26846,0
-1818,43632,Paradise Canyon,1935,26846,0
-1819,43656,Paradise Canyon,1935,26846,0
-1820,43680,Paradise Canyon,1935,26846,0
-1821,43704,Paradise Canyon,1935,26846,0
-1822,43728,Paradise Canyon,1935,26846,0
-1823,43752,Paradise Canyon,1935,26846,0
-1824,43776,Paradise Canyon,1935,26846,0
-1825,43800,Paradise Canyon,1935,26846,0
-1826,43824,Paradise Canyon,1935,26846,0
-1827,43848,Paradise Canyon,1935,26846,0
-1828,43872,Paradise Canyon,1935,26846,0
-1829,43896,Paradise Canyon,1935,26846,0
-1830,43920,Paradise Canyon,1935,26846,0
-1831,43944,Paradise Canyon,1935,26846,0
-1832,43968,Paradise Canyon,1935,26846,0
-1833,43992,Paradise Canyon,1935,26846,0
-1834,44016,Paradise Canyon,1935,26846,0
-1835,44040,Paradise Canyon,1935,26846,0
-1836,44064,Paradise Canyon,1935,26846,0
-1837,44088,Paradise Canyon,1935,26846,0
-1838,44112,Paradise Canyon,1935,26846,0
-1839,44136,Paradise Canyon,1935,26846,0
-1840,44160,Paradise Canyon,1935,26846,0
-1841,44184,Paradise Canyon,1935,26846,0
-1842,44208,Paradise Canyon,1935,26846,0
-1843,44232,Paradise Canyon,1935,26846,0
-1844,44256,Paradise Canyon,1935,26846,0
-1845,44280,Paradise Canyon,1935,26846,0
-1846,44304,Paradise Canyon,1935,26846,0
-1847,44328,Paradise Canyon,1935,26846,0
-1848,44352,Paradise Canyon,1935,26846,0
-1849,44376,Paradise Canyon,1935,26846,0
-1850,44400,Paradise Canyon,1935,26846,0
-1851,44424,Paradise Canyon,1935,26846,0
-1852,44448,Paradise Canyon,1935,26846,0
-1853,44472,Paradise Canyon,1935,26846,0
-1854,44496,Paradise Canyon,1935,26846,0
-1855,44520,Paradise Canyon,1935,26846,0
-1856,44544,Paradise Canyon,1935,26846,0
-1857,44568,Paradise Canyon,1935,26846,0
-1858,44592,Paradise Canyon,1935,26846,0
-1859,44616,Paradise Canyon,1935,26846,0
-1860,44640,Paradise Canyon,1935,26846,0
-1861,44664,Paradise Canyon,1935,26846,0
-1862,44688,Paradise Canyon,1935,26846,0
-1863,44712,Paradise Canyon,1935,26846,0
-1864,44736,Paradise Canyon,1935,26846,0
-1865,44760,Paradise Canyon,1935,26846,0
-1866,44784,Paradise Canyon,1935,26846,0
-1867,44808,Paradise Canyon,1935,26846,0
-1868,44832,Paradise Canyon,1935,26846,0
-1869,44856,Paradise Canyon,1935,26846,0
-1870,44880,Paradise Canyon,1935,26846,0
-1871,44904,Paradise Canyon,1935,26846,0
-1872,44928,Paradise Canyon,1935,26846,0
-1873,44952,Paradise Canyon,1935,26846,0
-1874,44976,Paradise Canyon,1935,26846,0
-1875,45000,Paradise Canyon,1935,26846,0
-1876,45024,Paradise Canyon,1935,26846,0
-1877,45048,Paradise Canyon,1935,26846,0
-1878,45072,Paradise Canyon,1935,26846,0
-1879,45096,Paradise Canyon,1935,26846,0
-1880,45120,Paradise Canyon,1935,26846,0
-1881,45144,Paradise Canyon,1935,26846,0
-1882,45168,Paradise Canyon,1935,26846,0
-1883,45192,Paradise Canyon,1935,26846,0
-1884,45216,Paradise Canyon,1935,26846,0
-1885,45240,Paradise Canyon,1935,26846,0
-1886,45264,Paradise Canyon,1935,26846,0
-1887,45288,Paradise Canyon,1935,26846,0
-1888,45312,Paradise Canyon,1935,26846,0
-1889,45336,Paradise Canyon,1935,26846,0
-1890,45360,Paradise Canyon,1935,26846,0
-1891,45384,Paradise Canyon,1935,26846,0
-1892,45408,Paradise Canyon,1935,26846,0
-1893,45432,Paradise Canyon,1935,26846,0
-1894,45456,Paradise Canyon,1935,26846,0
-1895,45480,Paradise Canyon,1935,26846,1
-1896,45504,Paradise Canyon,1935,26846,0
-1897,45528,Paradise Canyon,1935,26846,0
-1898,45552,Paradise Canyon,1935,26846,0
-1899,45576,Paradise Canyon,1935,26846,0
-1900,45600,Paradise Canyon,1935,26846,0
-1901,45624,Paradise Canyon,1935,26846,0
-1902,45648,Paradise Canyon,1935,26846,0
-1903,45672,Paradise Canyon,1935,26846,0
-1904,45696,Paradise Canyon,1935,26846,0
-1905,45720,Paradise Canyon,1935,26846,0
-1906,45744,Paradise Canyon,1935,26846,0
-1907,45768,Paradise Canyon,1935,26846,0
-1908,45792,Paradise Canyon,1935,26846,0
-1909,45816,Paradise Canyon,1935,26846,0
-1910,45840,Paradise Canyon,1935,26846,0
-1911,45864,Paradise Canyon,1935,26846,0
-1912,45888,Paradise Canyon,1935,26846,0
-1913,45912,Paradise Canyon,1935,26846,0
-1914,45936,Paradise Canyon,1935,26846,0
-1915,45960,Paradise Canyon,1935,26846,0
-1916,45984,Paradise Canyon,1935,26846,0
-1917,46008,Paradise Canyon,1935,26846,0
-1918,46032,Paradise Canyon,1935,26846,0
-1919,46056,Paradise Canyon,1935,26846,0
-1920,46080,Paradise Canyon,1935,26846,0
-1921,46104,Paradise Canyon,1935,26846,0
-1922,46128,Paradise Canyon,1935,26846,0
-1923,46152,Paradise Canyon,1935,26846,0
-1924,46176,Paradise Canyon,1935,26846,0
-1925,46200,Paradise Canyon,1935,26846,0
-1926,46224,Paradise Canyon,1935,26846,0
-1927,46248,Paradise Canyon,1935,26846,0
-1928,46272,Paradise Canyon,1935,26846,0
-1929,46296,Paradise Canyon,1935,26846,0
-1930,46320,Paradise Canyon,1935,26846,0
-1931,46344,Paradise Canyon,1935,26846,0
-1932,46368,Paradise Canyon,1935,26846,0
-1933,46392,Paradise Canyon,1935,26846,0
-1934,46416,Paradise Canyon,1935,26846,0
-1935,46440,Paradise Canyon,1935,26846,0
-1936,46464,Paradise Canyon,1935,26846,0
-1937,46488,Paradise Canyon,1935,26846,0
-1938,46512,Paradise Canyon,1935,26846,0
-1939,46536,Paradise Canyon,1935,26846,0
-1940,46560,Paradise Canyon,1935,26846,0
-1941,46584,Paradise Canyon,1935,26846,0
-1942,46608,Paradise Canyon,1935,26846,0
-1943,46632,Paradise Canyon,1935,26846,0
-1944,46656,Paradise Canyon,1935,26846,0
-1945,46680,Paradise Canyon,1935,26846,0
-1946,46704,Paradise Canyon,1935,26846,0
-1947,46728,Paradise Canyon,1935,26846,0
-1948,46752,Paradise Canyon,1935,26846,0
-1949,46776,Paradise Canyon,1935,26846,0
-1950,46800,Paradise Canyon,1935,26846,0
-1951,46824,Paradise Canyon,1935,26846,0
-1952,46848,Paradise Canyon,1935,26846,0
-1953,46872,Paradise Canyon,1935,26846,0
-1954,46896,Paradise Canyon,1935,26846,0
-1955,46920,Paradise Canyon,1935,26846,0
-1956,46944,Paradise Canyon,1935,26846,0
-1957,46968,Paradise Canyon,1935,26846,0
-1958,46992,Paradise Canyon,1935,26846,0
-1959,47016,Paradise Canyon,1935,26846,0
-1960,47040,Paradise Canyon,1935,26846,0
-1961,47064,Paradise Canyon,1935,26846,0
-1962,47088,Paradise Canyon,1935,26846,0
-1963,47112,Paradise Canyon,1935,26846,0
-1964,47136,Paradise Canyon,1935,26846,0
-1965,47160,Paradise Canyon,1935,26846,0
-1966,47184,Paradise Canyon,1935,26846,0
-1967,47208,Paradise Canyon,1935,26846,0
-1968,47232,Paradise Canyon,1935,26846,0
-1969,47256,Paradise Canyon,1935,26846,0
-1970,47280,Paradise Canyon,1935,26846,0
-1971,47304,Paradise Canyon,1935,26846,0
-1972,47328,Paradise Canyon,1935,26846,0
-1973,47352,Paradise Canyon,1935,26846,0
-1974,47376,Paradise Canyon,1935,26846,0
-1975,47400,Paradise Canyon,1935,26846,0
-1976,47424,Paradise Canyon,1935,26846,0
-1977,47448,Paradise Canyon,1935,26846,0
-1978,47472,Paradise Canyon,1935,26846,0
-1979,47496,Paradise Canyon,1935,26846,0
-1980,47520,Paradise Canyon,1935,26846,0
-1981,47544,Paradise Canyon,1935,26846,0
-1982,47568,Paradise Canyon,1935,26846,0
-1983,47592,Paradise Canyon,1935,26846,0
-1984,47616,Paradise Canyon,1935,26846,0
-1985,47640,Paradise Canyon,1935,26846,0
-1986,47664,Paradise Canyon,1935,26846,0
-1987,47688,Paradise Canyon,1935,26846,0
-1988,47712,Paradise Canyon,1935,26846,0
-1989,47736,Paradise Canyon,1935,26846,0
-1990,47760,Paradise Canyon,1935,26846,0
-1991,47784,Paradise Canyon,1935,26846,0
-1992,47808,Paradise Canyon,1935,26846,0
-1993,47832,Paradise Canyon,1935,26846,0
-1994,47856,Paradise Canyon,1935,26846,0
-1995,47880,Paradise Canyon,1935,26846,0
-1996,47904,Paradise Canyon,1935,26846,0
-1997,47928,Paradise Canyon,1935,26846,0
-1998,47952,Paradise Canyon,1935,26846,0
-1999,47976,Paradise Canyon,1935,26846,0
-2000,48000,Paradise Canyon,1935,26846,0
-2001,48024,Paradise Canyon,1935,26846,0
-2002,48048,Paradise Canyon,1935,26846,0
-2003,48072,Paradise Canyon,1935,26846,0
-2004,48096,Paradise Canyon,1935,26846,0
-2005,48120,Paradise Canyon,1935,26846,0
-2006,48144,Paradise Canyon,1935,26846,0
-2007,48168,Paradise Canyon,1935,26846,0
-2008,48192,Paradise Canyon,1935,26846,0
-2009,48216,Paradise Canyon,1935,26846,0
-2010,48240,Paradise Canyon,1935,26846,0
-2011,48264,Paradise Canyon,1935,26846,0
-2012,48288,Paradise Canyon,1935,26846,0
-2013,48312,Paradise Canyon,1935,26846,0
-2014,48336,Paradise Canyon,1935,26846,0
-2015,48360,Paradise Canyon,1935,26846,0
-2016,48384,Paradise Canyon,1935,26846,0
-2017,48408,Paradise Canyon,1935,26846,0
-2018,48432,Paradise Canyon,1935,26846,0
-2019,48456,Paradise Canyon,1935,26846,0
-2020,48480,Paradise Canyon,1935,26846,0
-2021,48504,Paradise Canyon,1935,26846,0
-2022,48528,Paradise Canyon,1935,26846,0
-2023,48552,Paradise Canyon,1935,26846,0
-2024,48576,Paradise Canyon,1935,26846,0
-2025,48600,Paradise Canyon,1935,26846,0
-2026,48624,Paradise Canyon,1935,26846,0
-2027,48648,Paradise Canyon,1935,26846,0
-2028,48672,Paradise Canyon,1935,26846,0
-2029,48696,Paradise Canyon,1935,26846,0
-2030,48720,Paradise Canyon,1935,26846,0
-2031,48744,Paradise Canyon,1935,26846,0
-2032,48768,Paradise Canyon,1935,26846,0
-2033,48792,Paradise Canyon,1935,26846,0
-2034,48816,Paradise Canyon,1935,26846,0
-2035,48840,Paradise Canyon,1935,26846,0
-2036,48864,Paradise Canyon,1935,26846,0
-2037,48888,Paradise Canyon,1935,26846,0
-2038,48912,Paradise Canyon,1935,26846,0
-2039,48936,Paradise Canyon,1935,26846,0
-2040,48960,Paradise Canyon,1935,26846,0
-2041,48984,Paradise Canyon,1935,26846,1
-2042,49008,Paradise Canyon,1935,26846,1
-2043,49032,Paradise Canyon,1935,26846,0
-2044,49056,Paradise Canyon,1935,26846,1
-2045,49080,Paradise Canyon,1935,26846,0
-2046,49104,Paradise Canyon,1935,26846,0
-2047,49128,Paradise Canyon,1935,26846,0
-2048,49152,Paradise Canyon,1935,26846,0
-2049,49176,Paradise Canyon,1935,26846,0
-2050,49200,Paradise Canyon,1935,26846,0
-2051,49224,Paradise Canyon,1935,26846,0
-2052,49248,Paradise Canyon,1935,26846,0
-2053,49272,Paradise Canyon,1935,26846,0
-2054,49296,Paradise Canyon,1935,26846,0
-2055,49320,Paradise Canyon,1935,26846,0
-2056,49344,Paradise Canyon,1935,26846,0
-2057,49368,Paradise Canyon,1935,26846,0
-2058,49392,Paradise Canyon,1935,26846,0
-2059,49416,Paradise Canyon,1935,26846,0
-2060,49440,Paradise Canyon,1935,26846,0
-2061,49464,Paradise Canyon,1935,26846,0
-2062,49488,Paradise Canyon,1935,26846,0
-2063,49512,Paradise Canyon,1935,26846,0
-2064,49536,Paradise Canyon,1935,26846,0
-2065,49560,Paradise Canyon,1935,26846,0
-2066,49584,Paradise Canyon,1935,26846,0
-2067,49608,Paradise Canyon,1935,26846,0
-2068,49632,Paradise Canyon,1935,26846,1
-2069,49656,Paradise Canyon,1935,26846,0
-2070,49680,Paradise Canyon,1935,26846,0
-2071,49704,Paradise Canyon,1935,26846,0
-2072,49728,Paradise Canyon,1935,26846,0
-2073,49752,Paradise Canyon,1935,26846,0
-2074,49776,Paradise Canyon,1935,26846,0
-2075,49800,Paradise Canyon,1935,26846,0
-2076,49824,Paradise Canyon,1935,26846,0
-2077,49848,Paradise Canyon,1935,26846,0
-2078,49872,Paradise Canyon,1935,26846,0
-2079,49896,Paradise Canyon,1935,26846,0
-2080,49920,Paradise Canyon,1935,26846,0
-2081,49944,Paradise Canyon,1935,26846,0
-2082,49968,Paradise Canyon,1935,26846,0
-2083,49992,Paradise Canyon,1935,26846,0
-2084,50016,Paradise Canyon,1935,26846,0
-2085,50040,Paradise Canyon,1935,26846,0
-2086,50064,Paradise Canyon,1935,26846,0
-2087,50088,Paradise Canyon,1935,26846,0
-2088,50112,Paradise Canyon,1935,26846,0
-2089,50136,Paradise Canyon,1935,26846,0
-2090,50160,Paradise Canyon,1935,26846,0
-2091,50184,Paradise Canyon,1935,26846,0
-2092,50208,Paradise Canyon,1935,26846,0
-2093,50232,Paradise Canyon,1935,26846,0
-2094,50256,Paradise Canyon,1935,26846,0
-2095,50280,Paradise Canyon,1935,26846,0
-2096,50304,Paradise Canyon,1935,26846,0
-2097,50328,Paradise Canyon,1935,26846,0
-2098,50352,Paradise Canyon,1935,26846,0
-2099,50376,Paradise Canyon,1935,26846,0
-2100,50400,Paradise Canyon,1935,26846,0
-2101,50424,Paradise Canyon,1935,26846,0
-2102,50448,Paradise Canyon,1935,26846,0
-2103,50472,Paradise Canyon,1935,26846,0
-2104,50496,Paradise Canyon,1935,26846,0
-2105,50520,Paradise Canyon,1935,26846,0
-2106,50544,Paradise Canyon,1935,26846,0
-2107,50568,Paradise Canyon,1935,26846,0
-2108,50592,Paradise Canyon,1935,26846,0
-2109,50616,Paradise Canyon,1935,26846,0
-2110,50640,Paradise Canyon,1935,26846,0
-2111,50664,Paradise Canyon,1935,26846,0
-2112,50688,Paradise Canyon,1935,26846,0
-2113,50712,Paradise Canyon,1935,26846,0
-2114,50736,Paradise Canyon,1935,26846,0
-2115,50760,Paradise Canyon,1935,26846,0
-2116,50784,Paradise Canyon,1935,26846,0
-2117,50808,Paradise Canyon,1935,26846,0
-2118,50832,Paradise Canyon,1935,26846,0
-2119,50856,Paradise Canyon,1935,26846,0
-2120,50880,Paradise Canyon,1935,26846,0
-2121,50904,Paradise Canyon,1935,26846,0
-2122,50928,Paradise Canyon,1935,26846,0
-2123,50952,Paradise Canyon,1935,26846,0
-2124,50976,Paradise Canyon,1935,26846,0
-2125,51000,Paradise Canyon,1935,26846,0
-2126,51024,Paradise Canyon,1935,26846,0
-2127,51048,Paradise Canyon,1935,26846,0
-2128,51072,Paradise Canyon,1935,26846,0
-2129,51096,Paradise Canyon,1935,26846,0
-2130,51120,Paradise Canyon,1935,26846,0
-2131,51144,Paradise Canyon,1935,26846,0
-2132,51168,Paradise Canyon,1935,26846,0
-2133,51192,Paradise Canyon,1935,26846,0
-2134,51216,Paradise Canyon,1935,26846,0
-2135,51240,Paradise Canyon,1935,26846,0
-2136,51264,Paradise Canyon,1935,26846,0
-2137,51288,Paradise Canyon,1935,26846,0
-2138,51312,Paradise Canyon,1935,26846,0
-2139,51336,Paradise Canyon,1935,26846,0
-2140,51360,Paradise Canyon,1935,26846,0
-2141,51384,Paradise Canyon,1935,26846,0
-2142,51408,Paradise Canyon,1935,26846,0
-2143,51432,Paradise Canyon,1935,26846,0
-2144,51456,Paradise Canyon,1935,26846,0
-2145,51480,Paradise Canyon,1935,26846,0
-2146,51504,Paradise Canyon,1935,26846,0
-2147,51528,Paradise Canyon,1935,26846,0
-2148,51552,Paradise Canyon,1935,26846,0
-2149,51576,Paradise Canyon,1935,26846,0
-2150,51600,Paradise Canyon,1935,26846,0
-2151,51624,Paradise Canyon,1935,26846,0
-2152,51648,Paradise Canyon,1935,26846,0
-2153,51672,Paradise Canyon,1935,26846,0
-2154,51696,Paradise Canyon,1935,26846,0
-2155,51720,Paradise Canyon,1935,26846,0
-2156,51744,Paradise Canyon,1935,26846,0
-2157,51768,Paradise Canyon,1935,26846,0
-2158,51792,Paradise Canyon,1935,26846,0
-2159,51816,Paradise Canyon,1935,26846,0
-2160,51840,Paradise Canyon,1935,26846,0
-2161,51864,Paradise Canyon,1935,26846,0
-2162,51888,Paradise Canyon,1935,26846,0
-2163,51912,Paradise Canyon,1935,26846,0
-2164,51936,Paradise Canyon,1935,26846,0
-2165,51960,Paradise Canyon,1935,26846,0
-2166,51984,Paradise Canyon,1935,26846,0
-2167,52008,Paradise Canyon,1935,26846,0
-2168,52032,Paradise Canyon,1935,26846,0
-2169,52056,Paradise Canyon,1935,26846,0
-2170,52080,Paradise Canyon,1935,26846,0
-2171,52104,Paradise Canyon,1935,26846,0
-2172,52128,Paradise Canyon,1935,26846,0
-2173,52152,Paradise Canyon,1935,26846,0
-2174,52176,Paradise Canyon,1935,26846,0
-2175,52200,Paradise Canyon,1935,26846,0
-2176,52224,Paradise Canyon,1935,26846,0
-2177,52248,Paradise Canyon,1935,26846,0
-2178,52272,Paradise Canyon,1935,26846,0
-2179,52296,Paradise Canyon,1935,26846,0
-2180,52320,Paradise Canyon,1935,26846,0
-2181,52344,Paradise Canyon,1935,26846,0
-2182,52368,Paradise Canyon,1935,26846,0
-2183,52392,Paradise Canyon,1935,26846,0
-2184,52416,Paradise Canyon,1935,26846,0
-2185,52440,Paradise Canyon,1935,26846,0
-2186,52464,Paradise Canyon,1935,26846,0
-2187,52488,Paradise Canyon,1935,26846,0
-2188,52512,Paradise Canyon,1935,26846,0
-2189,52536,Paradise Canyon,1935,26846,0
-2190,52560,Paradise Canyon,1935,26846,0
-2191,52584,Paradise Canyon,1935,26846,0
-2192,52608,Paradise Canyon,1935,26846,0
-2193,52632,Paradise Canyon,1935,26846,0
-2194,52656,Paradise Canyon,1935,26846,0
-2195,52680,Paradise Canyon,1935,26846,0
-2196,52704,Paradise Canyon,1935,26846,0
-2197,52728,Paradise Canyon,1935,26846,0
-2198,52752,Paradise Canyon,1935,26846,0
-2199,52776,Paradise Canyon,1935,26846,0
-2200,52800,Paradise Canyon,1935,26846,0
-2201,52824,Paradise Canyon,1935,26846,0
-2202,52848,Paradise Canyon,1935,26846,0
-2203,52872,Paradise Canyon,1935,26846,0
-2204,52896,Paradise Canyon,1935,26846,0
-2205,52920,Paradise Canyon,1935,26846,0
-2206,52944,Paradise Canyon,1935,26846,0
-2207,52968,Paradise Canyon,1935,26846,0
-2208,52992,Paradise Canyon,1935,26846,0
-2209,53016,Paradise Canyon,1935,26846,0
-2210,53040,Paradise Canyon,1935,26846,0
-2211,53064,Paradise Canyon,1935,26846,0
-2212,53088,Paradise Canyon,1935,26846,0
-2213,53112,Paradise Canyon,1935,26846,0
-2214,53136,Paradise Canyon,1935,26846,0
-2215,53160,Paradise Canyon,1935,26846,0
-2216,53184,Paradise Canyon,1935,26846,0
-2217,53208,Paradise Canyon,1935,26846,0
-2218,53232,Paradise Canyon,1935,26846,0
-2219,53256,Paradise Canyon,1935,26846,0
-2220,53280,Paradise Canyon,1935,26846,0
-2221,53304,Paradise Canyon,1935,26846,0
-2222,53328,Paradise Canyon,1935,26846,0
-2223,53352,Paradise Canyon,1935,26846,0
-2224,53376,Paradise Canyon,1935,26846,0
-2225,53400,Paradise Canyon,1935,26846,0
-2226,53424,Paradise Canyon,1935,26846,0
-2227,53448,Paradise Canyon,1935,26846,0
-2228,53472,Paradise Canyon,1935,26846,0
-2229,53496,Paradise Canyon,1935,26846,0
-2230,53520,Paradise Canyon,1935,26846,0
-2231,53544,Paradise Canyon,1935,26846,0
-2232,53568,Paradise Canyon,1935,26846,0
-2233,53592,Paradise Canyon,1935,26846,0
-2234,53616,Paradise Canyon,1935,26846,0
-2235,53640,Paradise Canyon,1935,26846,0
-2236,53664,Paradise Canyon,1935,26846,0
-2237,53688,Paradise Canyon,1935,26846,0
-2238,53712,Paradise Canyon,1935,26846,0
-2239,53736,Paradise Canyon,1935,26846,1
-2240,53760,Paradise Canyon,1935,26846,0
-2241,53784,Paradise Canyon,1935,26846,0
-2242,53808,Paradise Canyon,1935,26846,0
-2243,53832,Paradise Canyon,1935,26846,0
-2244,53856,Paradise Canyon,1935,26846,0
-2245,53880,Paradise Canyon,1935,26846,0
-2246,53904,Paradise Canyon,1935,26846,0
-2247,53928,Paradise Canyon,1935,26846,0
-2248,53952,Paradise Canyon,1935,26846,0
-2249,53976,Paradise Canyon,1935,26846,0
-2250,54000,Paradise Canyon,1935,26846,0
-2251,54024,Paradise Canyon,1935,26846,0
-2252,54048,Paradise Canyon,1935,26846,0
-2253,54072,Paradise Canyon,1935,26846,0
-2254,54096,Paradise Canyon,1935,26846,0
-2255,54120,Paradise Canyon,1935,26846,0
-2256,54144,Paradise Canyon,1935,26846,0
-2257,54168,Paradise Canyon,1935,26846,0
-2258,54192,Paradise Canyon,1935,26846,0
-2259,54216,Paradise Canyon,1935,26846,0
-2260,54240,Paradise Canyon,1935,26846,0
-2261,54264,Paradise Canyon,1935,26846,0
-2262,54288,Paradise Canyon,1935,26846,1
-2263,54312,Paradise Canyon,1935,26846,0
-2264,54336,Paradise Canyon,1935,26846,0
-2265,54360,Paradise Canyon,1935,26846,0
-2266,54384,Paradise Canyon,1935,26846,0
-2267,54408,Paradise Canyon,1935,26846,0
-2268,54432,Paradise Canyon,1935,26846,0
-2269,54456,Paradise Canyon,1935,26846,0
-2270,54480,Paradise Canyon,1935,26846,0
-2271,54504,Paradise Canyon,1935,26846,0
-2272,54528,Paradise Canyon,1935,26846,0
-2273,54552,Paradise Canyon,1935,26846,0
-2274,54576,Paradise Canyon,1935,26846,0
-2275,54600,Paradise Canyon,1935,26846,0
-2276,54624,Paradise Canyon,1935,26846,0
-2277,54648,Paradise Canyon,1935,26846,0
-2278,54672,Paradise Canyon,1935,26846,0
-2279,54696,Paradise Canyon,1935,26846,0
-2280,54720,Paradise Canyon,1935,26846,0
-2281,54744,Paradise Canyon,1935,26846,0
-2282,54768,Paradise Canyon,1935,26846,0
-2283,54792,Paradise Canyon,1935,26846,0
-2284,54816,Paradise Canyon,1935,26846,0
-2285,54840,Paradise Canyon,1935,26846,0
-2286,54864,Paradise Canyon,1935,26846,0
-2287,54888,Paradise Canyon,1935,26846,0
-2288,54912,Paradise Canyon,1935,26846,0
-2289,54936,Paradise Canyon,1935,26846,0
-2290,54960,Paradise Canyon,1935,26846,0
-2291,54984,Paradise Canyon,1935,26846,0
-2292,55008,Paradise Canyon,1935,26846,0
-2293,55032,Paradise Canyon,1935,26846,0
-2294,55056,Paradise Canyon,1935,26846,0
-2295,55080,Paradise Canyon,1935,26846,0
-2296,55104,Paradise Canyon,1935,26846,0
-2297,55128,Paradise Canyon,1935,26846,0
-2298,55152,Paradise Canyon,1935,26846,0
-2299,55176,Paradise Canyon,1935,26846,0
-2300,55200,Paradise Canyon,1935,26846,0
-2301,55224,Paradise Canyon,1935,26846,0
-2302,55248,Paradise Canyon,1935,26846,0
-2303,55272,Paradise Canyon,1935,26846,0
-2304,55296,Paradise Canyon,1935,26846,0
-2305,55320,Paradise Canyon,1935,26846,0
-2306,55344,Paradise Canyon,1935,26846,0
-2307,55368,Paradise Canyon,1935,26846,0
-2308,55392,Paradise Canyon,1935,26846,0
-2309,55416,Paradise Canyon,1935,26846,0
-2310,55440,Paradise Canyon,1935,26846,0
-2311,55464,Paradise Canyon,1935,26846,0
-2312,55488,Paradise Canyon,1935,26846,0
-2313,55512,Paradise Canyon,1935,26846,0
-2314,55536,Paradise Canyon,1935,26846,0
-2315,55560,Paradise Canyon,1935,26846,0
-2316,55584,Paradise Canyon,1935,26846,0
-2317,55608,Paradise Canyon,1935,26846,0
-2318,55632,Paradise Canyon,1935,26846,0
-2319,55656,Paradise Canyon,1935,26846,0
-2320,55680,Paradise Canyon,1935,26846,0
-2321,55704,Paradise Canyon,1935,26846,0
-2322,55728,Paradise Canyon,1935,26846,0
-2323,55752,Paradise Canyon,1935,26846,0
-2324,55776,Paradise Canyon,1935,26846,0
-2325,55800,Paradise Canyon,1935,26846,0
-2326,55824,Paradise Canyon,1935,26846,0
-2327,55848,Paradise Canyon,1935,26846,0
-2328,55872,Paradise Canyon,1935,26846,0
-2329,55896,Paradise Canyon,1935,26846,0
-2330,55920,Paradise Canyon,1935,26846,0
-2331,55944,Paradise Canyon,1935,26846,0
-2332,55968,Paradise Canyon,1935,26846,0
-2333,55992,Paradise Canyon,1935,26846,0
-2334,56016,Paradise Canyon,1935,26846,0
-2335,56040,Paradise Canyon,1935,26846,0
-2336,56064,Paradise Canyon,1935,26846,0
-2337,56088,Paradise Canyon,1935,26846,0
-2338,56112,Paradise Canyon,1935,26846,0
-2339,56136,Paradise Canyon,1935,26846,0
-2340,56160,Paradise Canyon,1935,26846,0
-2341,56184,Paradise Canyon,1935,26846,0
-2342,56208,Paradise Canyon,1935,26846,0
-2343,56232,Paradise Canyon,1935,26846,0
-2344,56256,Paradise Canyon,1935,26846,0
-2345,56280,Paradise Canyon,1935,26846,0
-2346,56304,Paradise Canyon,1935,26846,0
-2347,56328,Paradise Canyon,1935,26846,0
-2348,56352,Paradise Canyon,1935,26846,0
-2349,56376,Paradise Canyon,1935,26846,0
-2350,56400,Paradise Canyon,1935,26846,0
-2351,56424,Paradise Canyon,1935,26846,0
-2352,56448,Paradise Canyon,1935,26846,0
-2353,56472,Paradise Canyon,1935,26846,0
-2354,56496,Paradise Canyon,1935,26846,0
-2355,56520,Paradise Canyon,1935,26846,0
-2356,56544,Paradise Canyon,1935,26846,0
-2357,56568,Paradise Canyon,1935,26846,0
-2358,56592,Paradise Canyon,1935,26846,0
-2359,56616,Paradise Canyon,1935,26846,0
-2360,56640,Paradise Canyon,1935,26846,0
-2361,56664,Paradise Canyon,1935,26846,0
-2362,56688,Paradise Canyon,1935,26846,0
-2363,56712,Paradise Canyon,1935,26846,0
-2364,56736,Paradise Canyon,1935,26846,0
-2365,56760,Paradise Canyon,1935,26846,0
-2366,56784,Paradise Canyon,1935,26846,0
-2367,56808,Paradise Canyon,1935,26846,0
-2368,56832,Paradise Canyon,1935,26846,0
-2369,56856,Paradise Canyon,1935,26846,0
-2370,56880,Paradise Canyon,1935,26846,0
-2371,56904,Paradise Canyon,1935,26846,0
-2372,56928,Paradise Canyon,1935,26846,0
-2373,56952,Paradise Canyon,1935,26846,0
-2374,56976,Paradise Canyon,1935,26846,0
-2375,57000,Paradise Canyon,1935,26846,0
-2376,57024,Paradise Canyon,1935,26846,0
-2377,57048,Paradise Canyon,1935,26846,0
-2378,57072,Paradise Canyon,1935,26846,0
-2379,57096,Paradise Canyon,1935,26846,0
-2380,57120,Paradise Canyon,1935,26846,0
-2381,57144,Paradise Canyon,1935,26846,0
-2382,57168,Paradise Canyon,1935,26846,0
-2383,57192,Paradise Canyon,1935,26846,0
-2384,57216,Paradise Canyon,1935,26846,0
-2385,57240,Paradise Canyon,1935,26846,0
-2386,57264,Paradise Canyon,1935,26846,0
-2387,57288,Paradise Canyon,1935,26846,0
-2388,57312,Paradise Canyon,1935,26846,0
-2389,57336,Paradise Canyon,1935,26846,0
-2390,57360,Paradise Canyon,1935,26846,0
-2391,57384,Paradise Canyon,1935,26846,0
-2392,57408,Paradise Canyon,1935,26846,0
-2393,57432,Paradise Canyon,1935,26846,0
-2394,57456,Paradise Canyon,1935,26846,0
-2395,57480,Paradise Canyon,1935,26846,0
-2396,57504,Paradise Canyon,1935,26846,0
-2397,57528,Paradise Canyon,1935,26846,0
-2398,57552,Paradise Canyon,1935,26846,0
-2399,57576,Paradise Canyon,1935,26846,0
-2400,57600,Paradise Canyon,1935,26846,0
-2401,57624,Paradise Canyon,1935,26846,0
-2402,57648,Paradise Canyon,1935,26846,0
-2403,57672,Paradise Canyon,1935,26846,0
-2404,57696,Paradise Canyon,1935,26846,0
-2405,57720,Paradise Canyon,1935,26846,0
-2406,57744,Paradise Canyon,1935,26846,0
-2407,57768,Paradise Canyon,1935,26846,0
-2408,57792,Paradise Canyon,1935,26846,0
-2409,57816,Paradise Canyon,1935,26846,0
-2410,57840,Paradise Canyon,1935,26846,0
-2411,57864,Paradise Canyon,1935,26846,0
-2412,57888,Paradise Canyon,1935,26846,0
-2413,57912,Paradise Canyon,1935,26846,0
-2414,57936,Paradise Canyon,1935,26846,0
-2415,57960,Paradise Canyon,1935,26846,0
-2416,57984,Paradise Canyon,1935,26846,0
-2417,58008,Paradise Canyon,1935,26846,0
-2418,58032,Paradise Canyon,1935,26846,0
-2419,58056,Paradise Canyon,1935,26846,0
-2420,58080,Paradise Canyon,1935,26846,0
-2421,58104,Paradise Canyon,1935,26846,0
-2422,58128,Paradise Canyon,1935,26846,0
-2423,58152,Paradise Canyon,1935,26846,0
-2424,58176,Paradise Canyon,1935,26846,0
-2425,58200,Paradise Canyon,1935,26846,0
-2426,58224,Paradise Canyon,1935,26846,0
-2427,58248,Paradise Canyon,1935,26846,0
-2428,58272,Paradise Canyon,1935,26846,0
-2429,58296,Paradise Canyon,1935,26846,0
-2430,58320,Paradise Canyon,1935,26846,0
-2431,58344,Paradise Canyon,1935,26846,0
-2432,58368,Paradise Canyon,1935,26846,0
-2433,58392,Paradise Canyon,1935,26846,0
-2434,58416,Paradise Canyon,1935,26846,0
-2435,58440,Paradise Canyon,1935,26846,0
-2436,58464,Paradise Canyon,1935,26846,0
-2437,58488,Paradise Canyon,1935,26846,0
-2438,58512,Paradise Canyon,1935,26846,0
-2439,58536,Paradise Canyon,1935,26846,0
-2440,58560,Paradise Canyon,1935,26846,0
-2441,58584,Paradise Canyon,1935,26846,0
-2442,58608,Paradise Canyon,1935,26846,0
-2443,58632,Paradise Canyon,1935,26846,0
-2444,58656,Paradise Canyon,1935,26846,0
-2445,58680,Paradise Canyon,1935,26846,0
-2446,58704,Paradise Canyon,1935,26846,0
-2447,58728,Paradise Canyon,1935,26846,0
-2448,58752,Paradise Canyon,1935,26846,0
-2449,58776,Paradise Canyon,1935,26846,0
-2450,58800,Paradise Canyon,1935,26846,0
-2451,58824,Paradise Canyon,1935,26846,0
-2452,58848,Paradise Canyon,1935,26846,0
-2453,58872,Paradise Canyon,1935,26846,0
-2454,58896,Paradise Canyon,1935,26846,0
-2455,58920,Paradise Canyon,1935,26846,0
-2456,58944,Paradise Canyon,1935,26846,0
-2457,58968,Paradise Canyon,1935,26846,0
-2458,58992,Paradise Canyon,1935,26846,0
-2459,59016,Paradise Canyon,1935,26846,0
-2460,59040,Paradise Canyon,1935,26846,0
-2461,59064,Paradise Canyon,1935,26846,0
-2462,59088,Paradise Canyon,1935,26846,0
-2463,59112,Paradise Canyon,1935,26846,0
-2464,59136,Paradise Canyon,1935,26846,0
-2465,59160,Paradise Canyon,1935,26846,0
-2466,59184,Paradise Canyon,1935,26846,0
-2467,59208,Paradise Canyon,1935,26846,0
-2468,59232,Paradise Canyon,1935,26846,0
-2469,59256,Paradise Canyon,1935,26846,0
-2470,59280,Paradise Canyon,1935,26846,0
-2471,59304,Paradise Canyon,1935,26846,0
-2472,59328,Paradise Canyon,1935,26846,0
-2473,59352,Paradise Canyon,1935,26846,0
-2474,59376,Paradise Canyon,1935,26846,0
-2475,59400,Paradise Canyon,1935,26846,0
-2476,59424,Paradise Canyon,1935,26846,0
-2477,59448,Paradise Canyon,1935,26846,0
-2478,59472,Paradise Canyon,1935,26846,0
-2479,59496,Paradise Canyon,1935,26846,0
-2480,59520,Paradise Canyon,1935,26846,0
-2481,59544,Paradise Canyon,1935,26846,0
-2482,59568,Paradise Canyon,1935,26846,0
-2483,59592,Paradise Canyon,1935,26846,0
-2484,59616,Paradise Canyon,1935,26846,0
-2485,59640,Paradise Canyon,1935,26846,0
-2486,59664,Paradise Canyon,1935,26846,0
-2487,59688,Paradise Canyon,1935,26846,0
-2488,59712,Paradise Canyon,1935,26846,0
-2489,59736,Paradise Canyon,1935,26846,0
-2490,59760,Paradise Canyon,1935,26846,0
-2491,59784,Paradise Canyon,1935,26846,0
-2492,59808,Paradise Canyon,1935,26846,0
-2493,59832,Paradise Canyon,1935,26846,0
-2494,59856,Paradise Canyon,1935,26846,0
-2495,59880,Paradise Canyon,1935,26846,0
-2496,59904,Paradise Canyon,1935,26846,0
-2497,59928,Paradise Canyon,1935,26846,0
-2498,59952,Paradise Canyon,1935,26846,0
-2499,59976,Paradise Canyon,1935,26846,0
-2500,60000,Paradise Canyon,1935,26846,0
-2501,60024,Paradise Canyon,1935,26846,0
-2502,60048,Paradise Canyon,1935,26846,0
-2503,60072,Paradise Canyon,1935,26846,0
-2504,60096,Paradise Canyon,1935,26846,0
-2505,60120,Paradise Canyon,1935,26846,0
-2506,60144,Paradise Canyon,1935,26846,0
-2507,60168,Paradise Canyon,1935,26846,0
-2508,60192,Paradise Canyon,1935,26846,0
-2509,60216,Paradise Canyon,1935,26846,0
-2510,60240,Paradise Canyon,1935,26846,0
-2511,60264,Paradise Canyon,1935,26846,0
-2512,60288,Paradise Canyon,1935,26846,0
-2513,60312,Paradise Canyon,1935,26846,0
-2514,60336,Paradise Canyon,1935,26846,0
-2515,60360,Paradise Canyon,1935,26846,0
-2516,60384,Paradise Canyon,1935,26846,0
-2517,60408,Paradise Canyon,1935,26846,0
-2518,60432,Paradise Canyon,1935,26846,0
-2519,60456,Paradise Canyon,1935,26846,0
-2520,60480,Paradise Canyon,1935,26846,0
-2521,60504,Paradise Canyon,1935,26846,0
-2522,60528,Paradise Canyon,1935,26846,0
-2523,60552,Paradise Canyon,1935,26846,0
-2524,60576,Paradise Canyon,1935,26846,0
-2525,60600,Paradise Canyon,1935,26846,0
-2526,60624,Paradise Canyon,1935,26846,0
-2527,60648,Paradise Canyon,1935,26846,0
-2528,60672,Paradise Canyon,1935,26846,0
-2529,60696,Paradise Canyon,1935,26846,0
-2530,60720,Paradise Canyon,1935,26846,1
-2531,60744,Paradise Canyon,1935,26846,1
-2532,60768,Paradise Canyon,1935,26846,0
-2533,60792,Paradise Canyon,1935,26846,0
-2534,60816,Paradise Canyon,1935,26846,0
-2535,60840,Paradise Canyon,1935,26846,0
-2536,60864,Paradise Canyon,1935,26846,0
-2537,60888,Paradise Canyon,1935,26846,0
-2538,60912,Paradise Canyon,1935,26846,0
-2539,60936,Paradise Canyon,1935,26846,0
-2540,60960,Paradise Canyon,1935,26846,0
-2541,60984,Paradise Canyon,1935,26846,0
-2542,61008,Paradise Canyon,1935,26846,0
-2543,61032,Paradise Canyon,1935,26846,0
-2544,61056,Paradise Canyon,1935,26846,0
-2545,61080,Paradise Canyon,1935,26846,0
-2546,61104,Paradise Canyon,1935,26846,0
-2547,61128,Paradise Canyon,1935,26846,0
-2548,61152,Paradise Canyon,1935,26846,0
-2549,61176,Paradise Canyon,1935,26846,0
-2550,61200,Paradise Canyon,1935,26846,0
-2551,61224,Paradise Canyon,1935,26846,0
-2552,61248,Paradise Canyon,1935,26846,0
-2553,61272,Paradise Canyon,1935,26846,0
-2554,61296,Paradise Canyon,1935,26846,0
-2555,61320,Paradise Canyon,1935,26846,0
-2556,61344,Paradise Canyon,1935,26846,0
-2557,61368,Paradise Canyon,1935,26846,0
-2558,61392,Paradise Canyon,1935,26846,0
-2559,61416,Paradise Canyon,1935,26846,0
-2560,61440,Paradise Canyon,1935,26846,0
-2561,61464,Paradise Canyon,1935,26846,0
-2562,61488,Paradise Canyon,1935,26846,0
-2563,61512,Paradise Canyon,1935,26846,0
-2564,61536,Paradise Canyon,1935,26846,0
-2565,61560,Paradise Canyon,1935,26846,0
-2566,61584,Paradise Canyon,1935,26846,0
-2567,61608,Paradise Canyon,1935,26846,0
-2568,61632,Paradise Canyon,1935,26846,0
-2569,61656,Paradise Canyon,1935,26846,0
-2570,61680,Paradise Canyon,1935,26846,0
-2571,61704,Paradise Canyon,1935,26846,0
-2572,61728,Paradise Canyon,1935,26846,0
-2573,61752,Paradise Canyon,1935,26846,0
-2574,61776,Paradise Canyon,1935,26846,0
-2575,61800,Paradise Canyon,1935,26846,0
-2576,61824,Paradise Canyon,1935,26846,0
-2577,61848,Paradise Canyon,1935,26846,0
-2578,61872,Paradise Canyon,1935,26846,0
-2579,61896,Paradise Canyon,1935,26846,1
-2580,61920,Paradise Canyon,1935,26846,0
-2581,61944,Paradise Canyon,1935,26846,1
-2582,61968,Paradise Canyon,1935,26846,0
-2583,61992,Paradise Canyon,1935,26846,1
-2584,62016,Paradise Canyon,1935,26846,1
-2585,62040,Paradise Canyon,1935,26846,0
-2586,62064,Paradise Canyon,1935,26846,0
-2587,62088,Paradise Canyon,1935,26846,0
-2588,62112,Paradise Canyon,1935,26846,0
-2589,62136,Paradise Canyon,1935,26846,1
-2590,62160,Paradise Canyon,1935,26846,0
-2591,62184,Paradise Canyon,1935,26846,1
-2592,62208,Paradise Canyon,1935,26846,0
-2593,62232,Paradise Canyon,1935,26846,0
-2594,62256,Paradise Canyon,1935,26846,0
-2595,62280,Paradise Canyon,1935,26846,0
-2596,62304,Paradise Canyon,1935,26846,0
-2597,62328,Paradise Canyon,1935,26846,0
-2598,62352,Paradise Canyon,1935,26846,0
-2599,62376,Paradise Canyon,1935,26846,0
-2600,62400,Paradise Canyon,1935,26846,0
-2601,62424,Paradise Canyon,1935,26846,1
-2602,62448,Paradise Canyon,1935,26846,0
-2603,62472,Paradise Canyon,1935,26846,0
-2604,62496,Paradise Canyon,1935,26846,0
-2605,62520,Paradise Canyon,1935,26846,0
-2606,62544,Paradise Canyon,1935,26846,0
-2607,62568,Paradise Canyon,1935,26846,0
-2608,62592,Paradise Canyon,1935,26846,0
-2609,62616,Paradise Canyon,1935,26846,0
-2610,62640,Paradise Canyon,1935,26846,0
-2611,62664,Paradise Canyon,1935,26846,0
-2612,62688,Paradise Canyon,1935,26846,0
-2613,62712,Paradise Canyon,1935,26846,0
-2614,62736,Paradise Canyon,1935,26846,0
-2615,62760,Paradise Canyon,1935,26846,0
-2616,62784,Paradise Canyon,1935,26846,0
-2617,62808,Paradise Canyon,1935,26846,0
-2618,62832,Paradise Canyon,1935,26846,0
-2619,62856,Paradise Canyon,1935,26846,0
-2620,62880,Paradise Canyon,1935,26846,0
-2621,62904,Paradise Canyon,1935,26846,0
-2622,62928,Paradise Canyon,1935,26846,0
-2623,62952,Paradise Canyon,1935,26846,0
-2624,62976,Paradise Canyon,1935,26846,0
-2625,63000,Paradise Canyon,1935,26846,0
-2626,63024,Paradise Canyon,1935,26846,0
-2627,63048,Paradise Canyon,1935,26846,0
-2628,63072,Paradise Canyon,1935,26846,0
-2629,63096,Paradise Canyon,1935,26846,0
-2630,63120,Paradise Canyon,1935,26846,0
-2631,63144,Paradise Canyon,1935,26846,0
-2632,63168,Paradise Canyon,1935,26846,0
-2633,63192,Paradise Canyon,1935,26846,0
-2634,63216,Paradise Canyon,1935,26846,0
-2635,63240,Paradise Canyon,1935,26846,0
-2636,63264,Paradise Canyon,1935,26846,0
-2637,63288,Paradise Canyon,1935,26846,0
-2638,63312,Paradise Canyon,1935,26846,0
-2639,63336,Paradise Canyon,1935,26846,0
-2640,63360,Paradise Canyon,1935,26846,0
-2641,63384,Paradise Canyon,1935,26846,0
-2642,63408,Paradise Canyon,1935,26846,0
-2643,63432,Paradise Canyon,1935,26846,0
-2644,63456,Paradise Canyon,1935,26846,0
-2645,63480,Paradise Canyon,1935,26846,0
-2646,63504,Paradise Canyon,1935,26846,0
-2647,63528,Paradise Canyon,1935,26846,0
-2648,63552,Paradise Canyon,1935,26846,0
-2649,63576,Paradise Canyon,1935,26846,0
-2650,63600,Paradise Canyon,1935,26846,0
-2651,63624,Paradise Canyon,1935,26846,0
-2652,63648,Paradise Canyon,1935,26846,0
-2653,63672,Paradise Canyon,1935,26846,0
-2654,63696,Paradise Canyon,1935,26846,0
-2655,63720,Paradise Canyon,1935,26846,0
-2656,63744,Paradise Canyon,1935,26846,0
-2657,63768,Paradise Canyon,1935,26846,0
-2658,63792,Paradise Canyon,1935,26846,0
-2659,63816,Paradise Canyon,1935,26846,0
-2660,63840,Paradise Canyon,1935,26846,0
-2661,63864,Paradise Canyon,1935,26846,0
-2662,63888,Paradise Canyon,1935,26846,0
-2663,63912,Paradise Canyon,1935,26846,0
-2664,63936,Paradise Canyon,1935,26846,0
-2665,63960,Paradise Canyon,1935,26846,0
-2666,63984,Paradise Canyon,1935,26846,0
-2667,64008,Paradise Canyon,1935,26846,0
-2668,64032,Paradise Canyon,1935,26846,0
-2669,64056,Paradise Canyon,1935,26846,0
-2670,64080,Paradise Canyon,1935,26846,0
-2671,64104,Paradise Canyon,1935,26846,0
-2672,64128,Paradise Canyon,1935,26846,0
-2673,64152,Paradise Canyon,1935,26846,0
-2674,64176,Paradise Canyon,1935,26846,0
-2675,64200,Paradise Canyon,1935,26846,0
-2676,64224,Paradise Canyon,1935,26846,0
-2677,64248,Paradise Canyon,1935,26846,0
-2678,64272,Paradise Canyon,1935,26846,0
-2679,64296,Paradise Canyon,1935,26846,0
-2680,64320,Paradise Canyon,1935,26846,0
-2681,64344,Paradise Canyon,1935,26846,0
-2682,64368,Paradise Canyon,1935,26846,0
-2683,64392,Paradise Canyon,1935,26846,0
-2684,64416,Paradise Canyon,1935,26846,0
-2685,64440,Paradise Canyon,1935,26846,0
-2686,64464,Paradise Canyon,1935,26846,0
-2687,64488,Paradise Canyon,1935,26846,0
-2688,64512,Paradise Canyon,1935,26846,0
-2689,64536,Paradise Canyon,1935,26846,0
-2690,64560,Paradise Canyon,1935,26846,0
-2691,64584,Paradise Canyon,1935,26846,0
-2692,64608,Paradise Canyon,1935,26846,0
-2693,64632,Paradise Canyon,1935,26846,0
-2694,64656,Paradise Canyon,1935,26846,0
-2695,64680,Paradise Canyon,1935,26846,0
-2696,64704,Paradise Canyon,1935,26846,0
-2697,64728,Paradise Canyon,1935,26846,0
-2698,64752,Paradise Canyon,1935,26846,0
-2699,64776,Paradise Canyon,1935,26846,1
-2700,64800,Paradise Canyon,1935,26846,0
-2701,64824,Paradise Canyon,1935,26846,0
-2702,64848,Paradise Canyon,1935,26846,0
-2703,64872,Paradise Canyon,1935,26846,0
-2704,64896,Paradise Canyon,1935,26846,0
-2705,64920,Paradise Canyon,1935,26846,0
-2706,64944,Paradise Canyon,1935,26846,0
-2707,64968,Paradise Canyon,1935,26846,0
-2708,64992,Paradise Canyon,1935,26846,0
-2709,65016,Paradise Canyon,1935,26846,0
-2710,65040,Paradise Canyon,1935,26846,0
-2711,65064,Paradise Canyon,1935,26846,0
-2712,65088,Paradise Canyon,1935,26846,0
-2713,65112,Paradise Canyon,1935,26846,0
-2714,65136,Paradise Canyon,1935,26846,0
-2715,65160,Paradise Canyon,1935,26846,0
-2716,65184,Paradise Canyon,1935,26846,0
-2717,65208,Paradise Canyon,1935,26846,0
-2718,65232,Paradise Canyon,1935,26846,0
-2719,65256,Paradise Canyon,1935,26846,0
-2720,65280,Paradise Canyon,1935,26846,0
-2721,65304,Paradise Canyon,1935,26846,0
-2722,65328,Paradise Canyon,1935,26846,0
-2723,65352,Paradise Canyon,1935,26846,0
-2724,65376,Paradise Canyon,1935,26846,0
-2725,65400,Paradise Canyon,1935,26846,0
-2726,65424,Paradise Canyon,1935,26846,1
-2727,65448,Paradise Canyon,1935,26846,1
-2728,65472,Paradise Canyon,1935,26846,0
-2729,65496,Paradise Canyon,1935,26846,1
-2730,65520,Paradise Canyon,1935,26846,1
-2731,65544,Paradise Canyon,1935,26846,0
-2732,65568,Paradise Canyon,1935,26846,0
-2733,65592,Paradise Canyon,1935,26846,0
-2734,65616,Paradise Canyon,1935,26846,0
-2735,65640,Paradise Canyon,1935,26846,0
-2736,65664,Paradise Canyon,1935,26846,0
-2737,65688,Paradise Canyon,1935,26846,0
-2738,65712,Paradise Canyon,1935,26846,1
-2739,65736,Paradise Canyon,1935,26846,0
-2740,65760,Paradise Canyon,1935,26846,0
-2741,65784,Paradise Canyon,1935,26846,0
-2742,65808,Paradise Canyon,1935,26846,0
-2743,65832,Paradise Canyon,1935,26846,0
-2744,65856,Paradise Canyon,1935,26846,0
-2745,65880,Paradise Canyon,1935,26846,0
-2746,65904,Paradise Canyon,1935,26846,0
-2747,65928,Paradise Canyon,1935,26846,0
-2748,65952,Paradise Canyon,1935,26846,0
-2749,65976,Paradise Canyon,1935,26846,0
-2750,66000,Paradise Canyon,1935,26846,0
-2751,66024,Paradise Canyon,1935,26846,0
-2752,66048,Paradise Canyon,1935,26846,0
-2753,66072,Paradise Canyon,1935,26846,0
-2754,66096,Paradise Canyon,1935,26846,0
-2755,66120,Paradise Canyon,1935,26846,0
-2756,66144,Paradise Canyon,1935,26846,0
-2757,66168,Paradise Canyon,1935,26846,0
-2758,66192,Paradise Canyon,1935,26846,0
-2759,66216,Paradise Canyon,1935,26846,0
-2760,66240,Paradise Canyon,1935,26846,0
-2761,66264,Paradise Canyon,1935,26846,0
-2762,66288,Paradise Canyon,1935,26846,0
-2763,66312,Paradise Canyon,1935,26846,0
-2764,66336,Paradise Canyon,1935,26846,0
-2765,66360,Paradise Canyon,1935,26846,0
-2766,66384,Paradise Canyon,1935,26846,0
-2767,66408,Paradise Canyon,1935,26846,1
-2768,66432,Paradise Canyon,1935,26846,0
-2769,66456,Paradise Canyon,1935,26846,0
-2770,66480,Paradise Canyon,1935,26846,0
-2771,66504,Paradise Canyon,1935,26846,0
-2772,66528,Paradise Canyon,1935,26846,0
-2773,66552,Paradise Canyon,1935,26846,0
-2774,66576,Paradise Canyon,1935,26846,0
-2775,66600,Paradise Canyon,1935,26846,0
-2776,66624,Paradise Canyon,1935,26846,0
-2777,66648,Paradise Canyon,1935,26846,0
-2778,66672,Paradise Canyon,1935,26846,0
-2779,66696,Paradise Canyon,1935,26846,0
-2780,66720,Paradise Canyon,1935,26846,0
-2781,66744,Paradise Canyon,1935,26846,0
-2782,66768,Paradise Canyon,1935,26846,0
-2783,66792,Paradise Canyon,1935,26846,0
-2784,66816,Paradise Canyon,1935,26846,0
-2785,66840,Paradise Canyon,1935,26846,0
-2786,66864,Paradise Canyon,1935,26846,0
-2787,66888,Paradise Canyon,1935,26846,0
-2788,66912,Paradise Canyon,1935,26846,0
-2789,66936,Paradise Canyon,1935,26846,0
-2790,66960,Paradise Canyon,1935,26846,0
-2791,66984,Paradise Canyon,1935,26846,0
-2792,67008,Paradise Canyon,1935,26846,0
-2793,67032,Paradise Canyon,1935,26846,0
-2794,67056,Paradise Canyon,1935,26846,0
-2795,67080,Paradise Canyon,1935,26846,0
-2796,67104,Paradise Canyon,1935,26846,0
-2797,67128,Paradise Canyon,1935,26846,0
-2798,67152,Paradise Canyon,1935,26846,0
-2799,67176,Paradise Canyon,1935,26846,0
-2800,67200,Paradise Canyon,1935,26846,0
-2801,67224,Paradise Canyon,1935,26846,0
-2802,67248,Paradise Canyon,1935,26846,0
-2803,67272,Paradise Canyon,1935,26846,0
-2804,67296,Paradise Canyon,1935,26846,0
-2805,67320,Paradise Canyon,1935,26846,0
-2806,67344,Paradise Canyon,1935,26846,0
-2807,67368,Paradise Canyon,1935,26846,0
-2808,67392,Paradise Canyon,1935,26846,0
-2809,67416,Paradise Canyon,1935,26846,0
-2810,67440,Paradise Canyon,1935,26846,0
-2811,67464,Paradise Canyon,1935,26846,0
-2812,67488,Paradise Canyon,1935,26846,0
-2813,67512,Paradise Canyon,1935,26846,0
-2814,67536,Paradise Canyon,1935,26846,0
-2815,67560,Paradise Canyon,1935,26846,0
-2816,67584,Paradise Canyon,1935,26846,0
-2817,67608,Paradise Canyon,1935,26846,0
-2818,67632,Paradise Canyon,1935,26846,0
-2819,67656,Paradise Canyon,1935,26846,0
-2820,67680,Paradise Canyon,1935,26846,0
-2821,67704,Paradise Canyon,1935,26846,0
-2822,67728,Paradise Canyon,1935,26846,0
-2823,67752,Paradise Canyon,1935,26846,0
-2824,67776,Paradise Canyon,1935,26846,0
-2825,67800,Paradise Canyon,1935,26846,0
-2826,67824,Paradise Canyon,1935,26846,0
-2827,67848,Paradise Canyon,1935,26846,0
-2828,67872,Paradise Canyon,1935,26846,0
-2829,67896,Paradise Canyon,1935,26846,0
-2830,67920,Paradise Canyon,1935,26846,0
-2831,67944,Paradise Canyon,1935,26846,0
-2832,67968,Paradise Canyon,1935,26846,0
-2833,67992,Paradise Canyon,1935,26846,0
-2834,68016,Paradise Canyon,1935,26846,0
-2835,68040,Paradise Canyon,1935,26846,0
-2836,68064,Paradise Canyon,1935,26846,0
-2837,68088,Paradise Canyon,1935,26846,0
-2838,68112,Paradise Canyon,1935,26846,0
-2839,68136,Paradise Canyon,1935,26846,0
-2840,68160,Paradise Canyon,1935,26846,0
-2841,68184,Paradise Canyon,1935,26846,0
-2842,68208,Paradise Canyon,1935,26846,0
-2843,68232,Paradise Canyon,1935,26846,0
-2844,68256,Paradise Canyon,1935,26846,0
-2845,68280,Paradise Canyon,1935,26846,0
-2846,68304,Paradise Canyon,1935,26846,0
-2847,68328,Paradise Canyon,1935,26846,0
-2848,68352,Paradise Canyon,1935,26846,0
-2849,68376,Paradise Canyon,1935,26846,0
-2850,68400,Paradise Canyon,1935,26846,0
-2851,68424,Paradise Canyon,1935,26846,0
-2852,68448,Paradise Canyon,1935,26846,0
-2853,68472,Paradise Canyon,1935,26846,0
-2854,68496,Paradise Canyon,1935,26846,0
-2855,68520,Paradise Canyon,1935,26846,0
-2856,68544,Paradise Canyon,1935,26846,0
-2857,68568,Paradise Canyon,1935,26846,0
-2858,68592,Paradise Canyon,1935,26846,0
-2859,68616,Paradise Canyon,1935,26846,0
-2860,68640,Paradise Canyon,1935,26846,0
-2861,68664,Paradise Canyon,1935,26846,0
-2862,68688,Paradise Canyon,1935,26846,0
-2863,68712,Paradise Canyon,1935,26846,0
-2864,68736,Paradise Canyon,1935,26846,0
-2865,68760,Paradise Canyon,1935,26846,0
-2866,68784,Paradise Canyon,1935,26846,0
-2867,68808,Paradise Canyon,1935,26846,0
-2868,68832,Paradise Canyon,1935,26846,0
-2869,68856,Paradise Canyon,1935,26846,0
-2870,68880,Paradise Canyon,1935,26846,0
-2871,68904,Paradise Canyon,1935,26846,0
-2872,68928,Paradise Canyon,1935,26846,0
-2873,68952,Paradise Canyon,1935,26846,0
-2874,68976,Paradise Canyon,1935,26846,0
-2875,69000,Paradise Canyon,1935,26846,0
-2876,69024,Paradise Canyon,1935,26846,0
-2877,69048,Paradise Canyon,1935,26846,0
-2878,69072,Paradise Canyon,1935,26846,0
-2879,69096,Paradise Canyon,1935,26846,0
-2880,69120,Paradise Canyon,1935,26846,0
-2881,69144,Paradise Canyon,1935,26846,0
-2882,69168,Paradise Canyon,1935,26846,0
-2883,69192,Paradise Canyon,1935,26846,0
-2884,69216,Paradise Canyon,1935,26846,0
-2885,69240,Paradise Canyon,1935,26846,0
-2886,69264,Paradise Canyon,1935,26846,0
-2887,69288,Paradise Canyon,1935,26846,0
-2888,69312,Paradise Canyon,1935,26846,0
-2889,69336,Paradise Canyon,1935,26846,0
-2890,69360,Paradise Canyon,1935,26846,0
-2891,69384,Paradise Canyon,1935,26846,0
-2892,69408,Paradise Canyon,1935,26846,0
-2893,69432,Paradise Canyon,1935,26846,0
-2894,69456,Paradise Canyon,1935,26846,0
-2895,69480,Paradise Canyon,1935,26846,0
-2896,69504,Paradise Canyon,1935,26846,0
-2897,69528,Paradise Canyon,1935,26846,0
-2898,69552,Paradise Canyon,1935,26846,0
-2899,69576,Paradise Canyon,1935,26846,0
-2900,69600,Paradise Canyon,1935,26846,0
-2901,69624,Paradise Canyon,1935,26846,0
-2902,69648,Paradise Canyon,1935,26846,0
-2903,69672,Paradise Canyon,1935,26846,0
-2904,69696,Paradise Canyon,1935,26846,0
-2905,69720,Paradise Canyon,1935,26846,0
-2906,69744,Paradise Canyon,1935,26846,0
-2907,69768,Paradise Canyon,1935,26846,0
-2908,69792,Paradise Canyon,1935,26846,0
-2909,69816,Paradise Canyon,1935,26846,0
-2910,69840,Paradise Canyon,1935,26846,0
-2911,69864,Paradise Canyon,1935,26846,0
-2912,69888,Paradise Canyon,1935,26846,0
-2913,69912,Paradise Canyon,1935,26846,0
-2914,69936,Paradise Canyon,1935,26846,0
-2915,69960,Paradise Canyon,1935,26846,0
-2916,69984,Paradise Canyon,1935,26846,0
-2917,70008,Paradise Canyon,1935,26846,0
-2918,70032,Paradise Canyon,1935,26846,0
-2919,70056,Paradise Canyon,1935,26846,0
-2920,70080,Paradise Canyon,1935,26846,0
-2921,70104,Paradise Canyon,1935,26846,0
-2922,70128,Paradise Canyon,1935,26846,0
-2923,70152,Paradise Canyon,1935,26846,0
-2924,70176,Paradise Canyon,1935,26846,0
-2925,70200,Paradise Canyon,1935,26846,0
-2926,70224,Paradise Canyon,1935,26846,0
-2927,70248,Paradise Canyon,1935,26846,0
-2928,70272,Paradise Canyon,1935,26846,0
-2929,70296,Paradise Canyon,1935,26846,0
-2930,70320,Paradise Canyon,1935,26846,0
-2931,70344,Paradise Canyon,1935,26846,0
-2932,70368,Paradise Canyon,1935,26846,0
-2933,70392,Paradise Canyon,1935,26846,0
-2934,70416,Paradise Canyon,1935,26846,0
-2935,70440,Paradise Canyon,1935,26846,0
-2936,70464,Paradise Canyon,1935,26846,0
-2937,70488,Paradise Canyon,1935,26846,0
-2938,70512,Paradise Canyon,1935,26846,0
-2939,70536,Paradise Canyon,1935,26846,0
-2940,70560,Paradise Canyon,1935,26846,0
-2941,70584,Paradise Canyon,1935,26846,0
-2942,70608,Paradise Canyon,1935,26846,0
-2943,70632,Paradise Canyon,1935,26846,0
-2944,70656,Paradise Canyon,1935,26846,0
-2945,70680,Paradise Canyon,1935,26846,0
-2946,70704,Paradise Canyon,1935,26846,0
-2947,70728,Paradise Canyon,1935,26846,0
-2948,70752,Paradise Canyon,1935,26846,0
-2949,70776,Paradise Canyon,1935,26846,0
-2950,70800,Paradise Canyon,1935,26846,0
-2951,70824,Paradise Canyon,1935,26846,0
-2952,70848,Paradise Canyon,1935,26846,0
-2953,70872,Paradise Canyon,1935,26846,0
-2954,70896,Paradise Canyon,1935,26846,0
-2955,70920,Paradise Canyon,1935,26846,0
-2956,70944,Paradise Canyon,1935,26846,0
-2957,70968,Paradise Canyon,1935,26846,0
-2958,70992,Paradise Canyon,1935,26846,0
-2959,71016,Paradise Canyon,1935,26846,0
-2960,71040,Paradise Canyon,1935,26846,0
-2961,71064,Paradise Canyon,1935,26846,0
-2962,71088,Paradise Canyon,1935,26846,0
-2963,71112,Paradise Canyon,1935,26846,0
-2964,71136,Paradise Canyon,1935,26846,0
-2965,71160,Paradise Canyon,1935,26846,0
-2966,71184,Paradise Canyon,1935,26846,0
-2967,71208,Paradise Canyon,1935,26846,0
-2968,71232,Paradise Canyon,1935,26846,0
-2969,71256,Paradise Canyon,1935,26846,0
-2970,71280,Paradise Canyon,1935,26846,0
-2971,71304,Paradise Canyon,1935,26846,0
-2972,71328,Paradise Canyon,1935,26846,0
-2973,71352,Paradise Canyon,1935,26846,0
-2974,71376,Paradise Canyon,1935,26846,0
-2975,71400,Paradise Canyon,1935,26846,0
-2976,71424,Paradise Canyon,1935,26846,0
-2977,71448,Paradise Canyon,1935,26846,0
-2978,71472,Paradise Canyon,1935,26846,0
-2979,71496,Paradise Canyon,1935,26846,0
-2980,71520,Paradise Canyon,1935,26846,0
-2981,71544,Paradise Canyon,1935,26846,0
-2982,71568,Paradise Canyon,1935,26846,0
-2983,71592,Paradise Canyon,1935,26846,0
-2984,71616,Paradise Canyon,1935,26846,0
-2985,71640,Paradise Canyon,1935,26846,0
-2986,71664,Paradise Canyon,1935,26846,0
-2987,71688,Paradise Canyon,1935,26846,0
-2988,71712,Paradise Canyon,1935,26846,0
-2989,71736,Paradise Canyon,1935,26846,0
-2990,71760,Paradise Canyon,1935,26846,0
-2991,71784,Paradise Canyon,1935,26846,0
-2992,71808,Paradise Canyon,1935,26846,0
-2993,71832,Paradise Canyon,1935,26846,0
-2994,71856,Paradise Canyon,1935,26846,0
-2995,71880,Paradise Canyon,1935,26846,0
-2996,71904,Paradise Canyon,1935,26846,0
-2997,71928,Paradise Canyon,1935,26846,0
-2998,71952,Paradise Canyon,1935,26846,0
-2999,71976,Paradise Canyon,1935,26846,0
-3000,72000,Paradise Canyon,1935,26846,0
-3001,72024,Paradise Canyon,1935,26846,0
-3002,72048,Paradise Canyon,1935,26846,0
-3003,72072,Paradise Canyon,1935,26846,0
-3004,72096,Paradise Canyon,1935,26846,0
-3005,72120,Paradise Canyon,1935,26846,0
-3006,72144,Paradise Canyon,1935,26846,0
-3007,72168,Paradise Canyon,1935,26846,0
-3008,72192,Paradise Canyon,1935,26846,0
-3009,72216,Paradise Canyon,1935,26846,0
-3010,72240,Paradise Canyon,1935,26846,0
-3011,72264,Paradise Canyon,1935,26846,0
-3012,72288,Paradise Canyon,1935,26846,0
-3013,72312,Paradise Canyon,1935,26846,0
-3014,72336,Paradise Canyon,1935,26846,0
-3015,72360,Paradise Canyon,1935,26846,0
-3016,72384,Paradise Canyon,1935,26846,0
-3017,72408,Paradise Canyon,1935,26846,0
-3018,72432,Paradise Canyon,1935,26846,0
-3019,72456,Paradise Canyon,1935,26846,0
-3020,72480,Paradise Canyon,1935,26846,0
-3021,72504,Paradise Canyon,1935,26846,0
-3022,72528,Paradise Canyon,1935,26846,0
-3023,72552,Paradise Canyon,1935,26846,0
-3024,72576,Paradise Canyon,1935,26846,0
-3025,72600,Paradise Canyon,1935,26846,0
-3026,72624,Paradise Canyon,1935,26846,0
-3027,72648,Paradise Canyon,1935,26846,0
-3028,72672,Paradise Canyon,1935,26846,0
-3029,72696,Paradise Canyon,1935,26846,0
-3030,72720,Paradise Canyon,1935,26846,0
-3031,72744,Paradise Canyon,1935,26846,0
-3032,72768,Paradise Canyon,1935,26846,0
-3033,72792,Paradise Canyon,1935,26846,0
-3034,72816,Paradise Canyon,1935,26846,0
-3035,72840,Paradise Canyon,1935,26846,0
-3036,72864,Paradise Canyon,1935,26846,0
-3037,72888,Paradise Canyon,1935,26846,0
-3038,72912,Paradise Canyon,1935,26846,0
-3039,72936,Paradise Canyon,1935,26846,0
-3040,72960,Paradise Canyon,1935,26846,0
-3041,72984,Paradise Canyon,1935,26846,0
-3042,73008,Paradise Canyon,1935,26846,0
-3043,73032,Paradise Canyon,1935,26846,0
-3044,73056,Paradise Canyon,1935,26846,0
-3045,73080,Paradise Canyon,1935,26846,0
-3046,73104,Paradise Canyon,1935,26846,0
-3047,73128,Paradise Canyon,1935,26846,0
-3048,73152,Paradise Canyon,1935,26846,0
-3049,73176,Paradise Canyon,1935,26846,0
-3050,73200,Paradise Canyon,1935,26846,0
-3051,73224,Paradise Canyon,1935,26846,0
-3052,73248,Paradise Canyon,1935,26846,0
-3053,73272,Paradise Canyon,1935,26846,0
-3054,73296,Paradise Canyon,1935,26846,0
-3055,73320,Paradise Canyon,1935,26846,0
-3056,73344,Paradise Canyon,1935,26846,0
-3057,73368,Paradise Canyon,1935,26846,0
-3058,73392,Paradise Canyon,1935,26846,0
-3059,73416,Paradise Canyon,1935,26846,0
-3060,73440,Paradise Canyon,1935,26846,0
-3061,73464,Paradise Canyon,1935,26846,0
-3062,73488,Paradise Canyon,1935,26846,0
-3063,73512,Paradise Canyon,1935,26846,0
-3064,73536,Paradise Canyon,1935,26846,0
-3065,73560,Paradise Canyon,1935,26846,0
-3066,73584,Paradise Canyon,1935,26846,0
-3067,73608,Paradise Canyon,1935,26846,0
-3068,73632,Paradise Canyon,1935,26846,0
-3069,73656,Paradise Canyon,1935,26846,0
-3070,73680,Paradise Canyon,1935,26846,0
-3071,73704,Paradise Canyon,1935,26846,0
-3072,73728,Paradise Canyon,1935,26846,0
-3073,73752,Paradise Canyon,1935,26846,0
-3074,73776,Paradise Canyon,1935,26846,0
-3075,73800,Paradise Canyon,1935,26846,0
-3076,73824,Paradise Canyon,1935,26846,0
-3077,73848,Paradise Canyon,1935,26846,0
-3078,73872,Paradise Canyon,1935,26846,0
-3079,73896,Paradise Canyon,1935,26846,0
-3080,73920,Paradise Canyon,1935,26846,0
-3081,73944,Paradise Canyon,1935,26846,0
-3082,73968,Paradise Canyon,1935,26846,0
-3083,73992,Paradise Canyon,1935,26846,0
-3084,74016,Paradise Canyon,1935,26846,0
-3085,74040,Paradise Canyon,1935,26846,0
-3086,74064,Paradise Canyon,1935,26846,0
-3087,74088,Paradise Canyon,1935,26846,0
-3088,74112,Paradise Canyon,1935,26846,0
-3089,74136,Paradise Canyon,1935,26846,0
-3090,74160,Paradise Canyon,1935,26846,0
-3091,74184,Paradise Canyon,1935,26846,0
-3092,74208,Paradise Canyon,1935,26846,0
-3093,74232,Paradise Canyon,1935,26846,0
-3094,74256,Paradise Canyon,1935,26846,0
-3095,74280,Paradise Canyon,1935,26846,0
-3096,74304,Paradise Canyon,1935,26846,0
-3097,74328,Paradise Canyon,1935,26846,0
-3098,74352,Paradise Canyon,1935,26846,0
-3099,74376,Paradise Canyon,1935,26846,0
-3100,74400,Paradise Canyon,1935,26846,0
-3101,74424,Paradise Canyon,1935,26846,0
-3102,74448,Paradise Canyon,1935,26846,0
-3103,74472,Paradise Canyon,1935,26846,0
-3104,74496,Paradise Canyon,1935,26846,0
-3105,74520,Paradise Canyon,1935,26846,0
-3106,74544,Paradise Canyon,1935,26846,0
-3107,74568,Paradise Canyon,1935,26846,0
-3108,74592,Paradise Canyon,1935,26846,0
-3109,74616,Paradise Canyon,1935,26846,0
-3110,74640,Paradise Canyon,1935,26846,0
-3111,74664,Paradise Canyon,1935,26846,0
-3112,74688,Paradise Canyon,1935,26846,1
-3113,74712,Paradise Canyon,1935,26846,0
-3114,74736,Paradise Canyon,1935,26846,0
-3115,74760,Paradise Canyon,1935,26846,0
-3116,74784,Paradise Canyon,1935,26846,0
-3117,74808,Paradise Canyon,1935,26846,0
-3118,74832,Paradise Canyon,1935,26846,0
-3119,74856,Paradise Canyon,1935,26846,0
-3120,74880,Paradise Canyon,1935,26846,0
-3121,74904,Paradise Canyon,1935,26846,0
-3122,74928,Paradise Canyon,1935,26846,0
-3123,74952,Paradise Canyon,1935,26846,0
-3124,74976,Paradise Canyon,1935,26846,0
-3125,75000,Paradise Canyon,1935,26846,0
-3126,75024,Paradise Canyon,1935,26846,0
-3127,75048,Paradise Canyon,1935,26846,0
-3128,75072,Paradise Canyon,1935,26846,0
-3129,75096,Paradise Canyon,1935,26846,0
-3130,75120,Paradise Canyon,1935,26846,0
-3131,75144,Paradise Canyon,1935,26846,0
-3132,75168,Paradise Canyon,1935,26846,0
-3133,75192,Paradise Canyon,1935,26846,0
-3134,75216,Paradise Canyon,1935,26846,0
-3135,75240,Paradise Canyon,1935,26846,0
-3136,75264,Paradise Canyon,1935,26846,0
-3137,75288,Paradise Canyon,1935,26846,0
-3138,75312,Paradise Canyon,1935,26846,0
-3139,75336,Paradise Canyon,1935,26846,0
-3140,75360,Paradise Canyon,1935,26846,0
-3141,75384,Paradise Canyon,1935,26846,0
-3142,75408,Paradise Canyon,1935,26846,0
-3143,75432,Paradise Canyon,1935,26846,0
-3144,75456,Paradise Canyon,1935,26846,0
-3145,75480,Paradise Canyon,1935,26846,0
-3146,75504,Paradise Canyon,1935,26846,0
-3147,75528,Paradise Canyon,1935,26846,0
-3148,75552,Paradise Canyon,1935,26846,0
-3149,75576,Paradise Canyon,1935,26846,0
-3150,75600,Paradise Canyon,1935,26846,0
-3151,75624,Paradise Canyon,1935,26846,0
-3152,75648,Paradise Canyon,1935,26846,0
-3153,75672,Paradise Canyon,1935,26846,0
-3154,75696,Paradise Canyon,1935,26846,0
-3155,75720,Paradise Canyon,1935,26846,0
-3156,75744,Paradise Canyon,1935,26846,0
-3157,75768,Paradise Canyon,1935,26846,0
-3158,75792,Paradise Canyon,1935,26846,0
-3159,75816,Paradise Canyon,1935,26846,0
-3160,75840,Paradise Canyon,1935,26846,0
-3161,75864,Paradise Canyon,1935,26846,0
-3162,75888,Paradise Canyon,1935,26846,0
-3163,75912,Paradise Canyon,1935,26846,0
-3164,75936,Paradise Canyon,1935,26846,0
-3165,75960,Paradise Canyon,1935,26846,0
-3166,75984,Paradise Canyon,1935,26846,0
-3167,76008,Paradise Canyon,1935,26846,0
-3168,76032,Paradise Canyon,1935,26846,0
-3169,76056,Paradise Canyon,1935,26846,0
-3170,76080,Paradise Canyon,1935,26846,0
-3171,76104,Paradise Canyon,1935,26846,0
-3172,76128,Paradise Canyon,1935,26846,0
-3173,76152,Paradise Canyon,1935,26846,0
-3174,76176,Paradise Canyon,1935,26846,0
-3175,76200,Paradise Canyon,1935,26846,0
-3176,76224,Paradise Canyon,1935,26846,0
-3177,76248,Paradise Canyon,1935,26846,0
-3178,76272,Paradise Canyon,1935,26846,0
-3179,76296,Paradise Canyon,1935,26846,0
-3180,76320,Paradise Canyon,1935,26846,0
-3181,76344,Paradise Canyon,1935,26846,0
-3182,76368,Paradise Canyon,1935,26846,0
-3183,76392,Paradise Canyon,1935,26846,0
-3184,76416,Paradise Canyon,1935,26846,0
+,frame_num,imdb_id,car
+0,0,26846,0
+1,24,26846,0
+2,48,26846,0
+3,72,26846,0
+4,96,26846,0
+5,120,26846,0
+6,144,26846,0
+7,168,26846,0
+8,192,26846,0
+9,216,26846,0
+10,240,26846,0
+11,264,26846,0
+12,288,26846,0
+13,312,26846,0
+14,336,26846,0
+15,360,26846,0
+16,384,26846,0
+17,408,26846,0
+18,432,26846,0
+19,456,26846,0
+20,480,26846,0
+21,504,26846,0
+22,528,26846,0
+23,552,26846,0
+24,576,26846,0
+25,600,26846,0
+26,624,26846,0
+27,648,26846,0
+28,672,26846,0
+29,696,26846,0
+30,720,26846,0
+31,744,26846,0
+32,768,26846,0
+33,792,26846,0
+34,816,26846,0
+35,840,26846,0
+36,864,26846,0
+37,888,26846,0
+38,912,26846,0
+39,936,26846,0
+40,960,26846,0
+41,984,26846,0
+42,1008,26846,0
+43,1032,26846,0
+44,1056,26846,0
+45,1080,26846,0
+46,1104,26846,0
+47,1128,26846,0
+48,1152,26846,0
+49,1176,26846,0
+50,1200,26846,0
+51,1224,26846,1
+52,1248,26846,1
+53,1272,26846,1
+54,1296,26846,1
+55,1320,26846,1
+56,1344,26846,0
+57,1368,26846,0
+58,1392,26846,0
+59,1416,26846,0
+60,1440,26846,0
+61,1464,26846,0
+62,1488,26846,0
+63,1512,26846,0
+64,1536,26846,0
+65,1560,26846,0
+66,1584,26846,0
+67,1608,26846,0
+68,1632,26846,0
+69,1656,26846,0
+70,1680,26846,0
+71,1704,26846,0
+72,1728,26846,0
+73,1752,26846,0
+74,1776,26846,0
+75,1800,26846,0
+76,1824,26846,0
+77,1848,26846,0
+78,1872,26846,0
+79,1896,26846,0
+80,1920,26846,0
+81,1944,26846,0
+82,1968,26846,0
+83,1992,26846,0
+84,2016,26846,0
+85,2040,26846,0
+86,2064,26846,0
+87,2088,26846,0
+88,2112,26846,0
+89,2136,26846,0
+90,2160,26846,0
+91,2184,26846,0
+92,2208,26846,0
+93,2232,26846,0
+94,2256,26846,0
+95,2280,26846,0
+96,2304,26846,0
+97,2328,26846,0
+98,2352,26846,0
+99,2376,26846,0
+100,2400,26846,0
+101,2424,26846,0
+102,2448,26846,0
+103,2472,26846,0
+104,2496,26846,0
+105,2520,26846,0
+106,2544,26846,0
+107,2568,26846,0
+108,2592,26846,0
+109,2616,26846,0
+110,2640,26846,0
+111,2664,26846,0
+112,2688,26846,0
+113,2712,26846,0
+114,2736,26846,0
+115,2760,26846,0
+116,2784,26846,0
+117,2808,26846,0
+118,2832,26846,0
+119,2856,26846,0
+120,2880,26846,0
+121,2904,26846,0
+122,2928,26846,0
+123,2952,26846,0
+124,2976,26846,0
+125,3000,26846,0
+126,3024,26846,0
+127,3048,26846,0
+128,3072,26846,0
+129,3096,26846,0
+130,3120,26846,0
+131,3144,26846,0
+132,3168,26846,0
+133,3192,26846,0
+134,3216,26846,0
+135,3240,26846,0
+136,3264,26846,0
+137,3288,26846,0
+138,3312,26846,0
+139,3336,26846,0
+140,3360,26846,1
+141,3384,26846,1
+142,3408,26846,1
+143,3432,26846,1
+144,3456,26846,0
+145,3480,26846,0
+146,3504,26846,0
+147,3528,26846,0
+148,3552,26846,0
+149,3576,26846,0
+150,3600,26846,0
+151,3624,26846,0
+152,3648,26846,0
+153,3672,26846,0
+154,3696,26846,0
+155,3720,26846,0
+156,3744,26846,0
+157,3768,26846,0
+158,3792,26846,0
+159,3816,26846,0
+160,3840,26846,0
+161,3864,26846,0
+162,3888,26846,0
+163,3912,26846,0
+164,3936,26846,0
+165,3960,26846,0
+166,3984,26846,0
+167,4008,26846,0
+168,4032,26846,0
+169,4056,26846,0
+170,4080,26846,0
+171,4104,26846,0
+172,4128,26846,0
+173,4152,26846,0
+174,4176,26846,0
+175,4200,26846,0
+176,4224,26846,0
+177,4248,26846,0
+178,4272,26846,0
+179,4296,26846,0
+180,4320,26846,0
+181,4344,26846,0
+182,4368,26846,0
+183,4392,26846,0
+184,4416,26846,0
+185,4440,26846,0
+186,4464,26846,1
+187,4488,26846,0
+188,4512,26846,0
+189,4536,26846,1
+190,4560,26846,0
+191,4584,26846,0
+192,4608,26846,0
+193,4632,26846,0
+194,4656,26846,0
+195,4680,26846,0
+196,4704,26846,0
+197,4728,26846,0
+198,4752,26846,0
+199,4776,26846,0
+200,4800,26846,0
+201,4824,26846,0
+202,4848,26846,0
+203,4872,26846,0
+204,4896,26846,0
+205,4920,26846,0
+206,4944,26846,0
+207,4968,26846,0
+208,4992,26846,0
+209,5016,26846,0
+210,5040,26846,0
+211,5064,26846,0
+212,5088,26846,0
+213,5112,26846,0
+214,5136,26846,0
+215,5160,26846,0
+216,5184,26846,0
+217,5208,26846,0
+218,5232,26846,0
+219,5256,26846,0
+220,5280,26846,0
+221,5304,26846,0
+222,5328,26846,0
+223,5352,26846,0
+224,5376,26846,0
+225,5400,26846,0
+226,5424,26846,0
+227,5448,26846,0
+228,5472,26846,0
+229,5496,26846,0
+230,5520,26846,0
+231,5544,26846,1
+232,5568,26846,1
+233,5592,26846,0
+234,5616,26846,0
+235,5640,26846,0
+236,5664,26846,0
+237,5688,26846,0
+238,5712,26846,0
+239,5736,26846,0
+240,5760,26846,0
+241,5784,26846,0
+242,5808,26846,0
+243,5832,26846,0
+244,5856,26846,0
+245,5880,26846,0
+246,5904,26846,0
+247,5928,26846,0
+248,5952,26846,1
+249,5976,26846,1
+250,6000,26846,0
+251,6024,26846,0
+252,6048,26846,0
+253,6072,26846,0
+254,6096,26846,0
+255,6120,26846,0
+256,6144,26846,0
+257,6168,26846,0
+258,6192,26846,0
+259,6216,26846,0
+260,6240,26846,0
+261,6264,26846,0
+262,6288,26846,0
+263,6312,26846,0
+264,6336,26846,0
+265,6360,26846,0
+266,6384,26846,0
+267,6408,26846,0
+268,6432,26846,0
+269,6456,26846,0
+270,6480,26846,0
+271,6504,26846,0
+272,6528,26846,0
+273,6552,26846,0
+274,6576,26846,0
+275,6600,26846,0
+276,6624,26846,0
+277,6648,26846,0
+278,6672,26846,0
+279,6696,26846,0
+280,6720,26846,1
+281,6744,26846,1
+282,6768,26846,1
+283,6792,26846,1
+284,6816,26846,0
+285,6840,26846,0
+286,6864,26846,1
+287,6888,26846,0
+288,6912,26846,0
+289,6936,26846,0
+290,6960,26846,1
+291,6984,26846,1
+292,7008,26846,1
+293,7032,26846,0
+294,7056,26846,1
+295,7080,26846,1
+296,7104,26846,0
+297,7128,26846,0
+298,7152,26846,0
+299,7176,26846,0
+300,7200,26846,0
+301,7224,26846,0
+302,7248,26846,0
+303,7272,26846,1
+304,7296,26846,0
+305,7320,26846,0
+306,7344,26846,1
+307,7368,26846,0
+308,7392,26846,0
+309,7416,26846,0
+310,7440,26846,0
+311,7464,26846,0
+312,7488,26846,1
+313,7512,26846,0
+314,7536,26846,1
+315,7560,26846,0
+316,7584,26846,0
+317,7608,26846,1
+318,7632,26846,0
+319,7656,26846,0
+320,7680,26846,0
+321,7704,26846,0
+322,7728,26846,0
+323,7752,26846,0
+324,7776,26846,0
+325,7800,26846,0
+326,7824,26846,0
+327,7848,26846,0
+328,7872,26846,0
+329,7896,26846,0
+330,7920,26846,0
+331,7944,26846,0
+332,7968,26846,0
+333,7992,26846,0
+334,8016,26846,0
+335,8040,26846,0
+336,8064,26846,0
+337,8088,26846,0
+338,8112,26846,0
+339,8136,26846,0
+340,8160,26846,0
+341,8184,26846,0
+342,8208,26846,0
+343,8232,26846,0
+344,8256,26846,0
+345,8280,26846,1
+346,8304,26846,0
+347,8328,26846,0
+348,8352,26846,0
+349,8376,26846,0
+350,8400,26846,0
+351,8424,26846,0
+352,8448,26846,0
+353,8472,26846,1
+354,8496,26846,1
+355,8520,26846,1
+356,8544,26846,1
+357,8568,26846,0
+358,8592,26846,0
+359,8616,26846,1
+360,8640,26846,0
+361,8664,26846,0
+362,8688,26846,1
+363,8712,26846,1
+364,8736,26846,1
+365,8760,26846,0
+366,8784,26846,0
+367,8808,26846,1
+368,8832,26846,0
+369,8856,26846,0
+370,8880,26846,1
+371,8904,26846,1
+372,8928,26846,1
+373,8952,26846,1
+374,8976,26846,1
+375,9000,26846,0
+376,9024,26846,0
+377,9048,26846,0
+378,9072,26846,0
+379,9096,26846,0
+380,9120,26846,0
+381,9144,26846,0
+382,9168,26846,0
+383,9192,26846,0
+384,9216,26846,0
+385,9240,26846,0
+386,9264,26846,0
+387,9288,26846,0
+388,9312,26846,0
+389,9336,26846,0
+390,9360,26846,0
+391,9384,26846,0
+392,9408,26846,0
+393,9432,26846,0
+394,9456,26846,0
+395,9480,26846,0
+396,9504,26846,0
+397,9528,26846,0
+398,9552,26846,0
+399,9576,26846,0
+400,9600,26846,0
+401,9624,26846,0
+402,9648,26846,0
+403,9672,26846,0
+404,9696,26846,0
+405,9720,26846,0
+406,9744,26846,0
+407,9768,26846,1
+408,9792,26846,1
+409,9816,26846,0
+410,9840,26846,0
+411,9864,26846,0
+412,9888,26846,0
+413,9912,26846,0
+414,9936,26846,1
+415,9960,26846,1
+416,9984,26846,0
+417,10008,26846,0
+418,10032,26846,1
+419,10056,26846,1
+420,10080,26846,0
+421,10104,26846,1
+422,10128,26846,0
+423,10152,26846,0
+424,10176,26846,1
+425,10200,26846,0
+426,10224,26846,0
+427,10248,26846,0
+428,10272,26846,0
+429,10296,26846,0
+430,10320,26846,1
+431,10344,26846,0
+432,10368,26846,0
+433,10392,26846,0
+434,10416,26846,1
+435,10440,26846,0
+436,10464,26846,0
+437,10488,26846,0
+438,10512,26846,0
+439,10536,26846,0
+440,10560,26846,0
+441,10584,26846,0
+442,10608,26846,1
+443,10632,26846,0
+444,10656,26846,0
+445,10680,26846,0
+446,10704,26846,0
+447,10728,26846,0
+448,10752,26846,0
+449,10776,26846,0
+450,10800,26846,0
+451,10824,26846,0
+452,10848,26846,0
+453,10872,26846,1
+454,10896,26846,0
+455,10920,26846,0
+456,10944,26846,1
+457,10968,26846,0
+458,10992,26846,0
+459,11016,26846,1
+460,11040,26846,1
+461,11064,26846,0
+462,11088,26846,1
+463,11112,26846,0
+464,11136,26846,0
+465,11160,26846,0
+466,11184,26846,0
+467,11208,26846,0
+468,11232,26846,0
+469,11256,26846,0
+470,11280,26846,0
+471,11304,26846,0
+472,11328,26846,0
+473,11352,26846,0
+474,11376,26846,0
+475,11400,26846,0
+476,11424,26846,0
+477,11448,26846,0
+478,11472,26846,0
+479,11496,26846,0
+480,11520,26846,0
+481,11544,26846,0
+482,11568,26846,0
+483,11592,26846,0
+484,11616,26846,0
+485,11640,26846,1
+486,11664,26846,0
+487,11688,26846,0
+488,11712,26846,0
+489,11736,26846,0
+490,11760,26846,0
+491,11784,26846,0
+492,11808,26846,0
+493,11832,26846,0
+494,11856,26846,0
+495,11880,26846,0
+496,11904,26846,0
+497,11928,26846,0
+498,11952,26846,1
+499,11976,26846,0
+500,12000,26846,0
+501,12024,26846,0
+502,12048,26846,1
+503,12072,26846,1
+504,12096,26846,1
+505,12120,26846,1
+506,12144,26846,1
+507,12168,26846,0
+508,12192,26846,0
+509,12216,26846,0
+510,12240,26846,0
+511,12264,26846,0
+512,12288,26846,0
+513,12312,26846,0
+514,12336,26846,0
+515,12360,26846,0
+516,12384,26846,0
+517,12408,26846,0
+518,12432,26846,0
+519,12456,26846,0
+520,12480,26846,0
+521,12504,26846,0
+522,12528,26846,0
+523,12552,26846,0
+524,12576,26846,0
+525,12600,26846,0
+526,12624,26846,0
+527,12648,26846,0
+528,12672,26846,0
+529,12696,26846,0
+530,12720,26846,0
+531,12744,26846,0
+532,12768,26846,0
+533,12792,26846,0
+534,12816,26846,0
+535,12840,26846,0
+536,12864,26846,0
+537,12888,26846,0
+538,12912,26846,0
+539,12936,26846,0
+540,12960,26846,0
+541,12984,26846,0
+542,13008,26846,0
+543,13032,26846,0
+544,13056,26846,0
+545,13080,26846,0
+546,13104,26846,0
+547,13128,26846,0
+548,13152,26846,1
+549,13176,26846,1
+550,13200,26846,1
+551,13224,26846,0
+552,13248,26846,0
+553,13272,26846,0
+554,13296,26846,0
+555,13320,26846,1
+556,13344,26846,0
+557,13368,26846,0
+558,13392,26846,0
+559,13416,26846,0
+560,13440,26846,0
+561,13464,26846,0
+562,13488,26846,0
+563,13512,26846,1
+564,13536,26846,1
+565,13560,26846,0
+566,13584,26846,0
+567,13608,26846,0
+568,13632,26846,0
+569,13656,26846,1
+570,13680,26846,0
+571,13704,26846,0
+572,13728,26846,0
+573,13752,26846,0
+574,13776,26846,0
+575,13800,26846,0
+576,13824,26846,0
+577,13848,26846,0
+578,13872,26846,0
+579,13896,26846,0
+580,13920,26846,0
+581,13944,26846,0
+582,13968,26846,0
+583,13992,26846,1
+584,14016,26846,0
+585,14040,26846,0
+586,14064,26846,0
+587,14088,26846,1
+588,14112,26846,1
+589,14136,26846,1
+590,14160,26846,0
+591,14184,26846,0
+592,14208,26846,0
+593,14232,26846,0
+594,14256,26846,0
+595,14280,26846,0
+596,14304,26846,0
+597,14328,26846,0
+598,14352,26846,0
+599,14376,26846,0
+600,14400,26846,0
+601,14424,26846,0
+602,14448,26846,1
+603,14472,26846,0
+604,14496,26846,0
+605,14520,26846,0
+606,14544,26846,0
+607,14568,26846,0
+608,14592,26846,0
+609,14616,26846,0
+610,14640,26846,0
+611,14664,26846,0
+612,14688,26846,0
+613,14712,26846,0
+614,14736,26846,0
+615,14760,26846,0
+616,14784,26846,0
+617,14808,26846,0
+618,14832,26846,0
+619,14856,26846,0
+620,14880,26846,0
+621,14904,26846,0
+622,14928,26846,0
+623,14952,26846,0
+624,14976,26846,0
+625,15000,26846,0
+626,15024,26846,0
+627,15048,26846,0
+628,15072,26846,0
+629,15096,26846,0
+630,15120,26846,0
+631,15144,26846,0
+632,15168,26846,0
+633,15192,26846,0
+634,15216,26846,0
+635,15240,26846,0
+636,15264,26846,0
+637,15288,26846,0
+638,15312,26846,0
+639,15336,26846,0
+640,15360,26846,0
+641,15384,26846,0
+642,15408,26846,0
+643,15432,26846,0
+644,15456,26846,0
+645,15480,26846,0
+646,15504,26846,0
+647,15528,26846,0
+648,15552,26846,0
+649,15576,26846,0
+650,15600,26846,0
+651,15624,26846,1
+652,15648,26846,0
+653,15672,26846,0
+654,15696,26846,0
+655,15720,26846,0
+656,15744,26846,0
+657,15768,26846,0
+658,15792,26846,0
+659,15816,26846,0
+660,15840,26846,0
+661,15864,26846,0
+662,15888,26846,1
+663,15912,26846,0
+664,15936,26846,0
+665,15960,26846,0
+666,15984,26846,0
+667,16008,26846,0
+668,16032,26846,0
+669,16056,26846,0
+670,16080,26846,0
+671,16104,26846,0
+672,16128,26846,0
+673,16152,26846,0
+674,16176,26846,0
+675,16200,26846,1
+676,16224,26846,0
+677,16248,26846,0
+678,16272,26846,0
+679,16296,26846,0
+680,16320,26846,0
+681,16344,26846,0
+682,16368,26846,1
+683,16392,26846,0
+684,16416,26846,0
+685,16440,26846,0
+686,16464,26846,0
+687,16488,26846,0
+688,16512,26846,0
+689,16536,26846,0
+690,16560,26846,0
+691,16584,26846,0
+692,16608,26846,0
+693,16632,26846,0
+694,16656,26846,0
+695,16680,26846,0
+696,16704,26846,0
+697,16728,26846,0
+698,16752,26846,0
+699,16776,26846,0
+700,16800,26846,0
+701,16824,26846,0
+702,16848,26846,0
+703,16872,26846,0
+704,16896,26846,0
+705,16920,26846,0
+706,16944,26846,0
+707,16968,26846,0
+708,16992,26846,1
+709,17016,26846,0
+710,17040,26846,0
+711,17064,26846,0
+712,17088,26846,1
+713,17112,26846,0
+714,17136,26846,0
+715,17160,26846,0
+716,17184,26846,0
+717,17208,26846,0
+718,17232,26846,0
+719,17256,26846,0
+720,17280,26846,1
+721,17304,26846,1
+722,17328,26846,1
+723,17352,26846,0
+724,17376,26846,0
+725,17400,26846,0
+726,17424,26846,1
+727,17448,26846,1
+728,17472,26846,0
+729,17496,26846,0
+730,17520,26846,0
+731,17544,26846,0
+732,17568,26846,0
+733,17592,26846,0
+734,17616,26846,0
+735,17640,26846,0
+736,17664,26846,0
+737,17688,26846,0
+738,17712,26846,0
+739,17736,26846,0
+740,17760,26846,0
+741,17784,26846,0
+742,17808,26846,0
+743,17832,26846,0
+744,17856,26846,0
+745,17880,26846,0
+746,17904,26846,0
+747,17928,26846,0
+748,17952,26846,0
+749,17976,26846,0
+750,18000,26846,0
+751,18024,26846,0
+752,18048,26846,0
+753,18072,26846,0
+754,18096,26846,0
+755,18120,26846,0
+756,18144,26846,0
+757,18168,26846,0
+758,18192,26846,0
+759,18216,26846,0
+760,18240,26846,0
+761,18264,26846,0
+762,18288,26846,0
+763,18312,26846,0
+764,18336,26846,0
+765,18360,26846,0
+766,18384,26846,0
+767,18408,26846,0
+768,18432,26846,0
+769,18456,26846,0
+770,18480,26846,0
+771,18504,26846,1
+772,18528,26846,1
+773,18552,26846,0
+774,18576,26846,1
+775,18600,26846,1
+776,18624,26846,1
+777,18648,26846,1
+778,18672,26846,0
+779,18696,26846,0
+780,18720,26846,1
+781,18744,26846,1
+782,18768,26846,0
+783,18792,26846,0
+784,18816,26846,0
+785,18840,26846,0
+786,18864,26846,0
+787,18888,26846,0
+788,18912,26846,0
+789,18936,26846,0
+790,18960,26846,0
+791,18984,26846,0
+792,19008,26846,0
+793,19032,26846,0
+794,19056,26846,0
+795,19080,26846,0
+796,19104,26846,0
+797,19128,26846,0
+798,19152,26846,0
+799,19176,26846,0
+800,19200,26846,0
+801,19224,26846,0
+802,19248,26846,1
+803,19272,26846,0
+804,19296,26846,0
+805,19320,26846,0
+806,19344,26846,0
+807,19368,26846,0
+808,19392,26846,0
+809,19416,26846,0
+810,19440,26846,0
+811,19464,26846,0
+812,19488,26846,0
+813,19512,26846,0
+814,19536,26846,0
+815,19560,26846,0
+816,19584,26846,0
+817,19608,26846,0
+818,19632,26846,0
+819,19656,26846,0
+820,19680,26846,0
+821,19704,26846,0
+822,19728,26846,0
+823,19752,26846,0
+824,19776,26846,0
+825,19800,26846,0
+826,19824,26846,0
+827,19848,26846,0
+828,19872,26846,0
+829,19896,26846,0
+830,19920,26846,0
+831,19944,26846,0
+832,19968,26846,0
+833,19992,26846,0
+834,20016,26846,0
+835,20040,26846,0
+836,20064,26846,0
+837,20088,26846,0
+838,20112,26846,0
+839,20136,26846,0
+840,20160,26846,0
+841,20184,26846,0
+842,20208,26846,0
+843,20232,26846,0
+844,20256,26846,0
+845,20280,26846,0
+846,20304,26846,0
+847,20328,26846,0
+848,20352,26846,0
+849,20376,26846,0
+850,20400,26846,0
+851,20424,26846,0
+852,20448,26846,0
+853,20472,26846,0
+854,20496,26846,0
+855,20520,26846,0
+856,20544,26846,0
+857,20568,26846,0
+858,20592,26846,0
+859,20616,26846,0
+860,20640,26846,0
+861,20664,26846,0
+862,20688,26846,0
+863,20712,26846,0
+864,20736,26846,0
+865,20760,26846,0
+866,20784,26846,0
+867,20808,26846,0
+868,20832,26846,0
+869,20856,26846,0
+870,20880,26846,0
+871,20904,26846,0
+872,20928,26846,0
+873,20952,26846,0
+874,20976,26846,0
+875,21000,26846,1
+876,21024,26846,0
+877,21048,26846,0
+878,21072,26846,0
+879,21096,26846,0
+880,21120,26846,0
+881,21144,26846,0
+882,21168,26846,0
+883,21192,26846,0
+884,21216,26846,0
+885,21240,26846,0
+886,21264,26846,0
+887,21288,26846,0
+888,21312,26846,0
+889,21336,26846,0
+890,21360,26846,0
+891,21384,26846,0
+892,21408,26846,0
+893,21432,26846,0
+894,21456,26846,0
+895,21480,26846,0
+896,21504,26846,0
+897,21528,26846,0
+898,21552,26846,0
+899,21576,26846,0
+900,21600,26846,0
+901,21624,26846,0
+902,21648,26846,0
+903,21672,26846,0
+904,21696,26846,0
+905,21720,26846,0
+906,21744,26846,0
+907,21768,26846,0
+908,21792,26846,0
+909,21816,26846,0
+910,21840,26846,0
+911,21864,26846,0
+912,21888,26846,0
+913,21912,26846,0
+914,21936,26846,0
+915,21960,26846,0
+916,21984,26846,0
+917,22008,26846,0
+918,22032,26846,0
+919,22056,26846,0
+920,22080,26846,0
+921,22104,26846,0
+922,22128,26846,0
+923,22152,26846,0
+924,22176,26846,0
+925,22200,26846,0
+926,22224,26846,0
+927,22248,26846,0
+928,22272,26846,0
+929,22296,26846,0
+930,22320,26846,0
+931,22344,26846,0
+932,22368,26846,0
+933,22392,26846,0
+934,22416,26846,0
+935,22440,26846,0
+936,22464,26846,0
+937,22488,26846,0
+938,22512,26846,0
+939,22536,26846,0
+940,22560,26846,0
+941,22584,26846,0
+942,22608,26846,0
+943,22632,26846,0
+944,22656,26846,0
+945,22680,26846,0
+946,22704,26846,0
+947,22728,26846,0
+948,22752,26846,0
+949,22776,26846,0
+950,22800,26846,0
+951,22824,26846,0
+952,22848,26846,0
+953,22872,26846,0
+954,22896,26846,0
+955,22920,26846,0
+956,22944,26846,0
+957,22968,26846,0
+958,22992,26846,0
+959,23016,26846,0
+960,23040,26846,0
+961,23064,26846,0
+962,23088,26846,0
+963,23112,26846,0
+964,23136,26846,1
+965,23160,26846,1
+966,23184,26846,1
+967,23208,26846,1
+968,23232,26846,1
+969,23256,26846,1
+970,23280,26846,1
+971,23304,26846,1
+972,23328,26846,1
+973,23352,26846,1
+974,23376,26846,0
+975,23400,26846,0
+976,23424,26846,0
+977,23448,26846,0
+978,23472,26846,0
+979,23496,26846,0
+980,23520,26846,1
+981,23544,26846,1
+982,23568,26846,1
+983,23592,26846,0
+984,23616,26846,0
+985,23640,26846,0
+986,23664,26846,0
+987,23688,26846,0
+988,23712,26846,0
+989,23736,26846,0
+990,23760,26846,0
+991,23784,26846,0
+992,23808,26846,0
+993,23832,26846,1
+994,23856,26846,1
+995,23880,26846,0
+996,23904,26846,0
+997,23928,26846,0
+998,23952,26846,0
+999,23976,26846,0
+1000,24000,26846,0
+1001,24024,26846,0
+1002,24048,26846,0
+1003,24072,26846,1
+1004,24096,26846,0
+1005,24120,26846,0
+1006,24144,26846,0
+1007,24168,26846,0
+1008,24192,26846,0
+1009,24216,26846,0
+1010,24240,26846,1
+1011,24264,26846,0
+1012,24288,26846,0
+1013,24312,26846,0
+1014,24336,26846,0
+1015,24360,26846,0
+1016,24384,26846,0
+1017,24408,26846,0
+1018,24432,26846,1
+1019,24456,26846,1
+1020,24480,26846,0
+1021,24504,26846,0
+1022,24528,26846,0
+1023,24552,26846,0
+1024,24576,26846,0
+1025,24600,26846,0
+1026,24624,26846,0
+1027,24648,26846,0
+1028,24672,26846,0
+1029,24696,26846,0
+1030,24720,26846,0
+1031,24744,26846,0
+1032,24768,26846,0
+1033,24792,26846,1
+1034,24816,26846,1
+1035,24840,26846,1
+1036,24864,26846,0
+1037,24888,26846,0
+1038,24912,26846,0
+1039,24936,26846,0
+1040,24960,26846,0
+1041,24984,26846,0
+1042,25008,26846,0
+1043,25032,26846,0
+1044,25056,26846,0
+1045,25080,26846,0
+1046,25104,26846,1
+1047,25128,26846,1
+1048,25152,26846,0
+1049,25176,26846,0
+1050,25200,26846,0
+1051,25224,26846,0
+1052,25248,26846,0
+1053,25272,26846,0
+1054,25296,26846,0
+1055,25320,26846,0
+1056,25344,26846,0
+1057,25368,26846,1
+1058,25392,26846,0
+1059,25416,26846,0
+1060,25440,26846,0
+1061,25464,26846,0
+1062,25488,26846,0
+1063,25512,26846,0
+1064,25536,26846,0
+1065,25560,26846,0
+1066,25584,26846,0
+1067,25608,26846,0
+1068,25632,26846,0
+1069,25656,26846,0
+1070,25680,26846,0
+1071,25704,26846,0
+1072,25728,26846,0
+1073,25752,26846,0
+1074,25776,26846,0
+1075,25800,26846,0
+1076,25824,26846,0
+1077,25848,26846,0
+1078,25872,26846,0
+1079,25896,26846,0
+1080,25920,26846,0
+1081,25944,26846,0
+1082,25968,26846,0
+1083,25992,26846,0
+1084,26016,26846,0
+1085,26040,26846,0
+1086,26064,26846,0
+1087,26088,26846,0
+1088,26112,26846,0
+1089,26136,26846,0
+1090,26160,26846,0
+1091,26184,26846,0
+1092,26208,26846,0
+1093,26232,26846,0
+1094,26256,26846,0
+1095,26280,26846,0
+1096,26304,26846,0
+1097,26328,26846,0
+1098,26352,26846,0
+1099,26376,26846,0
+1100,26400,26846,0
+1101,26424,26846,0
+1102,26448,26846,0
+1103,26472,26846,0
+1104,26496,26846,0
+1105,26520,26846,0
+1106,26544,26846,0
+1107,26568,26846,0
+1108,26592,26846,0
+1109,26616,26846,0
+1110,26640,26846,0
+1111,26664,26846,0
+1112,26688,26846,0
+1113,26712,26846,0
+1114,26736,26846,0
+1115,26760,26846,0
+1116,26784,26846,0
+1117,26808,26846,0
+1118,26832,26846,0
+1119,26856,26846,0
+1120,26880,26846,0
+1121,26904,26846,0
+1122,26928,26846,0
+1123,26952,26846,0
+1124,26976,26846,0
+1125,27000,26846,0
+1126,27024,26846,0
+1127,27048,26846,0
+1128,27072,26846,0
+1129,27096,26846,0
+1130,27120,26846,0
+1131,27144,26846,0
+1132,27168,26846,0
+1133,27192,26846,0
+1134,27216,26846,0
+1135,27240,26846,0
+1136,27264,26846,0
+1137,27288,26846,0
+1138,27312,26846,0
+1139,27336,26846,0
+1140,27360,26846,0
+1141,27384,26846,0
+1142,27408,26846,0
+1143,27432,26846,0
+1144,27456,26846,0
+1145,27480,26846,0
+1146,27504,26846,0
+1147,27528,26846,0
+1148,27552,26846,0
+1149,27576,26846,0
+1150,27600,26846,1
+1151,27624,26846,1
+1152,27648,26846,1
+1153,27672,26846,1
+1154,27696,26846,1
+1155,27720,26846,1
+1156,27744,26846,1
+1157,27768,26846,1
+1158,27792,26846,1
+1159,27816,26846,1
+1160,27840,26846,1
+1161,27864,26846,1
+1162,27888,26846,1
+1163,27912,26846,1
+1164,27936,26846,1
+1165,27960,26846,0
+1166,27984,26846,0
+1167,28008,26846,0
+1168,28032,26846,0
+1169,28056,26846,0
+1170,28080,26846,0
+1171,28104,26846,1
+1172,28128,26846,0
+1173,28152,26846,0
+1174,28176,26846,0
+1175,28200,26846,0
+1176,28224,26846,0
+1177,28248,26846,0
+1178,28272,26846,0
+1179,28296,26846,0
+1180,28320,26846,0
+1181,28344,26846,0
+1182,28368,26846,0
+1183,28392,26846,0
+1184,28416,26846,0
+1185,28440,26846,0
+1186,28464,26846,0
+1187,28488,26846,0
+1188,28512,26846,0
+1189,28536,26846,0
+1190,28560,26846,0
+1191,28584,26846,0
+1192,28608,26846,0
+1193,28632,26846,0
+1194,28656,26846,0
+1195,28680,26846,0
+1196,28704,26846,1
+1197,28728,26846,1
+1198,28752,26846,1
+1199,28776,26846,1
+1200,28800,26846,1
+1201,28824,26846,1
+1202,28848,26846,1
+1203,28872,26846,1
+1204,28896,26846,1
+1205,28920,26846,1
+1206,28944,26846,1
+1207,28968,26846,0
+1208,28992,26846,0
+1209,29016,26846,0
+1210,29040,26846,0
+1211,29064,26846,0
+1212,29088,26846,0
+1213,29112,26846,0
+1214,29136,26846,0
+1215,29160,26846,0
+1216,29184,26846,0
+1217,29208,26846,0
+1218,29232,26846,0
+1219,29256,26846,0
+1220,29280,26846,0
+1221,29304,26846,0
+1222,29328,26846,0
+1223,29352,26846,0
+1224,29376,26846,0
+1225,29400,26846,0
+1226,29424,26846,0
+1227,29448,26846,0
+1228,29472,26846,0
+1229,29496,26846,0
+1230,29520,26846,0
+1231,29544,26846,0
+1232,29568,26846,0
+1233,29592,26846,0
+1234,29616,26846,0
+1235,29640,26846,0
+1236,29664,26846,0
+1237,29688,26846,1
+1238,29712,26846,1
+1239,29736,26846,1
+1240,29760,26846,1
+1241,29784,26846,0
+1242,29808,26846,0
+1243,29832,26846,0
+1244,29856,26846,0
+1245,29880,26846,0
+1246,29904,26846,0
+1247,29928,26846,0
+1248,29952,26846,1
+1249,29976,26846,0
+1250,30000,26846,0
+1251,30024,26846,0
+1252,30048,26846,0
+1253,30072,26846,0
+1254,30096,26846,0
+1255,30120,26846,0
+1256,30144,26846,0
+1257,30168,26846,0
+1258,30192,26846,0
+1259,30216,26846,0
+1260,30240,26846,0
+1261,30264,26846,0
+1262,30288,26846,0
+1263,30312,26846,0
+1264,30336,26846,0
+1265,30360,26846,0
+1266,30384,26846,0
+1267,30408,26846,0
+1268,30432,26846,0
+1269,30456,26846,0
+1270,30480,26846,0
+1271,30504,26846,0
+1272,30528,26846,1
+1273,30552,26846,1
+1274,30576,26846,0
+1275,30600,26846,0
+1276,30624,26846,1
+1277,30648,26846,0
+1278,30672,26846,0
+1279,30696,26846,0
+1280,30720,26846,0
+1281,30744,26846,0
+1282,30768,26846,0
+1283,30792,26846,0
+1284,30816,26846,0
+1285,30840,26846,0
+1286,30864,26846,1
+1287,30888,26846,1
+1288,30912,26846,0
+1289,30936,26846,0
+1290,30960,26846,0
+1291,30984,26846,0
+1292,31008,26846,0
+1293,31032,26846,0
+1294,31056,26846,0
+1295,31080,26846,0
+1296,31104,26846,0
+1297,31128,26846,0
+1298,31152,26846,0
+1299,31176,26846,1
+1300,31200,26846,0
+1301,31224,26846,0
+1302,31248,26846,0
+1303,31272,26846,0
+1304,31296,26846,0
+1305,31320,26846,0
+1306,31344,26846,0
+1307,31368,26846,0
+1308,31392,26846,0
+1309,31416,26846,0
+1310,31440,26846,0
+1311,31464,26846,0
+1312,31488,26846,0
+1313,31512,26846,0
+1314,31536,26846,0
+1315,31560,26846,0
+1316,31584,26846,0
+1317,31608,26846,0
+1318,31632,26846,0
+1319,31656,26846,0
+1320,31680,26846,0
+1321,31704,26846,0
+1322,31728,26846,0
+1323,31752,26846,0
+1324,31776,26846,0
+1325,31800,26846,0
+1326,31824,26846,0
+1327,31848,26846,0
+1328,31872,26846,0
+1329,31896,26846,0
+1330,31920,26846,0
+1331,31944,26846,0
+1332,31968,26846,0
+1333,31992,26846,0
+1334,32016,26846,1
+1335,32040,26846,1
+1336,32064,26846,0
+1337,32088,26846,0
+1338,32112,26846,0
+1339,32136,26846,0
+1340,32160,26846,0
+1341,32184,26846,0
+1342,32208,26846,0
+1343,32232,26846,0
+1344,32256,26846,0
+1345,32280,26846,0
+1346,32304,26846,0
+1347,32328,26846,0
+1348,32352,26846,0
+1349,32376,26846,0
+1350,32400,26846,0
+1351,32424,26846,0
+1352,32448,26846,0
+1353,32472,26846,0
+1354,32496,26846,0
+1355,32520,26846,0
+1356,32544,26846,0
+1357,32568,26846,0
+1358,32592,26846,0
+1359,32616,26846,0
+1360,32640,26846,0
+1361,32664,26846,0
+1362,32688,26846,0
+1363,32712,26846,0
+1364,32736,26846,0
+1365,32760,26846,0
+1366,32784,26846,0
+1367,32808,26846,0
+1368,32832,26846,0
+1369,32856,26846,0
+1370,32880,26846,0
+1371,32904,26846,0
+1372,32928,26846,0
+1373,32952,26846,0
+1374,32976,26846,0
+1375,33000,26846,0
+1376,33024,26846,0
+1377,33048,26846,0
+1378,33072,26846,0
+1379,33096,26846,0
+1380,33120,26846,0
+1381,33144,26846,0
+1382,33168,26846,1
+1383,33192,26846,1
+1384,33216,26846,1
+1385,33240,26846,0
+1386,33264,26846,1
+1387,33288,26846,1
+1388,33312,26846,0
+1389,33336,26846,1
+1390,33360,26846,1
+1391,33384,26846,1
+1392,33408,26846,1
+1393,33432,26846,1
+1394,33456,26846,1
+1395,33480,26846,1
+1396,33504,26846,1
+1397,33528,26846,1
+1398,33552,26846,1
+1399,33576,26846,0
+1400,33600,26846,0
+1401,33624,26846,0
+1402,33648,26846,0
+1403,33672,26846,0
+1404,33696,26846,0
+1405,33720,26846,0
+1406,33744,26846,0
+1407,33768,26846,0
+1408,33792,26846,0
+1409,33816,26846,0
+1410,33840,26846,0
+1411,33864,26846,0
+1412,33888,26846,0
+1413,33912,26846,0
+1414,33936,26846,0
+1415,33960,26846,0
+1416,33984,26846,0
+1417,34008,26846,0
+1418,34032,26846,0
+1419,34056,26846,0
+1420,34080,26846,0
+1421,34104,26846,0
+1422,34128,26846,0
+1423,34152,26846,0
+1424,34176,26846,0
+1425,34200,26846,0
+1426,34224,26846,0
+1427,34248,26846,0
+1428,34272,26846,0
+1429,34296,26846,0
+1430,34320,26846,0
+1431,34344,26846,0
+1432,34368,26846,0
+1433,34392,26846,0
+1434,34416,26846,0
+1435,34440,26846,0
+1436,34464,26846,0
+1437,34488,26846,0
+1438,34512,26846,0
+1439,34536,26846,0
+1440,34560,26846,0
+1441,34584,26846,0
+1442,34608,26846,0
+1443,34632,26846,0
+1444,34656,26846,0
+1445,34680,26846,0
+1446,34704,26846,0
+1447,34728,26846,0
+1448,34752,26846,0
+1449,34776,26846,0
+1450,34800,26846,0
+1451,34824,26846,0
+1452,34848,26846,0
+1453,34872,26846,0
+1454,34896,26846,0
+1455,34920,26846,0
+1456,34944,26846,0
+1457,34968,26846,0
+1458,34992,26846,0
+1459,35016,26846,0
+1460,35040,26846,0
+1461,35064,26846,0
+1462,35088,26846,0
+1463,35112,26846,0
+1464,35136,26846,0
+1465,35160,26846,0
+1466,35184,26846,0
+1467,35208,26846,0
+1468,35232,26846,0
+1469,35256,26846,0
+1470,35280,26846,0
+1471,35304,26846,0
+1472,35328,26846,0
+1473,35352,26846,0
+1474,35376,26846,0
+1475,35400,26846,0
+1476,35424,26846,0
+1477,35448,26846,0
+1478,35472,26846,0
+1479,35496,26846,0
+1480,35520,26846,0
+1481,35544,26846,0
+1482,35568,26846,0
+1483,35592,26846,0
+1484,35616,26846,0
+1485,35640,26846,0
+1486,35664,26846,0
+1487,35688,26846,0
+1488,35712,26846,0
+1489,35736,26846,0
+1490,35760,26846,0
+1491,35784,26846,0
+1492,35808,26846,0
+1493,35832,26846,0
+1494,35856,26846,0
+1495,35880,26846,0
+1496,35904,26846,0
+1497,35928,26846,0
+1498,35952,26846,0
+1499,35976,26846,0
+1500,36000,26846,0
+1501,36024,26846,0
+1502,36048,26846,0
+1503,36072,26846,0
+1504,36096,26846,0
+1505,36120,26846,0
+1506,36144,26846,0
+1507,36168,26846,0
+1508,36192,26846,0
+1509,36216,26846,0
+1510,36240,26846,0
+1511,36264,26846,0
+1512,36288,26846,0
+1513,36312,26846,0
+1514,36336,26846,0
+1515,36360,26846,0
+1516,36384,26846,0
+1517,36408,26846,0
+1518,36432,26846,0
+1519,36456,26846,0
+1520,36480,26846,0
+1521,36504,26846,0
+1522,36528,26846,0
+1523,36552,26846,0
+1524,36576,26846,0
+1525,36600,26846,0
+1526,36624,26846,0
+1527,36648,26846,0
+1528,36672,26846,0
+1529,36696,26846,0
+1530,36720,26846,0
+1531,36744,26846,0
+1532,36768,26846,0
+1533,36792,26846,0
+1534,36816,26846,0
+1535,36840,26846,0
+1536,36864,26846,0
+1537,36888,26846,0
+1538,36912,26846,0
+1539,36936,26846,0
+1540,36960,26846,0
+1541,36984,26846,0
+1542,37008,26846,0
+1543,37032,26846,0
+1544,37056,26846,0
+1545,37080,26846,0
+1546,37104,26846,0
+1547,37128,26846,0
+1548,37152,26846,0
+1549,37176,26846,0
+1550,37200,26846,0
+1551,37224,26846,0
+1552,37248,26846,0
+1553,37272,26846,0
+1554,37296,26846,0
+1555,37320,26846,0
+1556,37344,26846,0
+1557,37368,26846,0
+1558,37392,26846,0
+1559,37416,26846,0
+1560,37440,26846,0
+1561,37464,26846,0
+1562,37488,26846,0
+1563,37512,26846,0
+1564,37536,26846,0
+1565,37560,26846,0
+1566,37584,26846,0
+1567,37608,26846,0
+1568,37632,26846,0
+1569,37656,26846,0
+1570,37680,26846,0
+1571,37704,26846,0
+1572,37728,26846,0
+1573,37752,26846,0
+1574,37776,26846,0
+1575,37800,26846,0
+1576,37824,26846,0
+1577,37848,26846,0
+1578,37872,26846,0
+1579,37896,26846,0
+1580,37920,26846,0
+1581,37944,26846,0
+1582,37968,26846,0
+1583,37992,26846,0
+1584,38016,26846,0
+1585,38040,26846,0
+1586,38064,26846,0
+1587,38088,26846,0
+1588,38112,26846,0
+1589,38136,26846,0
+1590,38160,26846,0
+1591,38184,26846,0
+1592,38208,26846,0
+1593,38232,26846,0
+1594,38256,26846,0
+1595,38280,26846,0
+1596,38304,26846,0
+1597,38328,26846,0
+1598,38352,26846,0
+1599,38376,26846,0
+1600,38400,26846,0
+1601,38424,26846,0
+1602,38448,26846,0
+1603,38472,26846,0
+1604,38496,26846,0
+1605,38520,26846,0
+1606,38544,26846,0
+1607,38568,26846,0
+1608,38592,26846,0
+1609,38616,26846,0
+1610,38640,26846,0
+1611,38664,26846,0
+1612,38688,26846,0
+1613,38712,26846,0
+1614,38736,26846,0
+1615,38760,26846,0
+1616,38784,26846,0
+1617,38808,26846,0
+1618,38832,26846,0
+1619,38856,26846,0
+1620,38880,26846,0
+1621,38904,26846,0
+1622,38928,26846,0
+1623,38952,26846,0
+1624,38976,26846,0
+1625,39000,26846,0
+1626,39024,26846,0
+1627,39048,26846,0
+1628,39072,26846,0
+1629,39096,26846,0
+1630,39120,26846,0
+1631,39144,26846,0
+1632,39168,26846,0
+1633,39192,26846,0
+1634,39216,26846,0
+1635,39240,26846,0
+1636,39264,26846,0
+1637,39288,26846,0
+1638,39312,26846,0
+1639,39336,26846,0
+1640,39360,26846,0
+1641,39384,26846,0
+1642,39408,26846,0
+1643,39432,26846,0
+1644,39456,26846,0
+1645,39480,26846,0
+1646,39504,26846,0
+1647,39528,26846,0
+1648,39552,26846,0
+1649,39576,26846,0
+1650,39600,26846,0
+1651,39624,26846,0
+1652,39648,26846,0
+1653,39672,26846,0
+1654,39696,26846,0
+1655,39720,26846,0
+1656,39744,26846,0
+1657,39768,26846,0
+1658,39792,26846,0
+1659,39816,26846,0
+1660,39840,26846,0
+1661,39864,26846,0
+1662,39888,26846,0
+1663,39912,26846,0
+1664,39936,26846,0
+1665,39960,26846,0
+1666,39984,26846,0
+1667,40008,26846,0
+1668,40032,26846,0
+1669,40056,26846,0
+1670,40080,26846,0
+1671,40104,26846,0
+1672,40128,26846,0
+1673,40152,26846,0
+1674,40176,26846,0
+1675,40200,26846,0
+1676,40224,26846,0
+1677,40248,26846,0
+1678,40272,26846,0
+1679,40296,26846,0
+1680,40320,26846,0
+1681,40344,26846,0
+1682,40368,26846,0
+1683,40392,26846,0
+1684,40416,26846,0
+1685,40440,26846,0
+1686,40464,26846,0
+1687,40488,26846,0
+1688,40512,26846,0
+1689,40536,26846,0
+1690,40560,26846,1
+1691,40584,26846,0
+1692,40608,26846,0
+1693,40632,26846,0
+1694,40656,26846,0
+1695,40680,26846,0
+1696,40704,26846,0
+1697,40728,26846,0
+1698,40752,26846,0
+1699,40776,26846,0
+1700,40800,26846,0
+1701,40824,26846,0
+1702,40848,26846,0
+1703,40872,26846,0
+1704,40896,26846,0
+1705,40920,26846,0
+1706,40944,26846,0
+1707,40968,26846,0
+1708,40992,26846,0
+1709,41016,26846,0
+1710,41040,26846,0
+1711,41064,26846,0
+1712,41088,26846,0
+1713,41112,26846,0
+1714,41136,26846,0
+1715,41160,26846,0
+1716,41184,26846,0
+1717,41208,26846,0
+1718,41232,26846,0
+1719,41256,26846,0
+1720,41280,26846,0
+1721,41304,26846,0
+1722,41328,26846,0
+1723,41352,26846,0
+1724,41376,26846,0
+1725,41400,26846,0
+1726,41424,26846,0
+1727,41448,26846,0
+1728,41472,26846,0
+1729,41496,26846,0
+1730,41520,26846,0
+1731,41544,26846,0
+1732,41568,26846,0
+1733,41592,26846,0
+1734,41616,26846,0
+1735,41640,26846,0
+1736,41664,26846,0
+1737,41688,26846,0
+1738,41712,26846,0
+1739,41736,26846,0
+1740,41760,26846,0
+1741,41784,26846,0
+1742,41808,26846,0
+1743,41832,26846,0
+1744,41856,26846,0
+1745,41880,26846,0
+1746,41904,26846,0
+1747,41928,26846,0
+1748,41952,26846,0
+1749,41976,26846,0
+1750,42000,26846,0
+1751,42024,26846,0
+1752,42048,26846,0
+1753,42072,26846,0
+1754,42096,26846,0
+1755,42120,26846,0
+1756,42144,26846,0
+1757,42168,26846,0
+1758,42192,26846,0
+1759,42216,26846,0
+1760,42240,26846,0
+1761,42264,26846,0
+1762,42288,26846,0
+1763,42312,26846,0
+1764,42336,26846,0
+1765,42360,26846,0
+1766,42384,26846,0
+1767,42408,26846,0
+1768,42432,26846,0
+1769,42456,26846,0
+1770,42480,26846,0
+1771,42504,26846,0
+1772,42528,26846,0
+1773,42552,26846,0
+1774,42576,26846,0
+1775,42600,26846,0
+1776,42624,26846,0
+1777,42648,26846,0
+1778,42672,26846,0
+1779,42696,26846,0
+1780,42720,26846,0
+1781,42744,26846,0
+1782,42768,26846,0
+1783,42792,26846,0
+1784,42816,26846,0
+1785,42840,26846,0
+1786,42864,26846,0
+1787,42888,26846,0
+1788,42912,26846,0
+1789,42936,26846,0
+1790,42960,26846,0
+1791,42984,26846,0
+1792,43008,26846,0
+1793,43032,26846,0
+1794,43056,26846,0
+1795,43080,26846,0
+1796,43104,26846,0
+1797,43128,26846,0
+1798,43152,26846,0
+1799,43176,26846,0
+1800,43200,26846,0
+1801,43224,26846,0
+1802,43248,26846,0
+1803,43272,26846,0
+1804,43296,26846,0
+1805,43320,26846,0
+1806,43344,26846,0
+1807,43368,26846,0
+1808,43392,26846,0
+1809,43416,26846,0
+1810,43440,26846,0
+1811,43464,26846,0
+1812,43488,26846,0
+1813,43512,26846,0
+1814,43536,26846,0
+1815,43560,26846,0
+1816,43584,26846,0
+1817,43608,26846,0
+1818,43632,26846,0
+1819,43656,26846,0
+1820,43680,26846,0
+1821,43704,26846,0
+1822,43728,26846,0
+1823,43752,26846,0
+1824,43776,26846,0
+1825,43800,26846,0
+1826,43824,26846,0
+1827,43848,26846,0
+1828,43872,26846,0
+1829,43896,26846,0
+1830,43920,26846,0
+1831,43944,26846,0
+1832,43968,26846,0
+1833,43992,26846,0
+1834,44016,26846,0
+1835,44040,26846,0
+1836,44064,26846,0
+1837,44088,26846,0
+1838,44112,26846,0
+1839,44136,26846,0
+1840,44160,26846,0
+1841,44184,26846,0
+1842,44208,26846,0
+1843,44232,26846,0
+1844,44256,26846,0
+1845,44280,26846,0
+1846,44304,26846,0
+1847,44328,26846,0
+1848,44352,26846,0
+1849,44376,26846,0
+1850,44400,26846,0
+1851,44424,26846,0
+1852,44448,26846,0
+1853,44472,26846,0
+1854,44496,26846,0
+1855,44520,26846,0
+1856,44544,26846,0
+1857,44568,26846,0
+1858,44592,26846,0
+1859,44616,26846,0
+1860,44640,26846,0
+1861,44664,26846,0
+1862,44688,26846,0
+1863,44712,26846,0
+1864,44736,26846,0
+1865,44760,26846,0
+1866,44784,26846,0
+1867,44808,26846,0
+1868,44832,26846,0
+1869,44856,26846,0
+1870,44880,26846,0
+1871,44904,26846,0
+1872,44928,26846,0
+1873,44952,26846,0
+1874,44976,26846,0
+1875,45000,26846,0
+1876,45024,26846,0
+1877,45048,26846,0
+1878,45072,26846,0
+1879,45096,26846,0
+1880,45120,26846,0
+1881,45144,26846,0
+1882,45168,26846,0
+1883,45192,26846,0
+1884,45216,26846,0
+1885,45240,26846,0
+1886,45264,26846,0
+1887,45288,26846,0
+1888,45312,26846,0
+1889,45336,26846,0
+1890,45360,26846,0
+1891,45384,26846,0
+1892,45408,26846,0
+1893,45432,26846,0
+1894,45456,26846,0
+1895,45480,26846,1
+1896,45504,26846,0
+1897,45528,26846,0
+1898,45552,26846,0
+1899,45576,26846,0
+1900,45600,26846,0
+1901,45624,26846,0
+1902,45648,26846,0
+1903,45672,26846,0
+1904,45696,26846,0
+1905,45720,26846,0
+1906,45744,26846,0
+1907,45768,26846,0
+1908,45792,26846,0
+1909,45816,26846,0
+1910,45840,26846,0
+1911,45864,26846,0
+1912,45888,26846,0
+1913,45912,26846,0
+1914,45936,26846,0
+1915,45960,26846,0
+1916,45984,26846,0
+1917,46008,26846,0
+1918,46032,26846,0
+1919,46056,26846,0
+1920,46080,26846,0
+1921,46104,26846,0
+1922,46128,26846,0
+1923,46152,26846,0
+1924,46176,26846,0
+1925,46200,26846,0
+1926,46224,26846,0
+1927,46248,26846,0
+1928,46272,26846,0
+1929,46296,26846,0
+1930,46320,26846,0
+1931,46344,26846,0
+1932,46368,26846,0
+1933,46392,26846,0
+1934,46416,26846,0
+1935,46440,26846,0
+1936,46464,26846,0
+1937,46488,26846,0
+1938,46512,26846,0
+1939,46536,26846,0
+1940,46560,26846,0
+1941,46584,26846,0
+1942,46608,26846,0
+1943,46632,26846,0
+1944,46656,26846,0
+1945,46680,26846,0
+1946,46704,26846,0
+1947,46728,26846,0
+1948,46752,26846,0
+1949,46776,26846,0
+1950,46800,26846,0
+1951,46824,26846,0
+1952,46848,26846,0
+1953,46872,26846,0
+1954,46896,26846,0
+1955,46920,26846,0
+1956,46944,26846,0
+1957,46968,26846,0
+1958,46992,26846,0
+1959,47016,26846,0
+1960,47040,26846,0
+1961,47064,26846,0
+1962,47088,26846,0
+1963,47112,26846,0
+1964,47136,26846,0
+1965,47160,26846,0
+1966,47184,26846,0
+1967,47208,26846,0
+1968,47232,26846,0
+1969,47256,26846,0
+1970,47280,26846,0
+1971,47304,26846,0
+1972,47328,26846,0
+1973,47352,26846,0
+1974,47376,26846,0
+1975,47400,26846,0
+1976,47424,26846,0
+1977,47448,26846,0
+1978,47472,26846,0
+1979,47496,26846,0
+1980,47520,26846,0
+1981,47544,26846,0
+1982,47568,26846,0
+1983,47592,26846,0
+1984,47616,26846,0
+1985,47640,26846,0
+1986,47664,26846,0
+1987,47688,26846,0
+1988,47712,26846,0
+1989,47736,26846,0
+1990,47760,26846,0
+1991,47784,26846,0
+1992,47808,26846,0
+1993,47832,26846,0
+1994,47856,26846,0
+1995,47880,26846,0
+1996,47904,26846,0
+1997,47928,26846,0
+1998,47952,26846,0
+1999,47976,26846,0
+2000,48000,26846,0
+2001,48024,26846,0
+2002,48048,26846,0
+2003,48072,26846,0
+2004,48096,26846,0
+2005,48120,26846,0
+2006,48144,26846,0
+2007,48168,26846,0
+2008,48192,26846,0
+2009,48216,26846,0
+2010,48240,26846,0
+2011,48264,26846,0
+2012,48288,26846,0
+2013,48312,26846,0
+2014,48336,26846,0
+2015,48360,26846,0
+2016,48384,26846,0
+2017,48408,26846,0
+2018,48432,26846,0
+2019,48456,26846,0
+2020,48480,26846,0
+2021,48504,26846,0
+2022,48528,26846,0
+2023,48552,26846,0
+2024,48576,26846,0
+2025,48600,26846,0
+2026,48624,26846,0
+2027,48648,26846,0
+2028,48672,26846,0
+2029,48696,26846,0
+2030,48720,26846,0
+2031,48744,26846,0
+2032,48768,26846,0
+2033,48792,26846,0
+2034,48816,26846,0
+2035,48840,26846,0
+2036,48864,26846,0
+2037,48888,26846,0
+2038,48912,26846,0
+2039,48936,26846,0
+2040,48960,26846,0
+2041,48984,26846,1
+2042,49008,26846,1
+2043,49032,26846,0
+2044,49056,26846,1
+2045,49080,26846,0
+2046,49104,26846,0
+2047,49128,26846,0
+2048,49152,26846,0
+2049,49176,26846,0
+2050,49200,26846,0
+2051,49224,26846,0
+2052,49248,26846,0
+2053,49272,26846,0
+2054,49296,26846,0
+2055,49320,26846,0
+2056,49344,26846,0
+2057,49368,26846,0
+2058,49392,26846,0
+2059,49416,26846,0
+2060,49440,26846,0
+2061,49464,26846,0
+2062,49488,26846,0
+2063,49512,26846,0
+2064,49536,26846,0
+2065,49560,26846,0
+2066,49584,26846,0
+2067,49608,26846,0
+2068,49632,26846,1
+2069,49656,26846,0
+2070,49680,26846,0
+2071,49704,26846,0
+2072,49728,26846,0
+2073,49752,26846,0
+2074,49776,26846,0
+2075,49800,26846,0
+2076,49824,26846,0
+2077,49848,26846,0
+2078,49872,26846,0
+2079,49896,26846,0
+2080,49920,26846,0
+2081,49944,26846,0
+2082,49968,26846,0
+2083,49992,26846,0
+2084,50016,26846,0
+2085,50040,26846,0
+2086,50064,26846,0
+2087,50088,26846,0
+2088,50112,26846,0
+2089,50136,26846,0
+2090,50160,26846,0
+2091,50184,26846,0
+2092,50208,26846,0
+2093,50232,26846,0
+2094,50256,26846,0
+2095,50280,26846,0
+2096,50304,26846,0
+2097,50328,26846,0
+2098,50352,26846,0
+2099,50376,26846,0
+2100,50400,26846,0
+2101,50424,26846,0
+2102,50448,26846,0
+2103,50472,26846,0
+2104,50496,26846,0
+2105,50520,26846,0
+2106,50544,26846,0
+2107,50568,26846,0
+2108,50592,26846,0
+2109,50616,26846,0
+2110,50640,26846,0
+2111,50664,26846,0
+2112,50688,26846,0
+2113,50712,26846,0
+2114,50736,26846,0
+2115,50760,26846,0
+2116,50784,26846,0
+2117,50808,26846,0
+2118,50832,26846,0
+2119,50856,26846,0
+2120,50880,26846,0
+2121,50904,26846,0
+2122,50928,26846,0
+2123,50952,26846,0
+2124,50976,26846,0
+2125,51000,26846,0
+2126,51024,26846,0
+2127,51048,26846,0
+2128,51072,26846,0
+2129,51096,26846,0
+2130,51120,26846,0
+2131,51144,26846,0
+2132,51168,26846,0
+2133,51192,26846,0
+2134,51216,26846,0
+2135,51240,26846,0
+2136,51264,26846,0
+2137,51288,26846,0
+2138,51312,26846,0
+2139,51336,26846,0
+2140,51360,26846,0
+2141,51384,26846,0
+2142,51408,26846,0
+2143,51432,26846,0
+2144,51456,26846,0
+2145,51480,26846,0
+2146,51504,26846,0
+2147,51528,26846,0
+2148,51552,26846,0
+2149,51576,26846,0
+2150,51600,26846,0
+2151,51624,26846,0
+2152,51648,26846,0
+2153,51672,26846,0
+2154,51696,26846,0
+2155,51720,26846,0
+2156,51744,26846,0
+2157,51768,26846,0
+2158,51792,26846,0
+2159,51816,26846,0
+2160,51840,26846,0
+2161,51864,26846,0
+2162,51888,26846,0
+2163,51912,26846,0
+2164,51936,26846,0
+2165,51960,26846,0
+2166,51984,26846,0
+2167,52008,26846,0
+2168,52032,26846,0
+2169,52056,26846,0
+2170,52080,26846,0
+2171,52104,26846,0
+2172,52128,26846,0
+2173,52152,26846,0
+2174,52176,26846,0
+2175,52200,26846,0
+2176,52224,26846,0
+2177,52248,26846,0
+2178,52272,26846,0
+2179,52296,26846,0
+2180,52320,26846,0
+2181,52344,26846,0
+2182,52368,26846,0
+2183,52392,26846,0
+2184,52416,26846,0
+2185,52440,26846,0
+2186,52464,26846,0
+2187,52488,26846,0
+2188,52512,26846,0
+2189,52536,26846,0
+2190,52560,26846,0
+2191,52584,26846,0
+2192,52608,26846,0
+2193,52632,26846,0
+2194,52656,26846,0
+2195,52680,26846,0
+2196,52704,26846,0
+2197,52728,26846,0
+2198,52752,26846,0
+2199,52776,26846,0
+2200,52800,26846,0
+2201,52824,26846,0
+2202,52848,26846,0
+2203,52872,26846,0
+2204,52896,26846,0
+2205,52920,26846,0
+2206,52944,26846,0
+2207,52968,26846,0
+2208,52992,26846,0
+2209,53016,26846,0
+2210,53040,26846,0
+2211,53064,26846,0
+2212,53088,26846,0
+2213,53112,26846,0
+2214,53136,26846,0
+2215,53160,26846,0
+2216,53184,26846,0
+2217,53208,26846,0
+2218,53232,26846,0
+2219,53256,26846,0
+2220,53280,26846,0
+2221,53304,26846,0
+2222,53328,26846,0
+2223,53352,26846,0
+2224,53376,26846,0
+2225,53400,26846,0
+2226,53424,26846,0
+2227,53448,26846,0
+2228,53472,26846,0
+2229,53496,26846,0
+2230,53520,26846,0
+2231,53544,26846,0
+2232,53568,26846,0
+2233,53592,26846,0
+2234,53616,26846,0
+2235,53640,26846,0
+2236,53664,26846,0
+2237,53688,26846,0
+2238,53712,26846,0
+2239,53736,26846,1
+2240,53760,26846,0
+2241,53784,26846,0
+2242,53808,26846,0
+2243,53832,26846,0
+2244,53856,26846,0
+2245,53880,26846,0
+2246,53904,26846,0
+2247,53928,26846,0
+2248,53952,26846,0
+2249,53976,26846,0
+2250,54000,26846,0
+2251,54024,26846,0
+2252,54048,26846,0
+2253,54072,26846,0
+2254,54096,26846,0
+2255,54120,26846,0
+2256,54144,26846,0
+2257,54168,26846,0
+2258,54192,26846,0
+2259,54216,26846,0
+2260,54240,26846,0
+2261,54264,26846,0
+2262,54288,26846,1
+2263,54312,26846,0
+2264,54336,26846,0
+2265,54360,26846,0
+2266,54384,26846,0
+2267,54408,26846,0
+2268,54432,26846,0
+2269,54456,26846,0
+2270,54480,26846,0
+2271,54504,26846,0
+2272,54528,26846,0
+2273,54552,26846,0
+2274,54576,26846,0
+2275,54600,26846,0
+2276,54624,26846,0
+2277,54648,26846,0
+2278,54672,26846,0
+2279,54696,26846,0
+2280,54720,26846,0
+2281,54744,26846,0
+2282,54768,26846,0
+2283,54792,26846,0
+2284,54816,26846,0
+2285,54840,26846,0
+2286,54864,26846,0
+2287,54888,26846,0
+2288,54912,26846,0
+2289,54936,26846,0
+2290,54960,26846,0
+2291,54984,26846,0
+2292,55008,26846,0
+2293,55032,26846,0
+2294,55056,26846,0
+2295,55080,26846,0
+2296,55104,26846,0
+2297,55128,26846,0
+2298,55152,26846,0
+2299,55176,26846,0
+2300,55200,26846,0
+2301,55224,26846,0
+2302,55248,26846,0
+2303,55272,26846,0
+2304,55296,26846,0
+2305,55320,26846,0
+2306,55344,26846,0
+2307,55368,26846,0
+2308,55392,26846,0
+2309,55416,26846,0
+2310,55440,26846,0
+2311,55464,26846,0
+2312,55488,26846,0
+2313,55512,26846,0
+2314,55536,26846,0
+2315,55560,26846,0
+2316,55584,26846,0
+2317,55608,26846,0
+2318,55632,26846,0
+2319,55656,26846,0
+2320,55680,26846,0
+2321,55704,26846,0
+2322,55728,26846,0
+2323,55752,26846,0
+2324,55776,26846,0
+2325,55800,26846,0
+2326,55824,26846,0
+2327,55848,26846,0
+2328,55872,26846,0
+2329,55896,26846,0
+2330,55920,26846,0
+2331,55944,26846,0
+2332,55968,26846,0
+2333,55992,26846,0
+2334,56016,26846,0
+2335,56040,26846,0
+2336,56064,26846,0
+2337,56088,26846,0
+2338,56112,26846,0
+2339,56136,26846,0
+2340,56160,26846,0
+2341,56184,26846,0
+2342,56208,26846,0
+2343,56232,26846,0
+2344,56256,26846,0
+2345,56280,26846,0
+2346,56304,26846,0
+2347,56328,26846,0
+2348,56352,26846,0
+2349,56376,26846,0
+2350,56400,26846,0
+2351,56424,26846,0
+2352,56448,26846,0
+2353,56472,26846,0
+2354,56496,26846,0
+2355,56520,26846,0
+2356,56544,26846,0
+2357,56568,26846,0
+2358,56592,26846,0
+2359,56616,26846,0
+2360,56640,26846,0
+2361,56664,26846,0
+2362,56688,26846,0
+2363,56712,26846,0
+2364,56736,26846,0
+2365,56760,26846,0
+2366,56784,26846,0
+2367,56808,26846,0
+2368,56832,26846,0
+2369,56856,26846,0
+2370,56880,26846,0
+2371,56904,26846,0
+2372,56928,26846,0
+2373,56952,26846,0
+2374,56976,26846,0
+2375,57000,26846,0
+2376,57024,26846,0
+2377,57048,26846,0
+2378,57072,26846,0
+2379,57096,26846,0
+2380,57120,26846,0
+2381,57144,26846,0
+2382,57168,26846,0
+2383,57192,26846,0
+2384,57216,26846,0
+2385,57240,26846,0
+2386,57264,26846,0
+2387,57288,26846,0
+2388,57312,26846,0
+2389,57336,26846,0
+2390,57360,26846,0
+2391,57384,26846,0
+2392,57408,26846,0
+2393,57432,26846,0
+2394,57456,26846,0
+2395,57480,26846,0
+2396,57504,26846,0
+2397,57528,26846,0
+2398,57552,26846,0
+2399,57576,26846,0
+2400,57600,26846,0
+2401,57624,26846,0
+2402,57648,26846,0
+2403,57672,26846,0
+2404,57696,26846,0
+2405,57720,26846,0
+2406,57744,26846,0
+2407,57768,26846,0
+2408,57792,26846,0
+2409,57816,26846,0
+2410,57840,26846,0
+2411,57864,26846,0
+2412,57888,26846,0
+2413,57912,26846,0
+2414,57936,26846,0
+2415,57960,26846,0
+2416,57984,26846,0
+2417,58008,26846,0
+2418,58032,26846,0
+2419,58056,26846,0
+2420,58080,26846,0
+2421,58104,26846,0
+2422,58128,26846,0
+2423,58152,26846,0
+2424,58176,26846,0
+2425,58200,26846,0
+2426,58224,26846,0
+2427,58248,26846,0
+2428,58272,26846,0
+2429,58296,26846,0
+2430,58320,26846,0
+2431,58344,26846,0
+2432,58368,26846,0
+2433,58392,26846,0
+2434,58416,26846,0
+2435,58440,26846,0
+2436,58464,26846,0
+2437,58488,26846,0
+2438,58512,26846,0
+2439,58536,26846,0
+2440,58560,26846,0
+2441,58584,26846,0
+2442,58608,26846,0
+2443,58632,26846,0
+2444,58656,26846,0
+2445,58680,26846,0
+2446,58704,26846,0
+2447,58728,26846,0
+2448,58752,26846,0
+2449,58776,26846,0
+2450,58800,26846,0
+2451,58824,26846,0
+2452,58848,26846,0
+2453,58872,26846,0
+2454,58896,26846,0
+2455,58920,26846,0
+2456,58944,26846,0
+2457,58968,26846,0
+2458,58992,26846,0
+2459,59016,26846,0
+2460,59040,26846,0
+2461,59064,26846,0
+2462,59088,26846,0
+2463,59112,26846,0
+2464,59136,26846,0
+2465,59160,26846,0
+2466,59184,26846,0
+2467,59208,26846,0
+2468,59232,26846,0
+2469,59256,26846,0
+2470,59280,26846,0
+2471,59304,26846,0
+2472,59328,26846,0
+2473,59352,26846,0
+2474,59376,26846,0
+2475,59400,26846,0
+2476,59424,26846,0
+2477,59448,26846,0
+2478,59472,26846,0
+2479,59496,26846,0
+2480,59520,26846,0
+2481,59544,26846,0
+2482,59568,26846,0
+2483,59592,26846,0
+2484,59616,26846,0
+2485,59640,26846,0
+2486,59664,26846,0
+2487,59688,26846,0
+2488,59712,26846,0
+2489,59736,26846,0
+2490,59760,26846,0
+2491,59784,26846,0
+2492,59808,26846,0
+2493,59832,26846,0
+2494,59856,26846,0
+2495,59880,26846,0
+2496,59904,26846,0
+2497,59928,26846,0
+2498,59952,26846,0
+2499,59976,26846,0
+2500,60000,26846,0
+2501,60024,26846,0
+2502,60048,26846,0
+2503,60072,26846,0
+2504,60096,26846,0
+2505,60120,26846,0
+2506,60144,26846,0
+2507,60168,26846,0
+2508,60192,26846,0
+2509,60216,26846,0
+2510,60240,26846,0
+2511,60264,26846,0
+2512,60288,26846,0
+2513,60312,26846,0
+2514,60336,26846,0
+2515,60360,26846,0
+2516,60384,26846,0
+2517,60408,26846,0
+2518,60432,26846,0
+2519,60456,26846,0
+2520,60480,26846,0
+2521,60504,26846,0
+2522,60528,26846,0
+2523,60552,26846,0
+2524,60576,26846,0
+2525,60600,26846,0
+2526,60624,26846,0
+2527,60648,26846,0
+2528,60672,26846,0
+2529,60696,26846,0
+2530,60720,26846,1
+2531,60744,26846,1
+2532,60768,26846,0
+2533,60792,26846,0
+2534,60816,26846,0
+2535,60840,26846,0
+2536,60864,26846,0
+2537,60888,26846,0
+2538,60912,26846,0
+2539,60936,26846,0
+2540,60960,26846,0
+2541,60984,26846,0
+2542,61008,26846,0
+2543,61032,26846,0
+2544,61056,26846,0
+2545,61080,26846,0
+2546,61104,26846,0
+2547,61128,26846,0
+2548,61152,26846,0
+2549,61176,26846,0
+2550,61200,26846,0
+2551,61224,26846,0
+2552,61248,26846,0
+2553,61272,26846,0
+2554,61296,26846,0
+2555,61320,26846,0
+2556,61344,26846,0
+2557,61368,26846,0
+2558,61392,26846,0
+2559,61416,26846,0
+2560,61440,26846,0
+2561,61464,26846,0
+2562,61488,26846,0
+2563,61512,26846,0
+2564,61536,26846,0
+2565,61560,26846,0
+2566,61584,26846,0
+2567,61608,26846,0
+2568,61632,26846,0
+2569,61656,26846,0
+2570,61680,26846,0
+2571,61704,26846,0
+2572,61728,26846,0
+2573,61752,26846,0
+2574,61776,26846,0
+2575,61800,26846,0
+2576,61824,26846,0
+2577,61848,26846,0
+2578,61872,26846,0
+2579,61896,26846,1
+2580,61920,26846,0
+2581,61944,26846,1
+2582,61968,26846,0
+2583,61992,26846,1
+2584,62016,26846,1
+2585,62040,26846,0
+2586,62064,26846,0
+2587,62088,26846,0
+2588,62112,26846,0
+2589,62136,26846,1
+2590,62160,26846,0
+2591,62184,26846,1
+2592,62208,26846,0
+2593,62232,26846,0
+2594,62256,26846,0
+2595,62280,26846,0
+2596,62304,26846,0
+2597,62328,26846,0
+2598,62352,26846,0
+2599,62376,26846,0
+2600,62400,26846,0
+2601,62424,26846,1
+2602,62448,26846,0
+2603,62472,26846,0
+2604,62496,26846,0
+2605,62520,26846,0
+2606,62544,26846,0
+2607,62568,26846,0
+2608,62592,26846,0
+2609,62616,26846,0
+2610,62640,26846,0
+2611,62664,26846,0
+2612,62688,26846,0
+2613,62712,26846,0
+2614,62736,26846,0
+2615,62760,26846,0
+2616,62784,26846,0
+2617,62808,26846,0
+2618,62832,26846,0
+2619,62856,26846,0
+2620,62880,26846,0
+2621,62904,26846,0
+2622,62928,26846,0
+2623,62952,26846,0
+2624,62976,26846,0
+2625,63000,26846,0
+2626,63024,26846,0
+2627,63048,26846,0
+2628,63072,26846,0
+2629,63096,26846,0
+2630,63120,26846,0
+2631,63144,26846,0
+2632,63168,26846,0
+2633,63192,26846,0
+2634,63216,26846,0
+2635,63240,26846,0
+2636,63264,26846,0
+2637,63288,26846,0
+2638,63312,26846,0
+2639,63336,26846,0
+2640,63360,26846,0
+2641,63384,26846,0
+2642,63408,26846,0
+2643,63432,26846,0
+2644,63456,26846,0
+2645,63480,26846,0
+2646,63504,26846,0
+2647,63528,26846,0
+2648,63552,26846,0
+2649,63576,26846,0
+2650,63600,26846,0
+2651,63624,26846,0
+2652,63648,26846,0
+2653,63672,26846,0
+2654,63696,26846,0
+2655,63720,26846,0
+2656,63744,26846,0
+2657,63768,26846,0
+2658,63792,26846,0
+2659,63816,26846,0
+2660,63840,26846,0
+2661,63864,26846,0
+2662,63888,26846,0
+2663,63912,26846,0
+2664,63936,26846,0
+2665,63960,26846,0
+2666,63984,26846,0
+2667,64008,26846,0
+2668,64032,26846,0
+2669,64056,26846,0
+2670,64080,26846,0
+2671,64104,26846,0
+2672,64128,26846,0
+2673,64152,26846,0
+2674,64176,26846,0
+2675,64200,26846,0
+2676,64224,26846,0
+2677,64248,26846,0
+2678,64272,26846,0
+2679,64296,26846,0
+2680,64320,26846,0
+2681,64344,26846,0
+2682,64368,26846,0
+2683,64392,26846,0
+2684,64416,26846,0
+2685,64440,26846,0
+2686,64464,26846,0
+2687,64488,26846,0
+2688,64512,26846,0
+2689,64536,26846,0
+2690,64560,26846,0
+2691,64584,26846,0
+2692,64608,26846,0
+2693,64632,26846,0
+2694,64656,26846,0
+2695,64680,26846,0
+2696,64704,26846,0
+2697,64728,26846,0
+2698,64752,26846,0
+2699,64776,26846,1
+2700,64800,26846,0
+2701,64824,26846,0
+2702,64848,26846,0
+2703,64872,26846,0
+2704,64896,26846,0
+2705,64920,26846,0
+2706,64944,26846,0
+2707,64968,26846,0
+2708,64992,26846,0
+2709,65016,26846,0
+2710,65040,26846,0
+2711,65064,26846,0
+2712,65088,26846,0
+2713,65112,26846,0
+2714,65136,26846,0
+2715,65160,26846,0
+2716,65184,26846,0
+2717,65208,26846,0
+2718,65232,26846,0
+2719,65256,26846,0
+2720,65280,26846,0
+2721,65304,26846,0
+2722,65328,26846,0
+2723,65352,26846,0
+2724,65376,26846,0
+2725,65400,26846,0
+2726,65424,26846,1
+2727,65448,26846,1
+2728,65472,26846,0
+2729,65496,26846,1
+2730,65520,26846,1
+2731,65544,26846,0
+2732,65568,26846,0
+2733,65592,26846,0
+2734,65616,26846,0
+2735,65640,26846,0
+2736,65664,26846,0
+2737,65688,26846,0
+2738,65712,26846,1
+2739,65736,26846,0
+2740,65760,26846,0
+2741,65784,26846,0
+2742,65808,26846,0
+2743,65832,26846,0
+2744,65856,26846,0
+2745,65880,26846,0
+2746,65904,26846,0
+2747,65928,26846,0
+2748,65952,26846,0
+2749,65976,26846,0
+2750,66000,26846,0
+2751,66024,26846,0
+2752,66048,26846,0
+2753,66072,26846,0
+2754,66096,26846,0
+2755,66120,26846,0
+2756,66144,26846,0
+2757,66168,26846,0
+2758,66192,26846,0
+2759,66216,26846,0
+2760,66240,26846,0
+2761,66264,26846,0
+2762,66288,26846,0
+2763,66312,26846,0
+2764,66336,26846,0
+2765,66360,26846,0
+2766,66384,26846,0
+2767,66408,26846,1
+2768,66432,26846,0
+2769,66456,26846,0
+2770,66480,26846,0
+2771,66504,26846,0
+2772,66528,26846,0
+2773,66552,26846,0
+2774,66576,26846,0
+2775,66600,26846,0
+2776,66624,26846,0
+2777,66648,26846,0
+2778,66672,26846,0
+2779,66696,26846,0
+2780,66720,26846,0
+2781,66744,26846,0
+2782,66768,26846,0
+2783,66792,26846,0
+2784,66816,26846,0
+2785,66840,26846,0
+2786,66864,26846,0
+2787,66888,26846,0
+2788,66912,26846,0
+2789,66936,26846,0
+2790,66960,26846,0
+2791,66984,26846,0
+2792,67008,26846,0
+2793,67032,26846,0
+2794,67056,26846,0
+2795,67080,26846,0
+2796,67104,26846,0
+2797,67128,26846,0
+2798,67152,26846,0
+2799,67176,26846,0
+2800,67200,26846,0
+2801,67224,26846,0
+2802,67248,26846,0
+2803,67272,26846,0
+2804,67296,26846,0
+2805,67320,26846,0
+2806,67344,26846,0
+2807,67368,26846,0
+2808,67392,26846,0
+2809,67416,26846,0
+2810,67440,26846,0
+2811,67464,26846,0
+2812,67488,26846,0
+2813,67512,26846,0
+2814,67536,26846,0
+2815,67560,26846,0
+2816,67584,26846,0
+2817,67608,26846,0
+2818,67632,26846,0
+2819,67656,26846,0
+2820,67680,26846,0
+2821,67704,26846,0
+2822,67728,26846,0
+2823,67752,26846,0
+2824,67776,26846,0
+2825,67800,26846,0
+2826,67824,26846,0
+2827,67848,26846,0
+2828,67872,26846,0
+2829,67896,26846,0
+2830,67920,26846,0
+2831,67944,26846,0
+2832,67968,26846,0
+2833,67992,26846,0
+2834,68016,26846,0
+2835,68040,26846,0
+2836,68064,26846,0
+2837,68088,26846,0
+2838,68112,26846,0
+2839,68136,26846,0
+2840,68160,26846,0
+2841,68184,26846,0
+2842,68208,26846,0
+2843,68232,26846,0
+2844,68256,26846,0
+2845,68280,26846,0
+2846,68304,26846,0
+2847,68328,26846,0
+2848,68352,26846,0
+2849,68376,26846,0
+2850,68400,26846,0
+2851,68424,26846,0
+2852,68448,26846,0
+2853,68472,26846,0
+2854,68496,26846,0
+2855,68520,26846,0
+2856,68544,26846,0
+2857,68568,26846,0
+2858,68592,26846,0
+2859,68616,26846,0
+2860,68640,26846,0
+2861,68664,26846,0
+2862,68688,26846,0
+2863,68712,26846,0
+2864,68736,26846,0
+2865,68760,26846,0
+2866,68784,26846,0
+2867,68808,26846,0
+2868,68832,26846,0
+2869,68856,26846,0
+2870,68880,26846,0
+2871,68904,26846,0
+2872,68928,26846,0
+2873,68952,26846,0
+2874,68976,26846,0
+2875,69000,26846,0
+2876,69024,26846,0
+2877,69048,26846,0
+2878,69072,26846,0
+2879,69096,26846,0
+2880,69120,26846,0
+2881,69144,26846,0
+2882,69168,26846,0
+2883,69192,26846,0
+2884,69216,26846,0
+2885,69240,26846,0
+2886,69264,26846,0
+2887,69288,26846,0
+2888,69312,26846,0
+2889,69336,26846,0
+2890,69360,26846,0
+2891,69384,26846,0
+2892,69408,26846,0
+2893,69432,26846,0
+2894,69456,26846,0
+2895,69480,26846,0
+2896,69504,26846,0
+2897,69528,26846,0
+2898,69552,26846,0
+2899,69576,26846,0
+2900,69600,26846,0
+2901,69624,26846,0
+2902,69648,26846,0
+2903,69672,26846,0
+2904,69696,26846,0
+2905,69720,26846,0
+2906,69744,26846,0
+2907,69768,26846,0
+2908,69792,26846,0
+2909,69816,26846,0
+2910,69840,26846,0
+2911,69864,26846,0
+2912,69888,26846,0
+2913,69912,26846,0
+2914,69936,26846,0
+2915,69960,26846,0
+2916,69984,26846,0
+2917,70008,26846,0
+2918,70032,26846,0
+2919,70056,26846,0
+2920,70080,26846,0
+2921,70104,26846,0
+2922,70128,26846,0
+2923,70152,26846,0
+2924,70176,26846,0
+2925,70200,26846,0
+2926,70224,26846,0
+2927,70248,26846,0
+2928,70272,26846,0
+2929,70296,26846,0
+2930,70320,26846,0
+2931,70344,26846,0
+2932,70368,26846,0
+2933,70392,26846,0
+2934,70416,26846,0
+2935,70440,26846,0
+2936,70464,26846,0
+2937,70488,26846,0
+2938,70512,26846,0
+2939,70536,26846,0
+2940,70560,26846,0
+2941,70584,26846,0
+2942,70608,26846,0
+2943,70632,26846,0
+2944,70656,26846,0
+2945,70680,26846,0
+2946,70704,26846,0
+2947,70728,26846,0
+2948,70752,26846,0
+2949,70776,26846,0
+2950,70800,26846,0
+2951,70824,26846,0
+2952,70848,26846,0
+2953,70872,26846,0
+2954,70896,26846,0
+2955,70920,26846,0
+2956,70944,26846,0
+2957,70968,26846,0
+2958,70992,26846,0
+2959,71016,26846,0
+2960,71040,26846,0
+2961,71064,26846,0
+2962,71088,26846,0
+2963,71112,26846,0
+2964,71136,26846,0
+2965,71160,26846,0
+2966,71184,26846,0
+2967,71208,26846,0
+2968,71232,26846,0
+2969,71256,26846,0
+2970,71280,26846,0
+2971,71304,26846,0
+2972,71328,26846,0
+2973,71352,26846,0
+2974,71376,26846,0
+2975,71400,26846,0
+2976,71424,26846,0
+2977,71448,26846,0
+2978,71472,26846,0
+2979,71496,26846,0
+2980,71520,26846,0
+2981,71544,26846,0
+2982,71568,26846,0
+2983,71592,26846,0
+2984,71616,26846,0
+2985,71640,26846,0
+2986,71664,26846,0
+2987,71688,26846,0
+2988,71712,26846,0
+2989,71736,26846,0
+2990,71760,26846,0
+2991,71784,26846,0
+2992,71808,26846,0
+2993,71832,26846,0
+2994,71856,26846,0
+2995,71880,26846,0
+2996,71904,26846,0
+2997,71928,26846,0
+2998,71952,26846,0
+2999,71976,26846,0
+3000,72000,26846,0
+3001,72024,26846,0
+3002,72048,26846,0
+3003,72072,26846,0
+3004,72096,26846,0
+3005,72120,26846,0
+3006,72144,26846,0
+3007,72168,26846,0
+3008,72192,26846,0
+3009,72216,26846,0
+3010,72240,26846,0
+3011,72264,26846,0
+3012,72288,26846,0
+3013,72312,26846,0
+3014,72336,26846,0
+3015,72360,26846,0
+3016,72384,26846,0
+3017,72408,26846,0
+3018,72432,26846,0
+3019,72456,26846,0
+3020,72480,26846,0
+3021,72504,26846,0
+3022,72528,26846,0
+3023,72552,26846,0
+3024,72576,26846,0
+3025,72600,26846,0
+3026,72624,26846,0
+3027,72648,26846,0
+3028,72672,26846,0
+3029,72696,26846,0
+3030,72720,26846,0
+3031,72744,26846,0
+3032,72768,26846,0
+3033,72792,26846,0
+3034,72816,26846,0
+3035,72840,26846,0
+3036,72864,26846,0
+3037,72888,26846,0
+3038,72912,26846,0
+3039,72936,26846,0
+3040,72960,26846,0
+3041,72984,26846,0
+3042,73008,26846,0
+3043,73032,26846,0
+3044,73056,26846,0
+3045,73080,26846,0
+3046,73104,26846,0
+3047,73128,26846,0
+3048,73152,26846,0
+3049,73176,26846,0
+3050,73200,26846,0
+3051,73224,26846,0
+3052,73248,26846,0
+3053,73272,26846,0
+3054,73296,26846,0
+3055,73320,26846,0
+3056,73344,26846,0
+3057,73368,26846,0
+3058,73392,26846,0
+3059,73416,26846,0
+3060,73440,26846,0
+3061,73464,26846,0
+3062,73488,26846,0
+3063,73512,26846,0
+3064,73536,26846,0
+3065,73560,26846,0
+3066,73584,26846,0
+3067,73608,26846,0
+3068,73632,26846,0
+3069,73656,26846,0
+3070,73680,26846,0
+3071,73704,26846,0
+3072,73728,26846,0
+3073,73752,26846,0
+3074,73776,26846,0
+3075,73800,26846,0
+3076,73824,26846,0
+3077,73848,26846,0
+3078,73872,26846,0
+3079,73896,26846,0
+3080,73920,26846,0
+3081,73944,26846,0
+3082,73968,26846,0
+3083,73992,26846,0
+3084,74016,26846,0
+3085,74040,26846,0
+3086,74064,26846,0
+3087,74088,26846,0
+3088,74112,26846,0
+3089,74136,26846,0
+3090,74160,26846,0
+3091,74184,26846,0
+3092,74208,26846,0
+3093,74232,26846,0
+3094,74256,26846,0
+3095,74280,26846,0
+3096,74304,26846,0
+3097,74328,26846,0
+3098,74352,26846,0
+3099,74376,26846,0
+3100,74400,26846,0
+3101,74424,26846,0
+3102,74448,26846,0
+3103,74472,26846,0
+3104,74496,26846,0
+3105,74520,26846,0
+3106,74544,26846,0
+3107,74568,26846,0
+3108,74592,26846,0
+3109,74616,26846,0
+3110,74640,26846,0
+3111,74664,26846,0
+3112,74688,26846,1
+3113,74712,26846,0
+3114,74736,26846,0
+3115,74760,26846,0
+3116,74784,26846,0
+3117,74808,26846,0
+3118,74832,26846,0
+3119,74856,26846,0
+3120,74880,26846,0
+3121,74904,26846,0
+3122,74928,26846,0
+3123,74952,26846,0
+3124,74976,26846,0
+3125,75000,26846,0
+3126,75024,26846,0
+3127,75048,26846,0
+3128,75072,26846,0
+3129,75096,26846,0
+3130,75120,26846,0
+3131,75144,26846,0
+3132,75168,26846,0
+3133,75192,26846,0
+3134,75216,26846,0
+3135,75240,26846,0
+3136,75264,26846,0
+3137,75288,26846,0
+3138,75312,26846,0
+3139,75336,26846,0
+3140,75360,26846,0
+3141,75384,26846,0
+3142,75408,26846,0
+3143,75432,26846,0
+3144,75456,26846,0
+3145,75480,26846,0
+3146,75504,26846,0
+3147,75528,26846,0
+3148,75552,26846,0
+3149,75576,26846,0
+3150,75600,26846,0
+3151,75624,26846,0
+3152,75648,26846,0
+3153,75672,26846,0
+3154,75696,26846,0
+3155,75720,26846,0
+3156,75744,26846,0
+3157,75768,26846,0
+3158,75792,26846,0
+3159,75816,26846,0
+3160,75840,26846,0
+3161,75864,26846,0
+3162,75888,26846,0
+3163,75912,26846,0
+3164,75936,26846,0
+3165,75960,26846,0
+3166,75984,26846,0
+3167,76008,26846,0
+3168,76032,26846,0
+3169,76056,26846,0
+3170,76080,26846,0
+3171,76104,26846,0
+3172,76128,26846,0
+3173,76152,26846,0
+3174,76176,26846,0
+3175,76200,26846,0
+3176,76224,26846,0
+3177,76248,26846,0
+3178,76272,26846,0
+3179,76296,26846,0
+3180,76320,26846,0
+3181,76344,26846,0
+3182,76368,26846,0
+3183,76392,26846,0
+3184,76416,26846,0
